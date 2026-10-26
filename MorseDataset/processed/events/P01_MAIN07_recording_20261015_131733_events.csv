@@ -1,0 +1,16 @@
+capture_uid,recording_id,calibration_id,event_index,event_type,expected_label,start_us,end_us,duration_us,start_sample_index,end_sample_index,alignment_status
+recording:P01_MAIN07_recording_20261015_131733,42,1,0,pulse,dash,1349234,1765601,416367,1111,1453,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,1,gap,element_gap,1765601,1964689,199088,1454,1617,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,2,pulse,dot,1964689,2133324,168635,1618,1756,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,3,gap,element_gap,2133324,2359203,225879,1757,1942,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,4,pulse,dot,2359203,2528021,168818,1943,2081,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,5,gap,character_gap,2528021,3068206,540185,2082,2526,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,6,pulse,dot,3068206,3216241,148035,2527,2648,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,7,gap,element_gap,3216241,3524788,308547,2649,2902,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,8,pulse,dash,3524788,4071229,546441,2903,3352,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,9,gap,character_gap,4071229,5012080,940851,3353,4127,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,10,pulse,dash,5012080,5527906,515826,4128,4552,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,11,gap,character_gap,5527906,6199251,671345,4553,5105,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,12,pulse,dot,6199251,6325560,126309,5106,5209,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,13,gap,element_gap,6325560,6606126,280566,5210,5440,exact
+recording:P01_MAIN07_recording_20261015_131733,42,1,14,pulse,dash,6606126,7164507,558381,5441,5900,exact

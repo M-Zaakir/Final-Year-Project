@@ -1,0 +1,4 @@
+capture_id,description,target_text,predicted_text,diagnostic_category
+P01_MAIN08_recording_20261015_141537,Pulse-label disagreement,0,5,pulse_label
+P01_MAIN09_recording_20261015_150833,Gap-label disagreement,M,TT,gap_label
+P01_MAIN09_recording_20261015_152431,Unmatched reference pulse,D6T1Z,N6T1Z,detection

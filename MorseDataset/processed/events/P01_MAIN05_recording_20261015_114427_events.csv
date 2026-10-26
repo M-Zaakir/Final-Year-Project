@@ -1,0 +1,16 @@
+capture_uid,recording_id,calibration_id,event_index,event_type,expected_label,start_us,end_us,duration_us,start_sample_index,end_sample_index,alignment_status
+recording:P01_MAIN05_recording_20261015_114427,33,1,0,pulse,dash,2425899,2822897,396998,1998,2324,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,1,gap,element_gap,2822897,2998961,176064,2325,2469,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,2,pulse,dot,2998961,3150839,151878,2470,2594,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,3,gap,element_gap,3150839,3317321,166482,2595,2731,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,4,pulse,dot,3317321,3494370,177049,2732,2877,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,5,gap,character_gap,3494370,4262766,768396,2878,3510,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,6,pulse,dot,4262766,4396404,133638,3511,3620,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,7,gap,element_gap,4396404,4576179,179775,3621,3768,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,8,pulse,dash,4576179,5214655,638476,3769,4294,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,9,gap,character_gap,5214655,6185925,971270,4295,5094,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,10,pulse,dash,6185925,6743191,557266,5095,5553,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,11,gap,character_gap,6743191,7289564,546373,5554,6003,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,12,pulse,dot,7289564,7406043,116479,6004,6099,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,13,gap,element_gap,7406043,7581961,175918,6100,6244,exact
+recording:P01_MAIN05_recording_20261015_114427,33,1,14,pulse,dash,7581961,7931663,349702,6245,6532,exact

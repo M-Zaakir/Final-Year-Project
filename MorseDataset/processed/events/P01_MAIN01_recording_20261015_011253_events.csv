@@ -1,0 +1,12 @@
+capture_uid,recording_id,calibration_id,event_index,event_type,expected_label,start_us,end_us,duration_us,start_sample_index,end_sample_index,alignment_status
+recording:P01_MAIN01_recording_20261015_011253,1,1,0,pulse,unmatched_pulse,933156,1432103,498947,768,1178,mismatch
+recording:P01_MAIN01_recording_20261015_011253,1,1,1,gap,unmatched_gap,1432103,1950398,518295,1179,1605,mismatch
+recording:P01_MAIN01_recording_20261015_011253,1,1,2,pulse,unmatched_pulse,1950398,2827013,876615,1606,2327,mismatch
+recording:P01_MAIN01_recording_20261015_011253,1,1,3,gap,unmatched_gap,2827013,3108737,281724,2328,2559,mismatch
+recording:P01_MAIN01_recording_20261015_011253,1,1,4,pulse,unmatched_pulse,3108737,4122333,1013596,2560,3394,mismatch
+recording:P01_MAIN01_recording_20261015_011253,1,1,5,gap,unmatched_gap,4122333,4570313,447980,3395,3763,mismatch
+recording:P01_MAIN01_recording_20261015_011253,1,1,6,pulse,unmatched_pulse,4570313,5392253,821940,3764,4440,mismatch
+recording:P01_MAIN01_recording_20261015_011253,1,1,7,gap,unmatched_gap,5392253,5942311,550058,4441,4893,mismatch
+recording:P01_MAIN01_recording_20261015_011253,1,1,8,pulse,unmatched_pulse,5942311,6832353,890042,4894,5626,mismatch
+recording:P01_MAIN01_recording_20261015_011253,1,1,9,gap,unmatched_gap,6832353,7447662,615309,5627,6133,mismatch
+recording:P01_MAIN01_recording_20261015_011253,1,1,10,pulse,unmatched_pulse,7447662,8313379,865717,6134,6846,mismatch

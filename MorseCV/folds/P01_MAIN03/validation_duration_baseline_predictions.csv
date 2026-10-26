@@ -1,0 +1,72 @@
+model,capture_id,split,target_text,predicted_text,exact_message,character_edits,reference_characters,event_tp,event_fp,event_fn,intended_symbol_agreements,matched_reference_pulses,speed,strength,noise,pair_id,complete_noise_pair,decode_ms,interpretation
+duration_baseline,P01_MAIN03_recording_20261015_040145,validation,H,H,1,0,1,4,0,0,4,4,slow,low,clean,,0,0.8805030000189618,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040207,validation,CODE,CODE,1,0,4,11,0,0,11,11,slow,low,clean,,0,1.0876590000066244,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040236,validation,Q,Q,1,0,1,4,0,0,4,4,slow,low,clean,,0,1.102161000005708,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040256,validation,8,8,1,0,1,5,0,0,5,5,slow,low,clean,,0,0.7869140000025254,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040329,validation,D6T1Z,D6T1Z,1,0,5,18,0,0,18,18,slow,low,clean,,0,2.086486999985482,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040405,validation,Z,Z,1,0,1,4,0,0,4,4,slow,low,clean,,0,0.7459029999949962,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040432,validation,DATA,DATA,1,0,4,8,0,0,8,8,slow,medium,clean,,0,0.9400810000101956,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040511,validation,2H7VW,2H7?,0,2,5,21,0,0,21,21,slow,medium,clean,,0,2.18719700001202,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040554,validation,0,0,1,0,1,5,0,0,5,5,slow,medium,clean,,0,1.0499730000219643,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040616,validation,R,R,1,0,1,3,0,0,3,3,slow,medium,clean,,0,1.4189590000341923,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040633,validation,9,9,1,0,1,5,0,0,5,5,slow,medium,clean,,0,1.2918909999939387,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040652,validation,I,I,1,0,1,2,0,0,2,2,slow,medium,clean,,0,2.1529149999537367,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040719,validation,S,S,1,0,1,3,0,0,3,3,slow,high,clean,,0,0.5454470000358924,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040740,validation,A,A,1,0,1,2,0,0,2,2,slow,high,clean,,0,0.45621499998560466,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040807,validation,E0J8S,E0J8S,1,0,5,18,0,0,18,18,slow,high,clean,,0,2.1121750000361317,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040840,validation,J,J,1,0,1,4,0,0,4,4,slow,high,clean,,0,0.9266110000112349,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040901,validation,1,1,1,0,1,5,0,0,5,5,slow,high,clean,,0,0.8250099999713711,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_040938,validation,ET,ET,1,0,2,2,0,0,2,2,slow,high,clean,P01_MAIN03_MATCH_ET,1,0.533469000004061,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041147,validation,ET,ET,1,0,2,2,0,0,2,2,slow,high,table_tap,P01_MAIN03_MATCH_ET,1,0.4839459999743667,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041211,validation,SOS,?S,0,2,3,9,0,0,9,9,slow,high,clean,,0,0.8602030000020022,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041240,validation,HELLO,HE LLO,0,1,5,16,0,0,16,16,slow,high,clean,,0,1.3379200000258606,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041333,validation,T,T,1,0,1,1,0,0,1,1,normal,low,clean,,0,0.3700970000295456,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041357,validation,4U9GA,4U9GA,1,0,5,18,0,0,18,18,normal,low,clean,,0,1.268798000012339,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041427,validation,WORLD,WORLD,1,0,5,16,0,0,16,16,normal,low,clean,,0,1.367142999981752,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041450,validation,B,B,1,0,1,4,0,0,4,4,normal,low,clean,,0,0.7250030000136576,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041508,validation,2,2,1,0,1,5,0,0,5,5,normal,low,clean,,0,0.7227689999922404,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041541,validation,SOS,S?,0,2,3,9,0,0,9,9,normal,low,table_tap,P01_MAIN03_MATCH_SOS,1,1.000290000035875,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041622,validation,SOS,S?,0,2,3,9,0,0,9,9,normal,low,clean,P01_MAIN03_MATCH_SOS,1,1.5209100000106446,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041705,validation,K,K,1,0,1,3,0,0,3,3,normal,low,clean,,0,0.5324680000171611,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041735,validation,HELLO WORLD,HELLO WORLD,1,0,11,32,0,0,32,32,normal,low,clean,,0,2.534921000005852,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041827,validation,C,C,1,0,1,4,0,0,4,4,normal,medium,clean,,0,0.5658970000013142,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041917,validation,TEST,TEST,1,0,4,6,0,0,6,6,normal,medium,clean,P01_MAIN03_MATCH_TEST,1,0.6665660000066964,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_041950,validation,TEST,TEST,1,0,4,6,0,0,6,6,normal,medium,table_tap,P01_MAIN03_MATCH_TEST,1,0.7726530000127241,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042012,validation,3,SM,0,2,1,5,0,0,5,5,normal,medium,clean,,0,0.7083779999561557,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042028,validation,U,U,1,0,1,3,0,0,3,3,normal,medium,clean,,0,0.7139260000030845,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042048,validation,MORSE,MORSE,1,0,5,12,0,0,12,12,normal,medium,clean,,0,1.1264269999742282,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042120,validation,F1Y6N,F1Y6N,1,0,5,20,0,0,20,20,normal,medium,clean,,0,2.1254050000152347,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042156,validation,TEST CODE,TEST CODE,1,0,9,17,0,0,17,17,normal,medium,clean,,0,1.974320999977408,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042226,validation,L,L,1,0,1,4,0,0,4,4,normal,medium,clean,,0,0.5567239999777485,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042333,validation,V,V,1,0,1,4,0,0,4,4,normal,high,clean,,0,0.8501169999703961,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042356,validation,A7K2M,?K2M,0,2,5,17,0,0,17,17,normal,high,clean,,0,1.6605970000114212,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042424,validation,4,4,1,0,1,5,0,0,5,5,normal,high,clean,,0,0.6765809999933481,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042444,validation,SIGNAL,SIGNAL,1,0,6,16,0,0,16,16,normal,high,clean,,0,1.5414100000157305,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042507,validation,D,D,1,0,1,3,0,0,3,3,normal,high,clean,,0,1.2505109999665365,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042533,validation,8M3KD,8M3KD,1,0,5,18,0,0,18,18,normal,high,clean,,0,2.149371000029987,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042600,validation,M,M,1,0,1,2,0,0,2,2,normal,high,clean,,0,0.6296619999943687,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042635,validation,CODE,CODE,1,0,4,11,0,0,11,11,normal,high,table_tap,P01_MAIN03_MATCH_CODE,1,1.7802840000058495,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042708,validation,CODE,CODE,1,0,4,11,0,0,11,11,normal,high,clean,P01_MAIN03_MATCH_CODE,1,1.3734020000129021,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042804,validation,Q2B7R,IA2BENIR,0,5,5,21,0,0,18,21,fast,low,clean,,0,1.6485799999941264,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042833,validation,E,E,1,0,1,1,0,0,1,1,fast,low,clean,,0,0.5769940000277529,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042853,validation,SENSOR,S EN SOR,0,2,6,15,0,0,15,15,fast,low,clean,,0,1.447491999954309,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_042930,validation,A1B2,M 1B2,0,2,4,16,0,0,15,16,fast,low,clean,P01_MAIN03_MATCH_A1B2,0,1.2658229999829018,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043116,validation,W,W,1,0,1,3,0,0,3,3,fast,low,clean,,0,0.4687030000241066,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043137,validation,5,5,1,0,1,5,0,0,5,5,fast,low,clean,,0,0.5753009999693859,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043213,validation,N,N,1,0,1,2,0,0,2,2,fast,low,clean,,0,0.5677600000240091,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043239,validation,3N8QF,3N8QTG,0,2,5,20,0,0,18,20,fast,low,clean,,0,1.4365559999873767,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043335,validation,O,S,0,1,1,3,0,0,0,3,fast,medium,clean,,0,0.4862889999799336,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043402,validation,5Z0TC,BE Z0TC,0,3,5,19,0,0,18,19,fast,medium,clean,,0,1.7897380000135854,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043438,validation,F,F,1,0,1,4,0,0,4,4,fast,medium,clean,,0,0.5818409999847063,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043508,validation,RULER,RULER,1,0,5,14,0,0,14,14,fast,medium,clean,,0,1.2111220000292633,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043541,validation,6,BE,0,2,1,5,0,0,5,5,fast,medium,clean,,0,0.7534549999945739,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043624,validation,B5R0X,B5R0X,1,0,5,21,0,0,21,21,fast,medium,clean,,0,1.4985779999960869,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043650,validation,X,X,1,0,1,4,0,0,4,4,fast,medium,clean,,0,0.6953189999876486,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043725,validation,7K3M,MS?M,0,3,4,15,0,0,15,15,fast,medium,table_tap,P01_MAIN03_MATCH_7K3M,1,1.4292540000155896,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043802,validation,7K3M,7K3M,1,0,4,15,0,0,15,15,fast,medium,clean,P01_MAIN03_MATCH_7K3M,1,1.1220999999750347,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043834,validation,Y,Y,1,0,1,4,0,0,4,4,fast,high,clean,,0,0.5647250000038184,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043854,validation,7,7,1,0,1,5,0,0,5,5,fast,high,clean,,0,0.5293529999903512,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043910,validation,TEST,TEST,1,0,4,6,0,0,6,6,fast,high,clean,,0,0.5871289999959117,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_043927,validation,P,P,1,0,1,4,0,0,4,4,fast,high,clean,,0,0.5751300000156334,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_044012,validation,9C4LP,9C4LP,1,0,5,22,0,0,22,22,fast,high,clean,,0,1.505959000041912,intended_text_recovery_not_verified_transcription_accuracy
+duration_baseline,P01_MAIN03_recording_20261015_044040,validation,G,G,1,0,1,3,0,0,3,3,fast,high,clean,,0,0.4743819999930565,intended_text_recovery_not_verified_transcription_accuracy

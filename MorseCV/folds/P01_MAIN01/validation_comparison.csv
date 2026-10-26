@@ -1,0 +1,5 @@
+recordings,exact_messages,exact_message_accuracy,character_error_rate,character_edits,reference_characters,pulse_precision,pulse_recall,pulse_f1,event_tp,event_fp,event_fn,median_decode_ms,model,split,intended_symbol_agreement
+68,47,0.6911764705882353,0.23626373626373626,43,182,1.0,1.0,1.0,583,0,0,0.7889419999855818,duration_baseline,validation,0.9331046312178388
+68,52,0.7647058823529411,0.17582417582417584,32,182,1.0,1.0,1.0,583,0,0,2.224966499994707,logistic_regression,validation,0.9605488850771869
+68,48,0.7058823529411765,0.23076923076923078,42,182,1.0,1.0,1.0,583,0,0,2.1209485000213135,rbf_svm,validation,0.9399656946826758
+68,51,0.75,0.1978021978021978,36,182,1.0,1.0,1.0,583,0,0,15.834343499989245,random_forest,validation,0.9416809605488851

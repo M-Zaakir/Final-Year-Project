@@ -1,0 +1,48 @@
+{
+  "participant_id": "P01",
+  "session_id": "P01_MAIN09",
+  "session_started_utc": "2026-10-15T12:49:35+00:00",
+  "surface_material": "stainless_steel_ruler",
+  "surface_dimensions_mm": "600x30x1.2",
+  "clamped_length_mm": 250,
+  "free_length_mm": 350,
+  "actuator_position_from_table_edge_mm": 320,
+  "sensor_position_from_table_edge_mm": 50,
+  "sensor_orientation": "acceleration X along ruler, Y across ruler, Z normal to ruler",
+  "mounting_method": "Pratley Quickset Clear epoxy for components; IMU board hangs off the edge of the ruler but the chip is above the ruler; tape securing the ruler to the desk.",
+  "location": "home",
+  "operator_notes": "main dataset collection",
+  "nominal_sample_rate_hz": 833,
+  "firmware_packet_version": 3,
+  "environment_notes": "rig undisturbed",
+  "requested_duration_s": 5,
+  "firmware_command": "c",
+  "last_timestamp_us": 4999565,
+  "capture_kind": "calibration",
+  "started_utc": "2026-10-15T12:51:51+00:00",
+  "finished_utc": "2026-10-15T12:51:57+00:00",
+  "close_reason": "calibration_complete_or_stream_stopped",
+  "csv_file": "P01_MAIN09_calibration_20261015_145151.csv",
+  "packet_version": 3,
+  "packet_size_bytes": 42,
+  "packet_count": 4118,
+  "first_sample_index": 0,
+  "last_sample_index": 4117,
+  "missing_samples": 0,
+  "duplicate_or_out_of_order": 0,
+  "unexpected_state_packets": 0,
+  "calibration_ids_seen": [
+    1
+  ],
+  "recording_ids_seen": [
+    0
+  ],
+  "motor_commands_seen": [
+    0
+  ],
+  "key_pressed_samples": 0,
+  "duration_us": 4999565,
+  "parser_crc_errors_total": 0,
+  "parser_version_errors_total": 0,
+  "parser_discarded_bytes_total": 40
+}

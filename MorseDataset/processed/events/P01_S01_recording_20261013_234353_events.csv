@@ -1,0 +1,4 @@
+capture_uid,recording_id,calibration_id,event_index,event_type,expected_label,start_us,end_us,duration_us,start_sample_index,end_sample_index,alignment_status
+recording:P01_S01_recording_20261013_234353,1,1,0,pulse,unmatched_pulse,3243567,3450476,206909,3866,4112,mismatch
+recording:P01_S01_recording_20261013_234353,1,1,1,gap,unmatched_gap,3450476,7801061,4350585,4113,9298,mismatch
+recording:P01_S01_recording_20261013_234353,1,1,2,pulse,unmatched_pulse,7801061,8085095,284034,9299,9637,mismatch

@@ -1,0 +1,20 @@
+{
+  "README_ERRORS.md": "4f05b64d0c0a28033a004b228433561dd6e1349902a6cd649169babb77db0329",
+  "error_analysis.py": "ef9b8d3fc7327d8e70b231ba11708aa45cd7ee60fecbb974b480a952863ec8b7",
+  "test_error_analysis.py": "cab77412d4c00ba24251dfa9a149b4394dc2e4b960d69cfc4c5adfd24944cca1",
+  "RESULTS_AND_DISCUSSION_DRAFT.md": "f9562574e13f24a3f246c7ada3746447d3b47549e72b82fbcc78c814071359a4",
+  "MorseErrors/paired_noise_summary.csv": "0998dc938076f3b84ec75f2ab0a47c03a78e1452ebb36b2821cc6148e9efd857",
+  "MorseErrors/pulse_diagnostics.csv": "86d1fa22865c0aad07eeac69bcb5e43e8d9d9eb810bf89fb9ac4efb948b0fa5a",
+  "MorseErrors/verification.json": "96fe1d5887ed49258411ff14054d422c1161a1f43045ea3ca454a1e884fbd9d9",
+  "MorseErrors/failure_categories.csv": "140bfbc763551f67a3e081a1ad94f74a27bc661d68b7a56d4b30810a3ab8b36b",
+  "MorseErrors/analysis_provenance.json": "76568b4f0fd07515c374a3d4f54fd990470c84bdef92a08d3e5adef751f4a3a2",
+  "MorseErrors/svm_feature_comparison.csv": "f7722d1ad9cf3b428718e37b1e63be260b4fbd87f19e937a4da68dbec4ced455",
+  "MorseErrors/message_diagnostics.csv": "6b62bba565e4c8564c7e6cd0e041a0d79aaf0bd3235713cce015aaaba13073c8",
+  "MorseErrors/failed_messages.csv": "d801d1fc37eb57e6747af7af49139ee59c8254a1a9c9f709323c3c1758f47eb3",
+  "MorseErrors/event_confusion.csv": "9bdecfefd37cde5c27a6ef1db4a5784aefd4c0d8f08680caa91ebf177186e99f",
+  "MorseErrors/gap_diagnostics.csv": "6c22e04a551ddab17781852abb5d8e507988f8b3109486c481ac65693d7c1d18",
+  "MorseErrors/representative_signals.png": "6b750f0431f6bd4c35e0588f29de2c3473676c2a073859ce6bf08828465ea5b9",
+  "MorseErrors/representative_cases.csv": "89289fb7e638eb314a664864f832e8164c8fbb2b288a50012e52b28a5e765dc3",
+  "MorseErrors/failure_flags.png": "84f2c2d1f70f1e272facefda8aa69509a278db65d30cd13b485932259857fbe6",
+  "MorseErrors/error_summary.csv": "07c0b39ae4305f2d878092ec2cfe172bb8472e642d67cfdfc296a03d11d893e9"
+}

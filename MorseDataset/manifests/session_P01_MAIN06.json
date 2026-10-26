@@ -1,0 +1,17 @@
+{
+  "participant_id": "P01",
+  "session_id": "P01_MAIN06",
+  "session_started_utc": "2026-10-15T10:10:40+00:00",
+  "surface_material": "stainless_steel_ruler",
+  "surface_dimensions_mm": "600x30x1.2",
+  "clamped_length_mm": 250,
+  "free_length_mm": 350,
+  "actuator_position_from_table_edge_mm": 320,
+  "sensor_position_from_table_edge_mm": 50,
+  "sensor_orientation": "acceleration X along ruler, Y across ruler, Z normal to ruler",
+  "mounting_method": "Pratley Quickset Clear epoxy for components; IMU board hangs off the edge of the ruler but the chip is above the ruler; tape securing the ruler to the desk.",
+  "location": "home",
+  "operator_notes": "main dataset collection session 6",
+  "nominal_sample_rate_hz": 833,
+  "firmware_packet_version": 3
+}

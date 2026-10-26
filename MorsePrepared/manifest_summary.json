@@ -1,0 +1,26 @@
+{
+  "total_main_attempts": 675,
+  "included": 638,
+  "excluded": 37,
+  "split_counts": {
+    "train": 423,
+    "validation": 71,
+    "test": 144
+  },
+  "session_counts": {
+    "P01_MAIN01": 68,
+    "P01_MAIN02": 71,
+    "P01_MAIN03": 71,
+    "P01_MAIN04": 71,
+    "P01_MAIN05": 72,
+    "P01_MAIN06": 70,
+    "P01_MAIN07": 71,
+    "P01_MAIN08": 72,
+    "P01_MAIN09": 72
+  },
+  "complete_noise_pairs": 51,
+  "omitted_slots": 10,
+  "label_limitation": "Pulse count is not proof of correct dots/dashes or character/word gaps.",
+  "unresolved_geometry": "MAIN01B excluded conservatively: recorded 350 mm, established rig 320 mm. No silent correction.",
+  "raw_files_changed": false
+}

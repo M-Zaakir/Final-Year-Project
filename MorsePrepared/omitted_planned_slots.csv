@@ -1,0 +1,11 @@
+group_session,target_text,speed,strength,noise,condition_id,action
+P01_MAIN01,1,slow,low,clean,C0,omitted_under_authorised_no_replacement_policy
+P01_MAIN01,SIGNAL,normal,low,clean,C3,omitted_under_authorised_no_replacement_policy
+P01_MAIN01,HELLO WORLD,slow,medium,clean,C1,omitted_under_authorised_no_replacement_policy
+P01_MAIN01,5Z0TC,normal,high,clean,C5,omitted_under_authorised_no_replacement_policy
+P01_MAIN02,ET,slow,medium,table_tap,C1,omitted_under_authorised_no_replacement_policy
+P01_MAIN03,A1B2,fast,low,table_tap,C6,omitted_under_authorised_no_replacement_policy
+P01_MAIN04,7K3M,fast,high,clean,C8,omitted_under_authorised_no_replacement_policy
+P01_MAIN06,5,slow,low,clean,C0,omitted_under_authorised_no_replacement_policy
+P01_MAIN06,RULER,slow,medium,clean,C1,omitted_under_authorised_no_replacement_policy
+P01_MAIN07,J,fast,low,clean,C6,omitted_under_authorised_no_replacement_policy

@@ -1,0 +1,16 @@
+{
+  "code_sha256": "ef9b8d3fc7327d8e70b231ba11708aa45cd7ee60fecbb974b480a952863ec8b7",
+  "input_protocol_sha256": "abc31dd8e9a91d8acaeef6436dd539aaa111d00587e0b34ddf59b87ee5fc5422",
+  "input_result_hashes": {
+    "test_breakdown.csv": "70e2c54be2df7caad8aea19b18276513c745f9f4ae1e69071a18b6e875717cb9",
+    "test_predictions.csv": "58d64501731e75ee3ea9f070bb2e4975c8e9f38638984ec62c5fd37b76af1816",
+    "test_events.csv": "ee71b677a6a30022212c1a3e2a01975551be7cb93c26e6d95770d010fed4eb27",
+    "test_comparison.csv": "2be3574741eaa6ea7d9b11eef5311840cc2681d6e80bd0b8f90697e0fe7e7dcc",
+    "test_paired_noise.csv": "17aa9da79d72a050ed0317d2699a7d533276388017d9f079574dddcd4d658754"
+  },
+  "scope": "Post-test diagnostic analysis only. No refitting, retuning, relabelling or exclusions.",
+  "event_label_caveat": "Mismatches are against intended/count-aligned references; they do not independently establish transmitted Morse or operator versus decoder fault.",
+  "gap_alignment": "Only gaps between consecutive matched reference pulses are compared. Other detected gaps remain unscored.",
+  "error_categories": "Detection/pulse/gap mismatch flags may co-occur. Disjoint combinations are saved separately.",
+  "edit_alignment": "Minimum Levenshtein alignment; ties prefer diagonal then deletion then insertion. Edit-operation counts are not causal attribution."
+}

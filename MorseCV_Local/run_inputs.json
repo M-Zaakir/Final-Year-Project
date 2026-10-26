@@ -1,0 +1,2130 @@
+{
+  "fingerprint": "e216bc80ad013f163cb088b61096532444df053245de2323b580eac1f1bd8688",
+  "manifest_sha256": "475a86a2482fc7eb842e19193367aadfea602a80b47fd6930565c5f2218ec3d3",
+  "preprocessing_sha256": "ceca742be4de7ee5dc99a6db6d31bbf047a06f9c819aab473ae215e233fcf042",
+  "runner_sha256": "726350442debab929022231488f8b4995200a7a11e1e6bce833acb6185d2af3b",
+  "baseline_code_sha256": "dea7cfa1e0533422b1336f9877da265507ae712d393e86004dc937e65b05a7b1",
+  "ml_code_sha256": "a788af705719364f42db3373a47e08ee6f23474e00c67ab2a238ad0d7fa66f9c",
+  "numpy": "2.5.4",
+  "sklearn": "1.9.1",
+  "joblib": "1.6.0",
+  "scipy": "1.18.1",
+  "python": "3.12.4 | packaged by Anaconda, Inc. | (main, Jun 18 2024, 15:03:56) [MSC v.1929 64 bit (AMD64)]",
+  "training_input_hashes": [
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_011345",
+      "npz_sha256": "182ca9ce96e7d5b2928c9b957634633b0b4f902d82a761e6663a48241a62e8d2",
+      "reference_sha256": "2b7c0e2f0c5a9d528e3203f089d01aeabf7bda8fe5d89da91bfcb5bc50e0dcdc"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_011529",
+      "npz_sha256": "8436edd2f971c21912296f44c213c0ca29519fd794742015f3580a6a29d9505b",
+      "reference_sha256": "d7bd59402c7258cc565b2b3f81366de44a5067536cf9578de027c88f64de21cc"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_011856",
+      "npz_sha256": "cb27fc5568836b76e2ba3ee9a429ab9fd6dbd29c3d3df34ae018cb865a8f57f4",
+      "reference_sha256": "c784d9ad489e5c076588ca75c86de43ffcd51f2f01e2c049055b5fd8e779b587"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_011926",
+      "npz_sha256": "c1c90af310974040083364ed39a2898823961fcd16bfe91ec58472358e46c4ca",
+      "reference_sha256": "c9bfdb84d4e2cd72296b7394ff049f9accf9201f672c6de00110921465129ea4"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_011953",
+      "npz_sha256": "b763044563ed155a2f45a93d089cd3133521ecb26d9d92a6382eaa3a29b039fa",
+      "reference_sha256": "fe197ea02098bde929878b032a3f0fc408bdf6e5e7b3152a4bc222d9280494cf"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_012046",
+      "npz_sha256": "b918471a6a118b1da4928f96b12d2dc3c500fefb89c170819ecc858e5d9b3f21",
+      "reference_sha256": "187de060230bc30a19209a92652ef33f14cf195fa7d3146aa5c0aaf7764daaa6"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_012154",
+      "npz_sha256": "1f8c83dfb3a48b3388251cbd38fb1164f416d5049c73c2afa99172028ead4c81",
+      "reference_sha256": "6975d6e79367b96a7afbb7da3115cb2d9e9b4d8deb77636da39d0ede3db58be5"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_012252",
+      "npz_sha256": "8f231f5f8a0f44dbfe68f7ab2aeeffea81765f833a76cce617334eb413bcceef",
+      "reference_sha256": "adfd25171af9b063a3e38966ebe7700b86557bdc2f2e4c041770a43e7aff62a7"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_012640",
+      "npz_sha256": "fca9d4626f7dde803a1f40c50ad87b111fbeef62ec4bad78cdb9f4a6460fe325",
+      "reference_sha256": "0f37800bf694813a72c7fd8e1e43a24610de37a1137727da0f5d4d97b56ec7b6"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_012701",
+      "npz_sha256": "9ab8a66af685c76c0639f5518a9d55ad1284e3b6ffd89596475a62f265a65274",
+      "reference_sha256": "b9c60d96c2783cdec7d5d3d751e804eb85bbce1cfb8f0490691ae1faf2f17c74"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_012756",
+      "npz_sha256": "24d04277516bff144209f8e23552949f209629680898df580b220533da849ed1",
+      "reference_sha256": "31c7fd746da009a9bc2b79f463ab64cd2a8150f944ffda809aa975c6d7dc210c"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013104",
+      "npz_sha256": "9d3fb3348ce3ee488672f739764398789bc26da02a1537b8029c5d6f059a4385",
+      "reference_sha256": "f3f53f42ffb13c8430f6ce9d36bb4a105ad8e750f15b1aa59242a53ddd0dc18b"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013148",
+      "npz_sha256": "cbf9d1a12be253f368b616424286fb4c6c96d1167bcd4ff14f3f91889a533b4f",
+      "reference_sha256": "40fc7f0d5adabd0d4174d96ee275249d0623e2bc832f83bcd26e20056986edd7"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013220",
+      "npz_sha256": "94d375d34a7b390e8307380bc527a23f0805d87b0a176d897957ab7e09662cc4",
+      "reference_sha256": "ade3e71a9aa623c41401024ea70d1baaf50cde693545e16bd39fb8c368b99cd9"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013239",
+      "npz_sha256": "b7f0bdfed063e0b479aca31cdcfe5168cd75f78c7d7746af39bb01ee35072892",
+      "reference_sha256": "6d50b76ed8ba75907650f759be043fd27753837769eb705217353568a8c8d3ad"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013304",
+      "npz_sha256": "a68a95d37e1e7b1a594e19f4d6367ed1eacae6ca8b36f538adbc2ca23bd41b0a",
+      "reference_sha256": "b803b91d6dce9b179bb345acd979d8d80ed7252253a24cc0ddb0254a37dffffc"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013416",
+      "npz_sha256": "533989475cb617d01c5ac8c7bc3ff4c2c1382828e97f558f22901a8346b7a014",
+      "reference_sha256": "80de8c208fe115f81da6484488a0e75461c991b78ba994576ee40c6788723a2e"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013503",
+      "npz_sha256": "f5665ffdf3ebf1ca8470fa568bc1f722fc12f2693adb2aa541111b596edb8aba",
+      "reference_sha256": "6aba4955beee17cb4370d1689af40cbfdfbac15163eb49e52f735315ba5cd4ef"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013544",
+      "npz_sha256": "b26fee14491df8d1cbc33b9beea6f46656b4de43ec9af06acde53c2dc5a83cb3",
+      "reference_sha256": "df717c92ce30e589df429b90154e048b2ccc02eb51234638394e13bfea7bbee0"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013605",
+      "npz_sha256": "b28d9f17de218be211288222c3cad2a2f8a1aacb6ccca8b578dab43944f42c4b",
+      "reference_sha256": "df422bfac3e0e2cf3c570bb5fab6c1742e7235bd0ab7c34beab267caafbd1ae2"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013637",
+      "npz_sha256": "1e6af99652fe4c79dc194373ca583098e24857ac92fae9cb6e1be3d593faf344",
+      "reference_sha256": "f521b5cb0a6a2ce57102680b78ed1be2c27910f0122448081e7ce0b1bd7ba1ea"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013721",
+      "npz_sha256": "0eadb07469e6e26e5ba9554497e6e3e4fdfc87af746f0168c9c84f5715377c61",
+      "reference_sha256": "5a5843903b1d50b50794df54ea88e59c785a789e35d4feb9dc6a8a87a20d1b6b"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013741",
+      "npz_sha256": "1ab094706ffa5400154da95e8ed615843f3fe2a6f527ad8d0a4ea6270e5a0a10",
+      "reference_sha256": "b5e8d1557db6ff99ce570c2edfff3752976d75c07d8aa398bb6d542b3aee3fcb"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013838",
+      "npz_sha256": "4f753bd6e786b49bec567a00877f0e91a6c90a5c7c44a524a9c3f6f2d93a4bd9",
+      "reference_sha256": "9abbc7a8c9b0fd1d670333769767d82fe6967728eb5542361cf0c8e098ba9c20"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_013951",
+      "npz_sha256": "9d4bfe011f2e4130b9de0efe77356eccf6f0b498f15c281dd667f5d353a1c048",
+      "reference_sha256": "3b43d1e48bd7e60a8c36474b55a497cffba7d3d8fec3374e900971dac1fb0b5d"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014126",
+      "npz_sha256": "aa21322f29ed0596d55adc44580a6ee4117be40135417d0faea17d53e2ddbb18",
+      "reference_sha256": "4510b39db5aaca7b10edaf321178c57dc5aa6342ea841d3326f9aa65adf55bc8"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014146",
+      "npz_sha256": "829254a2a1455af6cab0298e84209c03ce635fe813430d841db81b8819941edf",
+      "reference_sha256": "ff53efbd25ae5689036d93a5a209648478f3bff1ed74d37073ccf72ba5a00365"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014203",
+      "npz_sha256": "828909d0e1504c908e79221bc3563af8cb68ff099cbeba5083096caaba05ad1b",
+      "reference_sha256": "0dd35ab915a6d501c21cf11b86a63e4f27a1865fe2cf671b319dc081984bb1bb"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014237",
+      "npz_sha256": "040bfb4aecacf70c5540d04734ffb38b7dd35c22067a3d4e7ff7124737af20d3",
+      "reference_sha256": "4270b07d485ed77153d3f6d80587a95a59a4f8497222e03f866a9ed664bf5d89"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014322",
+      "npz_sha256": "22434b9c2669732d82e9cbcdc506a5683b4c2723b7f9c4395f4225a86a16eac2",
+      "reference_sha256": "a4dcde3ef4d2ee83651a328efaf1fb23242f3b41e97d8b399b7d78115e40fe5b"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014355",
+      "npz_sha256": "4abb7e2829f6c865d2716177528caeb302ca213846841a8977032dec417fe4bb",
+      "reference_sha256": "28ddcf5b1a869b0e3c3051474b9e494ccbae37a29bf2c5ce9c2c54f2e93cf6dd"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014654",
+      "npz_sha256": "50583a1a9067347e0733852bbe929e3eb68119a0c9ed76130a438f37030baf82",
+      "reference_sha256": "fbd298019e5bbec333ad02ebee7eea777ad4d8a9f84510530c14eddff7cbc25c"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014739",
+      "npz_sha256": "051cd8248256c47d0d845f42edf09b7e60dde237000756fb83fb9a1051406ad0",
+      "reference_sha256": "30fa4a17618d31c329381ec940ff62177d500541f0212774d294ab81eeaf3580"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014836",
+      "npz_sha256": "27f2d3d397ca3d944bda252a064add281c030f5f8d07c1ba5daf62283b48da2a",
+      "reference_sha256": "6e20830219cedd6cba56c835a16f41f550d5c22242bee8aedfd49b267b6b4d9a"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014906",
+      "npz_sha256": "2bb474a0247fb095ff55ac90e0651d9d4c04e0d25e70f8170135aedaf1c761cb",
+      "reference_sha256": "e5d0328f2d72ee7d1832ebbd88abac7793c7d40428d3a84247e9ddadc5297892"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014924",
+      "npz_sha256": "015cbb65c5961426aacde1347bc6736beee2cffa9b916875e059f1763db15a24",
+      "reference_sha256": "edec5b29575aa24d679fb3d6610ff4e434fe8aeaa424bdf05ddd4db1a7b7b0ac"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_014943",
+      "npz_sha256": "7e916b013c6eb4f887ab27d72f884c691078b5c5c305e2a6885042cd162ae9a7",
+      "reference_sha256": "1621df6ba1fbf2ea28323804ff801db268375612d972412e5f4100f52c1987be"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_015115",
+      "npz_sha256": "ef96e7598ac7ab479296b29ae154236a88288cacd12582d4005c365f8d5da237",
+      "reference_sha256": "35e2b9945cefe30b0901e6cf7f3408b74f9239c04e1a11b6c04016f7351846a5"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_015138",
+      "npz_sha256": "9613b932328d65b5b87b436aec1feadafb1a5d841df7f0314b5b4b6db85bbc13",
+      "reference_sha256": "2ed87be4eb33245c3c91778d56f18961fb84fa9ad2d803784fec9b87997b92ac"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_015216",
+      "npz_sha256": "5fe7e4c945ab238a5e8ae8b1b6c66b1db2f1fc2887b3153ef648ea56c0db124c",
+      "reference_sha256": "aff8ea6de8f9a94e20e684b94e85cf1db890eca97d92c6fcd08f4142abe840b8"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_015307",
+      "npz_sha256": "5deb899166b6b1416a1d375b8a8563574eb9b2dcf151487f9531934f34869cc3",
+      "reference_sha256": "c69feb4e4ebf378975dd2e3c259f38277a5dcde5c431e6ce1e4f747fd9e4a755"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_015453",
+      "npz_sha256": "24c9ee32bd0a582070bcb042b5caab5e4c6d7bf6062eb287c499e6da8a9bd0cf",
+      "reference_sha256": "b67d7f9cfe8361c1e54976015e3836f7900dd8ef44f5ebeebcc06089549704b3"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_015535",
+      "npz_sha256": "2476c08cb5a3f6454e780c66c7739f1082c86d4c19d9cb8a305116d4b78aab95",
+      "reference_sha256": "f789a896ba5a9b9b1a54437cb7b452dc498ab345e1b76fd29356ea9fa603ad8c"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_015628",
+      "npz_sha256": "130977c2ea0c1533337df1e771afced4781244403d750150b67c94322ea17e9c",
+      "reference_sha256": "d797d7028f3dc10a027ca9c39e8d1b8c81ebe393fb1c249e85add5b50e48b937"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_015710",
+      "npz_sha256": "28a2a1126cb773ca87f3087046ce1a2be8c0de3ae8abe9294fc324ca544daa71",
+      "reference_sha256": "92963b91c4350e06d99f1b7e0c9d8cf248e44b982f9ba071caac84c3255acf24"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_015753",
+      "npz_sha256": "3c4bd4abdb1531b6c3c63342a9e105c88ee0f4d5d69c55df252f64ea00252c3e",
+      "reference_sha256": "a15d9c449b753f85a7612a751af85275f91a373a5d890a42f83baa2c1ff8d834"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_015928",
+      "npz_sha256": "5ecbd7fd92fed5e48b427bea1d5e0d58d0a50c45d28600c9d7be5798fca76b2b",
+      "reference_sha256": "d7a2d166f3d1b6033534d581b7e0acaf9aaef1b29df69d662529602c5ab650c4"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020003",
+      "npz_sha256": "d60d2a015727367281a8033f2cf52c1d197f878fdbc220966ebc7a750c13dbf6",
+      "reference_sha256": "c81043d77a725910537acfcc2458196911b0e35a2bd325c2baa7a0f6c8c37a70"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020040",
+      "npz_sha256": "9b685d5c90e242d28618c128bc3e6ffe415b2059f70ffba8c9e26977b097f4bf",
+      "reference_sha256": "9565f125c9d28774716be12c3077e6f62098b4bfeba9ae7c80a6f5753e9a3940"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020116",
+      "npz_sha256": "5b23351494f4955fbafe19f232faed0ec587d60d96e15e67db444c19c996bc49",
+      "reference_sha256": "1e2aa4fc80ba32d33a1d5efb82ff457c13c787ee90671bb8880a0308c1ad171b"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020203",
+      "npz_sha256": "a3e2bffa0b9c88119a3d7def6360a7df044e4b5b78f0985f0ddcdf8e16f74469",
+      "reference_sha256": "5ce1a7913e4a835a551e0b6a8736a5a1665194cae80df5c81a3a925a343642c9"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020219",
+      "npz_sha256": "8b8b72a65ead841eca5401394470d490511b9b3ed6a6fd227b45819e7fdd45df",
+      "reference_sha256": "a4ba459f8e372766982a784f64a0ec23ef81194750cf88266755fa70225dbda1"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020237",
+      "npz_sha256": "ba4a272421664a0021c54373df4a7f427d738968306548518a00f2e67ac596c8",
+      "reference_sha256": "0b1073a23e4cfb7fe1394028b4a1074a1a25cfcaafd2dfaebba2fcba9a2ee161"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020405",
+      "npz_sha256": "cbfe1cb77cfb025e02fbc539aec9732ada63df431ec952fbbfa440080b9dd0f8",
+      "reference_sha256": "d2642f9f1550e4dce65ae84cf981e7012215e295e3ad9f772a9b5b593e72a7d0"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020436",
+      "npz_sha256": "6977bfdf4c9ea703acec1121b98523655dc55f3e0fd268e94b026101fa7a658a",
+      "reference_sha256": "bdab683e0723e61e02d88edfb1d7b27fe1767297268a3dde7123cde232049504"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020455",
+      "npz_sha256": "140de41a7ce6e8b03543665d01a1685c78714cc099b9dcaa33b122c188ba4108",
+      "reference_sha256": "88f14a726bb0c0019a2f1480287638cec844576cf94c0b8f347c84b37db95961"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020625",
+      "npz_sha256": "b357ef546cb524dd3fc71e516e8ae3c3b48ec12f953cf00c8ee9af47a50e3351",
+      "reference_sha256": "3b015dca4a3fe22dfca09ef26ef152a8df3b8872066b2e61556f3e728a773a99"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020652",
+      "npz_sha256": "0b1e494aca4c7b926e8d8bdb00053b1ee20945adaec278a16cfa0b751346c5cd",
+      "reference_sha256": "43ae96cee8923553590fc1bdb1753966424c8c20e0b17c8bbb23bcdb827df69f"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020715",
+      "npz_sha256": "6a1882acbd917a14d7c93d7e98cc6286da07b8d90f004d05cef2236fe42be2de",
+      "reference_sha256": "13a8f8a18f37f4af07d3af02c8e2fca767f6a323d11a2baed639712a3a6a581a"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020736",
+      "npz_sha256": "a23c403371132af6c3b552edff133cf4a371ea2f9697c791f1ec7b7627982c10",
+      "reference_sha256": "b6af4891550195e262b41cb07fc29773e52fbf359d7b4efae59c2d1e7fa770c6"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020755",
+      "npz_sha256": "e00e66afeb4dbabf8793acbd7f65b2db4ae824619a29ba18b4e147b32001c896",
+      "reference_sha256": "4064b8acc3d9c95c7c9750875ca52ff7fac931c710604d11c762e2ef2a838832"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020812",
+      "npz_sha256": "cb6cc31ed48cd88000d134db380b68c9c5f8a6b6864f5b439a901f07e3b915ca",
+      "reference_sha256": "d287614494083d126e0964a24b67a04b0c42d9144a44e657b99ae0e98e1cca00"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020839",
+      "npz_sha256": "1f7fa4e81470deefc171f89a1ba66238b27458abbe7a24438907faa0ccfe939f",
+      "reference_sha256": "8c804caf3b2a8c9c11baa905e56b7df6587d0e16f4eb3e30f1ec148086a78b70"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020904",
+      "npz_sha256": "a8a74b5b651d7ef2879a79b069a8bdd61d4bdc435be938569b584ba8a2748f44",
+      "reference_sha256": "bfdb43dc15090188e7b3b820f853860bb0d3221c35b94487d1adeef23639615d"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020931",
+      "npz_sha256": "db15e45372fd99c11808c72ba140e817e165c1a2d2204bbbbcd50b4808a6458a",
+      "reference_sha256": "1040a9074ab5834c361af70c6c9f0d879f5ec6d90b31cc472a6bb33eb21959d9"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_020952",
+      "npz_sha256": "2d57c58f6376f795cbc811b9a36a26007cc1cbd6c8b6b0e777a3b1fdf59af289",
+      "reference_sha256": "64e0a43779bc1664a432596ceb88f517025f1739d6750182b5407f702a2d737f"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_021036",
+      "npz_sha256": "229088a6a5672ff4476f6bba2fe48fe745f83a37bd069b5bf7631a6f87024f11",
+      "reference_sha256": "e3c432ada6091b0a72a139bf40084f4877abbeb2a1880a9edb06054b22fc9735"
+    },
+    {
+      "capture_id": "P01_MAIN01_recording_20261015_021117",
+      "npz_sha256": "8a3d0fa16fb0b9670225552e48a2934ff3a155837f4b84c3219ecf5de5aef783",
+      "reference_sha256": "5e67907efc36abbdc35986e0ba3939dca1404e7498607caae2664b64f2d92d07"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_023935",
+      "npz_sha256": "e9485c5b44b4bc4e035f11d46e3367070b875cddad51070272f56d19f8b740f4",
+      "reference_sha256": "dc554107fcffce638fd2773098d9f9a143c9efdd35313a5a879e4f981e9330f5"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024028",
+      "npz_sha256": "cb23ae38835f3b96b4501827268cec73c8aa58f7500b6533713ed43c8d823470",
+      "reference_sha256": "3900628ff3c75725874b30615a7024a724613b3cabd4c5420fee2970c2e43166"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024047",
+      "npz_sha256": "a3aab910753756d792551059f3edab26ef00836544392f2fe1f91b4f249372e0",
+      "reference_sha256": "b14e97ca773a9e88d747fd4c1a5e4735967e3e3c26024146643ef6ad7bab9c86"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024115",
+      "npz_sha256": "409a8564b471fc951ed4c2382d1880f12743f019cea4633ce3bc2536e144ae9f",
+      "reference_sha256": "e9870a31fabca085a0a3173df3a19f39cc2d7220ca8f4067429a75fd59ab021f"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024154",
+      "npz_sha256": "68b3f55765260e0217c74bc363cbdba7d47f31c7e4f20647f97c1630ce8b8b6e",
+      "reference_sha256": "0bda6a467c4b8df40b45cd6720be95f22033627e576747d326ca04f8bbd2778a"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024235",
+      "npz_sha256": "4c3c93ff3ca456ab398cfea00f495c34b49bc6c008bad4827ed95cf38a0103cd",
+      "reference_sha256": "d6c1dd39bd3740264516cdc4ee4ad2bb9b976f51cc3e9641d92194b0348b07d7"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024319",
+      "npz_sha256": "7733b503a7130c7eb9bb076f587396480622f9d844a9e15006b7e28619840f90",
+      "reference_sha256": "9396b7b2f780da2331091bb133ac3426d1faf4d3c16211ebdc8cfacbd22bf0ef"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024357",
+      "npz_sha256": "0ed3682dd2734107a0432d09b5bb0ecbbad1b8330ee18edd8505f3bdba56fb7b",
+      "reference_sha256": "2e1a17ae5796203e75d6ab0d645fa55d413ec576db7294636599ecbcf332745e"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024548",
+      "npz_sha256": "2fb9ad071c8b13717a1710207b10515f6fce1429467b0e408f9a45659b62bb80",
+      "reference_sha256": "604a04b3ea3d09aa8b3dcc0b1f5d908624750b2f5572a450cdcf2ec8fcd50bed"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024608",
+      "npz_sha256": "9d73928799c363bcfb28b4f67ffe45462ce60f499d191a7167ac16cb34d5ffac",
+      "reference_sha256": "a494831d70cd7d6581117869c28bcb3b261acbfd01ab7ef30e6ecedce7806c3a"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024625",
+      "npz_sha256": "bfea9dadf1d4a52bbd1e323d3cd25047cb67dc54a3c57e57d6ce41e26ca2bc20",
+      "reference_sha256": "f6f95530f78d79c062d826309a9436e9bc4860f109c85317454499b649610a72"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024644",
+      "npz_sha256": "8465defaeb20c54155722d73da0d7ce21c2da056f24601595d58874e3f098deb",
+      "reference_sha256": "418ae2744cb13725793e07b5cfdc38dcaeb1aa7030a6dbbcb5fa3075b630a852"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024718",
+      "npz_sha256": "ccf1b215a453eb235e02fd27c7d9ee72e3eb827ff85b1ceb78102c0229ab6ed1",
+      "reference_sha256": "2b4089dd0d12ca64ccd8829516f3b5c13284138eea9c20bee85ca5085362fb1f"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024758",
+      "npz_sha256": "64eec867e0328808d82058fe093aa67819a06bf813988dc39b7364564a061b72",
+      "reference_sha256": "6e9d5d1cdfe25c470c25c2a604b820cc51967cf287df39e5ddc79783c16ad89b"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024848",
+      "npz_sha256": "df4d560cd22b89170da60297aa4c90d07ed6b49f5590319c94f8c27373e92de0",
+      "reference_sha256": "e315caf567bc65109179b69f20bef21c8617d1e6461198f9db43dfe4fa4d2c96"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_024954",
+      "npz_sha256": "67e76f9a60ce7198f01b6b77891e9edf44b2f94f35106f2a6f52706abed38462",
+      "reference_sha256": "c372effc10466eb212b054f55237253785b0952ccc1b49a0b4b7dbf9df00344b"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025035",
+      "npz_sha256": "ca6b29228c7d43c798544d0034a74eed13d72c092d46daa72ea762a2a27fdb21",
+      "reference_sha256": "eef2b9396d57ff51a704d17f2ca83c402386ff5301ec91e1e1c6d845bf6ec239"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025052",
+      "npz_sha256": "8196870f1aaf3c039c8fe69f7fd322354c0a8fe93ee0ec8c4d9b7dfff85ae443",
+      "reference_sha256": "d268e7a582f5bec201dafd52e0f125526a35ad8c8664c899f1e8fc5d27a814bf"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025115",
+      "npz_sha256": "344f81d209e2463c6221644c9d1d1e6fb53134502a67901d9b494994aaeb121b",
+      "reference_sha256": "1f11c23a660bb4b7531b8e2762ca6d3b53f91aebc0e43e5612c2a7ba08f890b4"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025156",
+      "npz_sha256": "05699be530c9cf2fa2b7bfe5517dd1a79da428d750bfb712063aa958f5140784",
+      "reference_sha256": "351a788a23119a3716dd5ac226d1f91f675e7c2add3c16f231d23437a1952c83"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025220",
+      "npz_sha256": "c83c7e395e07dcd8cfaff121d2e8803d5f048602e4270acb3463173e02348858",
+      "reference_sha256": "9e561392c9a5c68b373b3fe57018dc9bfcb470e87167af7195800bf0db4dc4f5"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025254",
+      "npz_sha256": "b2a59e82bc51953f0939c9bd0f6a85897d3c2518c10d15dbc590652186969366",
+      "reference_sha256": "3d3b21c089d9e46f9b9778d14a72a8c03595dd133360a7a9dee3095f65b6603e"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025351",
+      "npz_sha256": "287548fcf10027f8c7374e1c4dc4aec8f2ebfdae994c1698f7cf099548469671",
+      "reference_sha256": "a031428d36d6b97cf4ab3ba142cc9f163cf2c229ca426bd339fab86462c5869c"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025520",
+      "npz_sha256": "056925c95b8bd279053a457076e69d6b21eb87946721ea244427bedeb0eb8cd6",
+      "reference_sha256": "08c7f174509d3bad1043116f859569abc0134c9831efdfbc555bc7bf1ce7b075"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025549",
+      "npz_sha256": "f37835c04f05a30295be37db7ba9717b04d7348d0702054bda3c5e7a4d504437",
+      "reference_sha256": "9d298eb88f90bad0ed29feeeca4acf4acbf383b5fde1bda16f5742d97daf224f"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025622",
+      "npz_sha256": "8b9d56df15c1a5d9e8f48b2d0900a4ad12a96f5b6405e743bb1a90a3cbd9cb36",
+      "reference_sha256": "b47329910dc0339b2b33877bf48c16a2e50336637b7361147533ba1fb3bc1b52"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025652",
+      "npz_sha256": "c3a0e6f0abf18c338febc8a2876be1c9a73c1af56cb0c6c99b69703353a7ee68",
+      "reference_sha256": "3464f01d6ca87963a02f93d3df9af34db638d65446e871ff84ca2a6208281c69"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025710",
+      "npz_sha256": "82f56256944681f7af56333199b681509aa169820f0c5efdb7a5b1f93a14a933",
+      "reference_sha256": "16186ff20f959f070a8edd2cc3000974846676ef4f5f77e22f4832e622423cdd"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025731",
+      "npz_sha256": "fb401d7e2412a458c6c0f398af68b586c7d9d952bca8d0349e60a6a956ca9a26",
+      "reference_sha256": "e7c4eb072aa77eafe5e19748f3a7ea68dcb59e5d37f963cc2af3cd25af715e32"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025801",
+      "npz_sha256": "ff202c8b8e0fc5a7189ec4a3a6233043fe19c2be8cb9a336ec4f8be57d461f71",
+      "reference_sha256": "0a8e3934fbf604814ca84ffbe23ccb7a0f3313cb5d8fc8368bdfed0441ec85cb"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025824",
+      "npz_sha256": "2939677a71e202bc8190a1d1db73814a0757d08810901192e105efc1e2107ccb",
+      "reference_sha256": "0a1be497758ae633f333813729f86b867c7f6d014547322196aad3fa691201a4"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025855",
+      "npz_sha256": "e6faa91d237b084056f17dd1df26e1689a5439eb0a575cff860338a5fb9b6be7",
+      "reference_sha256": "803efa45bc48967d93da0010e044f5f1f9329a2cbb7abd1eabff001319909e42"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025928",
+      "npz_sha256": "1138cf1594052118d31a5b57179f6df32e14914fe92f22ee97131d9dbfacc0ef",
+      "reference_sha256": "eed87c38f84d0a2fc2c7727e8c28f3da39f07bb622702aa4df574621602308fa"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_025952",
+      "npz_sha256": "97a9b9df516f94bf2d822c0bdecfcb4779d7c649d049907e3dc30a72a5f2cc7d",
+      "reference_sha256": "21eb76f913ad2aab5a648f16820f208e5f6dc2c1c20b255c36d2280225642589"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030020",
+      "npz_sha256": "1c32ce1f89ba6baaf2a5ba69288184e72afe198115804456118db6e403da6fcd",
+      "reference_sha256": "cf16a9c3e38cdbc3012aceede974edbf84f8afbbe149741f9af7e9cbe3cc7144"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030035",
+      "npz_sha256": "cd280719c9b51c43e0f9fccd0586a52abae2eb4f5b63da8ad6e737fd5b166df6",
+      "reference_sha256": "091f0560a5b0a573229297dc7dce6898122ec45168990b38ff9e31c4aaebd18a"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030058",
+      "npz_sha256": "dc98abee8713d35392f4c1a99f43dcaebcf7ace567cf9687e9b2875eaaa49522",
+      "reference_sha256": "d296d86f4473032decfc1b8389346da44c68a10a0598e3081fbb47b7119f6959"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030129",
+      "npz_sha256": "aab31a30a305b5d2524a2989b8c3baf63cdd24b8e91ac409b883ac0445d1f0fc",
+      "reference_sha256": "bb3ead609b0c55c371400fa820426c94fb6e7feaf2025f8aecd54a79d253047e"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030156",
+      "npz_sha256": "3f3efec4bb2ca51a62415c7fd57102fa1157956aa17331804bcf4197aabad13d",
+      "reference_sha256": "9f96b55c6bef4ac166c00dd7be3c3efa5d705d1aa407f54a5f8416e91af577f3"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030249",
+      "npz_sha256": "6dd01c83119ab14cd8935d4f5d0074cf99aba0995fd3b201a8c502741c57742b",
+      "reference_sha256": "6b9abfff9126c2b0a7584597c14e8e7deaba3a5fc806a6cd53f5b72e456c338a"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030329",
+      "npz_sha256": "8db48a17f4b7b774777aa20891c4f41dfbb8cacdb00ff16f70f92fa538b956f2",
+      "reference_sha256": "3d6da041414ea209efd04ffcd9ebb84bdfb75604e463bca6ccc8af5a925233b9"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030429",
+      "npz_sha256": "6ffd106146b334be82dbc6c1cc76e603ccc463b7cf536dfb049034125d83d814",
+      "reference_sha256": "30c86dacf9e17b1146b68106336556d7ca1f1dbcc3df0f5e6c8325ccfc8fe3d0"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030458",
+      "npz_sha256": "99d93b6e4bb56a847cbf0a3c4029c7aec5c93b1ab5d54a550b49d021c5ab9fe6",
+      "reference_sha256": "962be290aad579bc0b18b7b4751dc50b7a08aee1a2c0b17c1f47404fafac8440"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030521",
+      "npz_sha256": "f2847e8380142699a922b64f9b68195ac7c14c1054a2777cf0ba3d50a14a1148",
+      "reference_sha256": "5a6d9768536e51678f0901c65a2e3ba32d20d72d8ad1a8a74966aff07780cebf"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030644",
+      "npz_sha256": "aac62e4a867bb05ff70a853d19a0eb5b2dcfa3c7da4a8f8b5b2581fa5461693a",
+      "reference_sha256": "7fdca6a68fadbf869e4900497fe58b9f0e0fb7398a435801cde761329084ee02"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030722",
+      "npz_sha256": "df15ba5374192ab98fd2662f721c101c3df0f34bbb067555480a22e2b6d61d0e",
+      "reference_sha256": "71cf8db7a5df3dbe1e106ccb92fa6d5be108df6bcd1aca6da558f9d110d13741"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030753",
+      "npz_sha256": "8bb6ef92d3bd89b96cb2e01960a0b76c2db02103c4f042c4211a1d2f4cb689d0",
+      "reference_sha256": "dfc6e1ae6a750a03eaae4b8b5c1a683f3974760ec8a48bf114ff925f03a872c5"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030836",
+      "npz_sha256": "2d9ec23072b2f9ae4f5ce51db0d468e68cdaebef1cc689d3de70ad9665ff7f09",
+      "reference_sha256": "2f1b0f34a5711e236c34c1370d041809bdfeebd34cd84aa81c5281758f74a29f"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030901",
+      "npz_sha256": "40d9f6357411a53927748724184f1676233d27b7354398688a403741c2ecd0b2",
+      "reference_sha256": "72a7475c79f009e6d18db3e455f087391becb19711e3c33b1e2e0ab798152f9d"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030915",
+      "npz_sha256": "d6964e516cac6ca9c38307cb30c62cc7ffc48789351e2ecdc3223c31b62f1d75",
+      "reference_sha256": "316fe595a47ead2521b66167dd8fb509d0214bf511429dc71e3fef7bef27fb31"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_030952",
+      "npz_sha256": "c8b4b6cc6fc7fdd319bf64f94bea91559c82ab7270df7baac3ae5f59278b2270",
+      "reference_sha256": "e9fe74d8b4949ccedf8eb5c3391ae7f0a3a24ff3eccb845e74ae3e26cad5e711"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031024",
+      "npz_sha256": "4466c54154500893d05c716869953b2cd606e30d5cf5c8b2c09edf0f1c7fae72",
+      "reference_sha256": "278b064360864b650f31b4910c27ae0cae7a3c11e62c538e389ecdfe3f509ed2"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031052",
+      "npz_sha256": "c2d4bde3ff30a49add7d12a179cb2e38fd0558a5f5ca41dabfe88aa85a1b0fcf",
+      "reference_sha256": "c262c6d0d2ddbbeb9cc357df92b20b389a25aab879f57a1311a244b635acbd74"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031110",
+      "npz_sha256": "c1b9189a26a3621442dcc3654f4b79c1e499272cda342433839f201a26ec9d44",
+      "reference_sha256": "585e7722fe0bdb8f7f24ce8722f5a7163a264b14ae45a9cc0a4c5b4a5f788565"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031133",
+      "npz_sha256": "1dc296aeaef3c1de3a234285503950b0dbdc40e5e3a2571f0b6f29345d2c9822",
+      "reference_sha256": "ebfaf9050f7f5e73b1a806149caeece973a190fd0756e51a6ee6f227911a5f80"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031213",
+      "npz_sha256": "ba04d5d2563520f4d82d11f39018cfc77225b0af34cf21172e953903f491f90e",
+      "reference_sha256": "5fde5db90f64cbfee51cfd4253a67259a2832db0320b5a6b3dfbd238a841503f"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031304",
+      "npz_sha256": "b69e50070482e8c1c223dbd3854610a4d31c4879c5b112cfa8a60536245973ba",
+      "reference_sha256": "be8818f99dbd16d955d3e3425439ab2f5bb7cbf25d03baaf7b994faa4c11937e"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031334",
+      "npz_sha256": "c57aec7910f8509fc3bc78fcd56b31fe5a649b1a384e11b4d46273ce55e7adf8",
+      "reference_sha256": "abd37a9440236c25c8aea988b584c451e06591ecd5cc04894066a5f3ab54b8be"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031405",
+      "npz_sha256": "4986451b59009b78ba56aa154c681e6967239bbcdf582817482daa39dcbb2366",
+      "reference_sha256": "e9574c53d685e0b7b5a37ea0a76ed50a4ce0176be4d087d17a32d562416b38dd"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031521",
+      "npz_sha256": "d6987d5be8a5166f25c4e51f87c74afe07eee1bd05c54bc96a80d4b26d897ace",
+      "reference_sha256": "5c50473728e148c97e0fd0a6901eef7c86ad03be356edbaf5b20d1675e200ce8"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031539",
+      "npz_sha256": "031580f760a0a75dd680ee2b9a42c8e637d207a9923e20f2c51fb7865e64af92",
+      "reference_sha256": "941779bfe5230811754a6db90f57890093c644eddc3370266d96e303858872e0"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031603",
+      "npz_sha256": "3f07e50d744e8c30bd58775b5df2cb03733ca2a721351c5325997e045d3fb37c",
+      "reference_sha256": "e5e26eeaf469f47124ec58e0b1194fc327007d4d064a2daaad2b5a5f515d26bf"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031632",
+      "npz_sha256": "d82387689d36fc380027ef0ca2d87b8b7bb9171ca96a2a4b6848e1a70d2c784d",
+      "reference_sha256": "8089731c5172a5a5dba775f27e6a97cde14901c677b7dda196da5078af7a45ef"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031650",
+      "npz_sha256": "7780b741a91df1d5abf1c5c4114e8958906b62b8de2055e637cb03c716850e77",
+      "reference_sha256": "05bcde6b07af7d8a99224d1ca570dbafae8fb6bee00b931d21d19827737bc863"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031712",
+      "npz_sha256": "39c0bf939bbe2ad7ea40272f4d047821c2557eb4c540fe8464561e0bed0db2d1",
+      "reference_sha256": "a3ece102a40facb1f6653283ee22aca274de7b4500fed268025d2638c662d870"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031757",
+      "npz_sha256": "9348391ff869eba2089a912b7c1bbed69b82f29292e203074e98eaae57f8a7e7",
+      "reference_sha256": "a4a4c390913928544a4981ff0f6ab91fb81e1d8a2ae0cfac65bd7ee17dfb5af2"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031813",
+      "npz_sha256": "0bbd8b0e9828411a166bd0f441e984067340c6515a518d908fa502f1ada5ef2e",
+      "reference_sha256": "fd5e429856cacf6040be956e6f9df821259c055b0e9b3b9f2ff26c6c36fb73f7"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031828",
+      "npz_sha256": "b6febd0ca0dcd1ebbaee1c85a0f1c58e222e15b710cc6d3e05279c24c75a4acd",
+      "reference_sha256": "2a9a65f534ce03e2f05c80753a50897d64560175e4337bbea227af585b31e067"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031848",
+      "npz_sha256": "44e47aa37c1bc4c87a3e190cbd503219f5a0a8a378c2d1ef07f72aca8f9072a9",
+      "reference_sha256": "9b51cf336a6606838ef1a3d011973926a1c52a4d2157eef8d8419bd7c0ae31c2"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031912",
+      "npz_sha256": "e73926f19773f2b64241e8392b47520c46ca0f980ce2ed80b52efaa5765b1709",
+      "reference_sha256": "417aeb582072c7bb4539e4bc277960f0f2fbee60c811c4988d4b665b9fec15c6"
+    },
+    {
+      "capture_id": "P01_MAIN02_recording_20261015_031938",
+      "npz_sha256": "83a8b0b7bab54f162309d2d0d2210e6e3a6a8ad7154d8c420d3cd00eab055e8e",
+      "reference_sha256": "3c06d9f1fbcbbc9fdf1e1e20d71261478f1fa87817f8f2a3026f49847940d2b9"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040145",
+      "npz_sha256": "a75024e798a07d7983c92a5b601452fad2b1bfbdc46b4bdd03c14f0c418edef9",
+      "reference_sha256": "ca1d984183da9c3c7bf4b095e13c0a569367084bae11c983b6ea5412d5936664"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040207",
+      "npz_sha256": "9c870b369f8ffe30811147826013e9d104fc3b61d6e32552ff3d64fd5c367615",
+      "reference_sha256": "ca0804d359bc1346e7c4ca21f7a6384c1856d60d251082295e85e7c50dac87e4"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040236",
+      "npz_sha256": "d72c9f8633f46bcbe65941cdecba5f32895d10429e2f2bc80c071e4d12ce1131",
+      "reference_sha256": "225c6bd9288e6c718ae329156631f69372ebb436df7e5a69635941d120e33cf7"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040256",
+      "npz_sha256": "12d115ddbfdae3730ad3d3b48ea37732213823e2663da050b8f10b8ececacea8",
+      "reference_sha256": "70059c94718f969324e29a9a40ddef1f9c7c760a2ffc12b771b6c5b13245518b"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040329",
+      "npz_sha256": "84d87810c3d2410f75e8dc4ecded57f5fd00e1535fb3cf8f756bcd63a21b1034",
+      "reference_sha256": "6b7b0f3cdc102b8653a9e46fd9d2f37dd5eafa884aa31823cc152e9796925175"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040405",
+      "npz_sha256": "cfbdee2e83e5a164ef4583310eb11db5df848d83ba40e9d81d4e38976f16655b",
+      "reference_sha256": "1a7cac071ecf762c1fe6ddef5e286446e3a97286ecdc403f31b180b6a27983c2"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040432",
+      "npz_sha256": "46130207ddb41d0e472cfd0a3c39e8daae5556663c68fc4fe0cb526ea76df134",
+      "reference_sha256": "bb53ec225cdb299ef32959486c0890b9fb2dbc53180b1a54b34523ab0ebc845e"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040511",
+      "npz_sha256": "a97f82d45c701a19672e3ecf7fba6deae6ed656ca556f57bf50a86dab05033f1",
+      "reference_sha256": "4d1f123d94a9d321f69633da55329403ad51fd2fd3bc84e5dbe6ffd7ab18e5f3"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040554",
+      "npz_sha256": "0f2b7563bf640983e2914e535d81330026bdc3e772d859afbbb25b53a203a0da",
+      "reference_sha256": "c118d5fb21bfe90f67d556d2d627b5897e04c75b3a480518613fdcee3feebcfa"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040616",
+      "npz_sha256": "584a2da37d2d336753827f25aab5467472963da11ff124e40b20510e60ec05f4",
+      "reference_sha256": "20288989713d2d657b93c885867ad5b5880f45b85914deac8135bc0b46b4f203"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040633",
+      "npz_sha256": "918f9db4be6210fcb6af59b0548c923479eb945083cfdc5817c0ccf09383cd46",
+      "reference_sha256": "a969d8393c6daeeff6169e68bc48fcad59ac7296b906ca8865e75ef324411f65"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040652",
+      "npz_sha256": "f67cd52d07bbb59ddfeaf9bf904d41af8d884fca1375ef9c94b1cfae11b065c8",
+      "reference_sha256": "a49d4c8d527cd1c9e40be90e905a48b01ed56e6a328917aa148ff4ea609454c9"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040719",
+      "npz_sha256": "ca0b27e5a5d9887104db4c2761f9866d80d77e7da82a0c884595c8c1ecc2afbd",
+      "reference_sha256": "e31dfab18e55d97697ee652cc4b393276d1fa7e0dc62a844dd2e191ba8ee2b58"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040740",
+      "npz_sha256": "d58ed4e44020b9743f03859f75db91552c2e41b89dfbc8a1c39b407993bf9bf3",
+      "reference_sha256": "20747b57b239df103e0698e1cc4a39303caaf42467d7e0dcf0e2633ac7af676e"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040807",
+      "npz_sha256": "51dbb011060a266ebce325dc6c052430be12962841a765a70e6e28b12c5f542d",
+      "reference_sha256": "3d1fd2f2195c7d3f6a34ab0407c41913a5e067d6252e1c4f2724499c5f25ef89"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040840",
+      "npz_sha256": "195973c3611fa700127ee495f0d1552d7d38c7035311fcfdd66ade670122370b",
+      "reference_sha256": "8684ac996132c3cac6944904d7f21bb3a2565d66f1c9ccfe6f7f52ec92fae5ff"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040901",
+      "npz_sha256": "3426176795cce56080de97bd1e790aa66f983e3e73f3d6fc83ef5e7b63e511db",
+      "reference_sha256": "377ce44144810f16ef805c2a6878851fe213cb3f8ed56e1f8792dc3260c46197"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_040938",
+      "npz_sha256": "b95baf888d2b93e60b93d3b3c9c7ad5d3ffbc6b434429bebae2d0792068ddd5e",
+      "reference_sha256": "9c29497dea3c5aadd04680dc03d4cce0c5ac9ca52df3707fe0e0eafd5bf9d5f0"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041147",
+      "npz_sha256": "21144b6cff2ea4bd30c6dded04d019318189b62998148b1161299c6afd448fae",
+      "reference_sha256": "a1b50882f5260d7a1974ddb32ad804a27ca9d3a7326337dc5089b60adc0d7bdb"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041211",
+      "npz_sha256": "5cb387241d83bd5348344933fe6b3717c97a344d60b442d7af591a04d060b743",
+      "reference_sha256": "aada0ae4bcdc9578b74ced5803c3d9547c34d7fe935076456ad4f8136ca39995"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041240",
+      "npz_sha256": "1e2c8ceeb10a0489674a8fb10b39b8f22d629ef4ffa7d29814d61c52c8ec02c1",
+      "reference_sha256": "65d63d5eded57d4a191c4f5276bd08ac33285596ac08b676101251aae726c443"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041333",
+      "npz_sha256": "b3079af4e13563199097813af468f5e3bca1ea64fcf3af49c1c390721d6d86ab",
+      "reference_sha256": "49d1be54bbca023960ab144ec34232560d7f16ad22839a69e738c97b3033f365"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041357",
+      "npz_sha256": "23797334dc643b0e35ba9e17a73bd24697c1f7bd8f28822180a76f0bd76bb0bb",
+      "reference_sha256": "dcb1466f10f122fada614b4706a2212e1e2825734aaf79c5cea5d9f929954131"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041427",
+      "npz_sha256": "d9905a5edbc759c56ecd6a28137fcc39dd08d185d47f72bca5d1d038323c6e81",
+      "reference_sha256": "778fb02703b74deecb6971c1046a22950da8964026907a38ee1a662930e67c8e"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041450",
+      "npz_sha256": "d8eeb160f92bfdfb483ecb1cb0d4dc0aab20d1eab02933cce12ca9ee2343271a",
+      "reference_sha256": "bdbfdccc43a488dae23b7dc990b9867dc797d67ca45335d7e3c744fe9f50e06e"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041508",
+      "npz_sha256": "d6659c3a9a7cd0455d3e0fa6a2d570e2ea13e8516cf75dcbea9220d2a706aeba",
+      "reference_sha256": "585c7adcba9f49ae751feab698cec36ce622248537ce109bd5355ce104569a67"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041541",
+      "npz_sha256": "f1acf5cfbc4cadce142b9f28d07eedf600537e1aec7faa03f58c00fc1464f4cd",
+      "reference_sha256": "b496c61a70143c45f5ddd3bd18e3da5cfda0c887b45c7aab683df2b178d2d70a"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041622",
+      "npz_sha256": "4f7fe7c586bc79d1079b485386cd6ec597249774a16f1d7d7ba80db0acac9524",
+      "reference_sha256": "28fd99acf8b71f9440550848ae40fdd01975aaa8abf51795a593074e213ee60c"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041705",
+      "npz_sha256": "9be2f679149fffd3b22579dfb19998ff29331c9ae5f238d1d7612018a674896a",
+      "reference_sha256": "1cf45361c3308915bc800dc7db7c4a61af7eacbd09933539a443e326f4c9a252"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041735",
+      "npz_sha256": "2f8e6cdc3c870d5670f71f1df4f7baa9cde0f087d6aeff39a823030ab34a5bed",
+      "reference_sha256": "6d073ff88d9610fa657d27added44bab2f45b21d826e4571b1850d804621a1cb"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041827",
+      "npz_sha256": "fb700668073454e4ca920a6dc5907895155234183eec268fbe7d5adc62af6ba1",
+      "reference_sha256": "33740df07c7b6e658b82b465e3f2e043fd1eb2d3cf3ad2c0e4da55857c6a504d"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041917",
+      "npz_sha256": "925f07200d67c08c711efe61593943b34f1508471248c66341a94b2bfac48400",
+      "reference_sha256": "2e5a05f46dc791791478839014588a64d704164c952cf704b20a288d5c0275ff"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_041950",
+      "npz_sha256": "1345889caaaf1c6c2ec5dd39127d23a60d26bd19b83cdcdf339a83103606f0e4",
+      "reference_sha256": "6f57fb47f72fbf59ca2da2a27be2c2327476cf0614d10b4a35e7dd6f14cb0d08"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042012",
+      "npz_sha256": "a00c6aa31b8d3aeaaed3393779632cffa4c1ffeba23131381b94d8f129a9a2d8",
+      "reference_sha256": "1908a36f2644815e62898a0f1c388dab14d1f15c87a1dae7c6eedd07857402dd"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042028",
+      "npz_sha256": "7f956d9d207265421b25b3841907b634e9055a8b0ff919c2efb824e58db36a7f",
+      "reference_sha256": "5eac5575671b5101d9bee4ee88582977c4745134df8ea0a637760cc119cd262e"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042048",
+      "npz_sha256": "6f26ff2d7e88f4b3b36f87b9973a44a94d41c1027e20612c1ab1c33476c60c1b",
+      "reference_sha256": "735f475ae566c6fdf0a9d2a04e9ae0672e6c043352fdb614fef6cb63b33e4fe9"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042120",
+      "npz_sha256": "fd67f09c4ffce6547fa48b1fd8028082a8465e71f6c4bd885fef07bae1979b2e",
+      "reference_sha256": "9c2ab78fde794354c5a1fc8a55f15643bb3701cc44668b5b9f2b073a6ee451f0"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042156",
+      "npz_sha256": "2fe6f72b8e78191bd4ee5f713b84e92329363fcc2b3deaaaeedab269879f0f34",
+      "reference_sha256": "2353e91154b32c0cded976d3433a9908f0a7185fa475dcbc1593338faee41c03"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042226",
+      "npz_sha256": "c9fe6306c4a33947d0fa3d33ecf71582b727db79c7b61b137e9fcbb4c67db0d6",
+      "reference_sha256": "36949ed59e6d532e1df134905aba4c169f343b657fb10ab3e193b2cc6b407873"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042333",
+      "npz_sha256": "a0bf021866dee1a4dc3dd066d94a9ce839d3cee1057915e85c4f5164f44bca56",
+      "reference_sha256": "6829976cad5c5c66f6587b75482b78cc67693929584efb6bbe2f505cb47e655a"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042356",
+      "npz_sha256": "882dc006b16e93e52fe4ca9078ac993b0f3f12d20b0720655086b10effe1f7fa",
+      "reference_sha256": "a079e53c2a0abbab55d8633c970b56845ccf5a33b891e4144b6c4f99b7ac9b78"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042424",
+      "npz_sha256": "d5ec8ecf2108b8c31245d905b2919dcd6f28a3fd83106759dacf4ce61e936492",
+      "reference_sha256": "bc40d92b8d67ed8b16c9db3259d80b965180af48e8b6335c55d8ada402a3ac5a"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042444",
+      "npz_sha256": "4e9422a92beef1e7c5fdb911fb95b6cfe606ba23dc591d7803058f162c4b3d68",
+      "reference_sha256": "0db5b5a1e429fd7abe21a474eee4c6e0cb5d1844a412135efeaa1bb1ac38eff7"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042507",
+      "npz_sha256": "6cb818b7fcccd6f6829a3a7efdea770d456c42a62d98ecead68cb6641eb987b3",
+      "reference_sha256": "0671d71bacd6aefe82989236376ac3dd61f89a19bb4160129653d9998dd835d3"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042533",
+      "npz_sha256": "7e3ab9088d04aade30887065bd58846cf4e014201abc3811b7bd253151240968",
+      "reference_sha256": "145e5817384a274167917cd76ab7cda4ab9ad47d48bad04f0979b17fb3428edc"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042600",
+      "npz_sha256": "f464ade0bc38ae988a8d12f2600a7011a733e8f191a0f7fcdf8a203a521cd93e",
+      "reference_sha256": "3ccff050b79cc8d42db607cc3c37ce3345c69b593f209df4f3fe0b3b34882575"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042635",
+      "npz_sha256": "4181148152f7c4386addd449c29765bfaaec9af12766b0fde1d63887bf08ff4e",
+      "reference_sha256": "79275a189b7341c87c06d5b874a4793f1dee31990ab35b6d75bef0a2641a5abd"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042708",
+      "npz_sha256": "a07488385727e1f0e303bbd72499f1060c88972b7fd0d1e858da8c2939dbf20b",
+      "reference_sha256": "562096fe5f09b5d96997672b9183832b80959d62657c634ae5a89870bfd3e4bb"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042804",
+      "npz_sha256": "825ebfaa3be7de52b3abfd0a70270afa0c0761987504079a07646789fb0fc1f2",
+      "reference_sha256": "d5d2b6646d31bb9e4f39d25e1c1a73e0d86b6aa8c0c43cf269e853cc2424e2a7"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042833",
+      "npz_sha256": "4b829a4cd322a664f74b8119c3d4f509b8a0e91e575be33c2e76b97ee262d554",
+      "reference_sha256": "e0417cbf7ef6dd1382bada022c3543514a371ffc12edbbf244fd47a82982161c"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042853",
+      "npz_sha256": "372fbf0a81af6e6c4e7018b8b159a2c637b453f6ad9ec2f3e5664ffc1afb5a7b",
+      "reference_sha256": "eb2cdd27eaec8e2d2514772c838fa3bf54b475f35dca7d93ecfa2f37feb184f2"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_042930",
+      "npz_sha256": "f8ca3e0bd61b36bfa01a5700bea7d84cc803e5eaa64d869d9a10fefb7061bbf0",
+      "reference_sha256": "919c28b44f3ff617d28b83f2431fafce1ebce464e73faee47b9f0022add9c2bf"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043116",
+      "npz_sha256": "8c9552e977646c1db77ef28e4f4d7a7e40513ea0968b047bb62da1787ecc3fc6",
+      "reference_sha256": "b2c8e88b4f8452a13c4e6adc76dc46ae5e665f20aef0cf1907c6b062b6fcb158"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043137",
+      "npz_sha256": "598df17739c67ee4b77868de501d387ecbca2eb5f8c1a7d4cf5fcb4a98dc5316",
+      "reference_sha256": "8278b1ab666d77a67530b0fdf97ab9d6bda73bf808c9146ca76fd44e0c059c66"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043213",
+      "npz_sha256": "463ff555b8bd6ee3d7497c794015f385869c550422679a8b397d5549f87a6ec0",
+      "reference_sha256": "e0990b7857e65e6f3c8625852c600506eaba6ada83e082ab4d00a882d01ef922"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043239",
+      "npz_sha256": "f806a8b002fe1ece8ad50c26ef48257be9d2cd5e59aec0b1f31cc7ff76e19f5b",
+      "reference_sha256": "04feff3670d79baa71d92bb3e73d3f97d9cc8e3ecce90aa83f2ff04923fbfbbb"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043335",
+      "npz_sha256": "cea39cf9bd233d1e21063e141c0b88777c353fdb3c2bb17140ea8ee71b702218",
+      "reference_sha256": "5b57274929adecb4c80ec2d3a9961fdaf78710eefdb495d7527f761e06f58cbc"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043402",
+      "npz_sha256": "6eee53d8f6fe5029e7e24d71f6f8401c213c37bab815b4376d91b43a43b0c8ec",
+      "reference_sha256": "847d16b6481507c09a2fbf4abb7f28b3d21b25b70c8f207e5072d6d919608d69"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043438",
+      "npz_sha256": "751119e7fbd0cdccbeb2f8d824f567052806c815b315a245e1a80c7b2755ab4c",
+      "reference_sha256": "e5e6374260356b91cfbfef3243bfc5dde6911332dc4a2953cfbf8c61d8b31e40"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043508",
+      "npz_sha256": "c58f510a4ddda5b7242c88af15e3ee980ee1254c92e33fac6b513076dfbb0e09",
+      "reference_sha256": "7a322f45f2c5920d12f623d4a491eb4ddad1e67bba30fb5c2464ec0963fcc7b2"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043541",
+      "npz_sha256": "4917297a5b1e06506801906212e8669854fb66b3c37776f2f606afe1d24f7921",
+      "reference_sha256": "99829460bb4cc29dea9e88ce09a5a24112a02a3467982e6ec65e1e0c766b217a"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043624",
+      "npz_sha256": "abfc69a07b697f5d619607810e944c2a34adebdd9bd43e3617047a759556877a",
+      "reference_sha256": "2afb71f3930aea4d0c27764fef0ce7a60aeba71fc6faf66f78e7245321678350"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043650",
+      "npz_sha256": "b7aba5af5f21700c922ac118927f257fd668913c4b53c98ea4458cfba154a3a1",
+      "reference_sha256": "235caff984cf359beb182e050e053133671b5edc443fdc5afbba6c1f4d5aff54"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043725",
+      "npz_sha256": "f6dd5bbe9e03eb19b22492462c07732fbde156832f43d9b4f7d24b30b3a351dd",
+      "reference_sha256": "7ad03f7fe099adc78165e7482479d41f7aa17eaa0603b3c9a84226c078445e83"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043802",
+      "npz_sha256": "733d10bda492851876a02b455f7df056066f71f5ede85a6129d09b979a05e59b",
+      "reference_sha256": "15495ab26ad90dcbc7a39be5520648b7981188c1691008587a36f0ebd02e152b"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043834",
+      "npz_sha256": "5db67e3b94bfe96ba6f2385d13a350b7ebe258dcd4fb8bfd240a0bea2cc497de",
+      "reference_sha256": "ceb62df96c95362ebba0651b14c51e367d56c1a42d2d2ccf5b4f06a62b3f8477"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043854",
+      "npz_sha256": "c15cbf276fff91b2a5e59e680993668bd81b02958a92f67b22d7a176cf3b63a8",
+      "reference_sha256": "fe1c41434ddef2718747d3ae44a3f1398c3d7fe377176328468e9982f53db45a"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043910",
+      "npz_sha256": "46119a100ffc83d99db24ff55200c214a45886e70cd5fdbdda31b8aaf768bfad",
+      "reference_sha256": "918c5dd225be9241c4a115178854ab999427532f3ed0c23e3eec893ec2476132"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_043927",
+      "npz_sha256": "c1ac7d2abb17845904e69c7de388fb42f8d5838d12464961ee37bfe1781c1284",
+      "reference_sha256": "8056cd795ac8004cd6075283c80a465ccce76ebf8340f463ebf85adc93a1d10b"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_044012",
+      "npz_sha256": "b6c93d2a2b7706ffd4691e37660028bc2fd45b94088268f465a71e1fd0a2723f",
+      "reference_sha256": "c700f3f4014c9877d82b7f27828f623adc73f886f890f0980ef1682a9d4e905f"
+    },
+    {
+      "capture_id": "P01_MAIN03_recording_20261015_044040",
+      "npz_sha256": "0963688bb56eaaa602aa3a341e17b0657bf4c70b0dee41c8b58c397a1d1bbe0f",
+      "reference_sha256": "dc2b35a04c5acc9fa44920b4f4d30cd731b9823c603aac3fa58ebd96c6f96499"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_044906",
+      "npz_sha256": "a20dcaf06650f7ade0507e75e7a6aa8581d11f08465d1c674c117e7edf91e980",
+      "reference_sha256": "8fde5a0e3466ac5c5362eb8c7aad61384e76e65019ffb70d744993e895d13e97"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_044948",
+      "npz_sha256": "f83b269c63d55102aa406987cdf6146811d51f044c1732dda5eb01918d505543",
+      "reference_sha256": "c42fde4c09a65aa8dd0b2d43a121c857aa07e7da25a5c6b6054413f185f5ae61"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045009",
+      "npz_sha256": "7c698941228ebfd15da0596e16ba46a58cc6699eb15cd007d2f05bbe251601db",
+      "reference_sha256": "fe5437f9f9eb2f60be40c800431aadf048d2824360a9a47b5a0570614f5cf91d"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045031",
+      "npz_sha256": "b64d80bed0ba95b6e8392a51c670ceff59f70e1c31bd659032c101f197197f75",
+      "reference_sha256": "a5d7a5499664697e8b7ce4a93b50be5e55f640d2c668df2cab0ad09f3a8adb73"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045049",
+      "npz_sha256": "427423c2d6714caac2482f4966ef9bc884cd8ad18bbd17e6905b3c0fdf6212bd",
+      "reference_sha256": "5193f60fbd178ba3e699cd3f4e1e0b65e42defa1d856488903b4b7752931b2cf"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045109",
+      "npz_sha256": "44e93dfdebbe63b92ceddd2c4326648804c1569f1453c0fe5ef5b5e83ec31178",
+      "reference_sha256": "00d1d25fcb91be77325a494f4360197d47d14785f31eeda8302ebdf53c61755b"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045131",
+      "npz_sha256": "e6e8e8a7f4cf1fc7bf472de5177c9bb5ed84c287c972f023464ab26caca36eee",
+      "reference_sha256": "7392fcdad4737d55a7866643249f7cd94a3d391e3fcf5f394fb81dd6ce0454d4"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045158",
+      "npz_sha256": "7141b269de1ff112b9e7915b70d52f2e63921e17c94be86800f34b3adfa67217",
+      "reference_sha256": "662198cb904d023750db239d3125cc5772f6e7b8166fd1f3493b04a1c0c9c3da"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045231",
+      "npz_sha256": "e28cd6bff4ded596a981d0bd33868ec9495efe4fd5a42d7b0a56801df2558dcf",
+      "reference_sha256": "dd021834054c89db989bdbae5c18deeb6e6d90d5cb35071b7cd1dd3261cc87d7"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045258",
+      "npz_sha256": "8c5f9f116de1d001e6bf4d137bf9f28314459c7e38435654660132afa77841ff",
+      "reference_sha256": "a77b5da8380b6a8735e5042d8bc3dade0bac06ebcbcc0fc0e2dc5d9077be6d77"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045317",
+      "npz_sha256": "55467ca320b6abca40e3468e4a8c2226d5ec9a13bd49584b2160e171e933eb79",
+      "reference_sha256": "3ed8e984823711ce30a357fad6c003e69b66a2b6a9679319800c042176205bcf"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045335",
+      "npz_sha256": "7dbaac0092e5bd0c518821f04231c5f96314e51b5e30694e038f9a49888d7464",
+      "reference_sha256": "98188682eeddb391883f4c34f6e8723e91a5915fd67c6e0ce71243ce630e7ba0"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045403",
+      "npz_sha256": "2c4e6068292e0c93f9a9684b2bfc422439aa364f770c87b490dac27d0d8ea6ed",
+      "reference_sha256": "11dd02f493e7bdec8f98798b2bb9af7247c1f71d9c38bda54b447929ac00da9e"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045423",
+      "npz_sha256": "b841cebaa2bdc016f5c7880e6aba4c368f46f468fa4a1ddb2f7a5e4074e9e0f0",
+      "reference_sha256": "b274a774cde3b0311790c1842774dbe3a06ed3221b5d4c39157dd0545b43c8c3"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045440",
+      "npz_sha256": "298aa76e51fb58630ced65d5b333b000441fcf2a0de9dfc23e94ea210e588a4f",
+      "reference_sha256": "59c8df757e64c99ff10aad4e956d168c6ab178801d726a35d82fc095ebf40a75"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045505",
+      "npz_sha256": "af757cb3f23934d9b6dadb1123c4b2f1c9510cb0a21d7ac1d2b746a5bf11a8d6",
+      "reference_sha256": "318340a06a8209d0070efee8bad622b648e675d7ea372cd44272841d3f9921de"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045535",
+      "npz_sha256": "ba4643eb385195489e035caa90cd8ed5ab5413c3e5fe26006938917a1a098333",
+      "reference_sha256": "e80b2644880b391e415dc61f722be83c0ccfbf74275be9d28a10e6d3d4166ed0"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045620",
+      "npz_sha256": "c2562bc6e49f4b8abab8c1341a3745050df7ddd7a6049f0b24156172d9e9f413",
+      "reference_sha256": "90d7b7537f9a6dcb7d66c9611d5b6151ba44cb6e9c7374f8fbeda839efad591a"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045653",
+      "npz_sha256": "0fd600978faefce52ec6ad363323bbc1965189d002de1967e032cf6b6c739159",
+      "reference_sha256": "3b4aff1dfe2b1561f6dccd7574fdf1105d30281550dcf71832fc6a4aa0cd52c9"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045711",
+      "npz_sha256": "7afd60f317b571bb300feb251e3fdb98035a048a96520402470d72dac6969705",
+      "reference_sha256": "b71bfd4d81b3e0dbbfb9ad325da9123b55adef3d3d0c2311505f673abe5e2edd"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045724",
+      "npz_sha256": "c8e78a34b499cdb9b3ca15c8111423f9605e64375ba413d7ab610af7e900462e",
+      "reference_sha256": "86e6bf0d79d01fc48804886d8f8369d71824b702d5c4e0c31bf6002dce319a70"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_045939",
+      "npz_sha256": "f4b8b5851c4de0d8e676783471d72ca1de184d11ef079b84963819414ba540bc",
+      "reference_sha256": "87726cad64ccadde75f28fbdfd7b138be8bf9e2a383ec4a17d7046ee7b7c4d5e"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050011",
+      "npz_sha256": "ed1f48fbbedd20217d77ca7e4084269a5b9a9b0e73df1dfe2407d6fe19b51f29",
+      "reference_sha256": "e7f89c0c0a417044bb43e4d06677421c529c216cd47879a332e5b52d4814ee62"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050034",
+      "npz_sha256": "d99998b0063581e6fd2c070a591a665fd8b7535fcfa19172db7ee252d8c52fb9",
+      "reference_sha256": "6a486d2b5c6fd28f61b8bedbae436446b41268083d283ea157e8831da95f3bc4"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050058",
+      "npz_sha256": "bba38e0a32c2a8b04542763b54c662fb3e17c5189ac30d0d3894112da662753a",
+      "reference_sha256": "b4d6a101d2df03e40b48583268498de24a890c74f408119170e9fe1c7d8a67e1"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050134",
+      "npz_sha256": "bac9c0ae6b1607c68d29a50662aa1b6430952920c4b0bd920e41d2719d9f2eef",
+      "reference_sha256": "0aead2e0ef640300daeb31a747aa88379bc8fcc47009e9b5f387ce91f641f6b4"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050154",
+      "npz_sha256": "0d8251b44d41d8e2abae3f85c9123c1ce8e846d495e04baef97a613d27a35178",
+      "reference_sha256": "9136a562896b6d7d90c588581b052e9d863c5c0f163b0d4dbf23eed0e3e21b54"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050218",
+      "npz_sha256": "155d7f24cfa6256c0389d85540182a2373e3f80266946d319b1cbf6c1c4d3fe3",
+      "reference_sha256": "415da34dee79746a6744bc6efb68b5b999bddee73dd1d351fb01980161158249"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050242",
+      "npz_sha256": "3822ffc6186adf2fcefe12b8c525230ab613af4905a13c6164aed19b7d2b4374",
+      "reference_sha256": "78841e3b4686c155aacf38a90571a8739a5a4905fd007be86ee27f6d267fc991"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050315",
+      "npz_sha256": "81903d3c6dcc8179c3da656a725416dcc77a2230632913a64253142be7cc5e5d",
+      "reference_sha256": "1d6d9ed76f21bba853c8eebf63959aa3df7a0e06a05a6e9d1a80c720b0b716c9"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050346",
+      "npz_sha256": "9acc520da14356ef93a55bb3758b9e11108c526c0fbba1468941a20b4f7b9411",
+      "reference_sha256": "fc0bf19549a06c267af39e1faae5ef219eb7d2d2cd846ef262f85da57670ffad"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050426",
+      "npz_sha256": "253bad5278e475ecb43f8b613fac2fa9ca6b0148427ee03666a5f9260b0d5646",
+      "reference_sha256": "47c8d3b4e9d9c88af8fd168508c515edce405f98cbf059cbc69045ac71fca7fc"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050447",
+      "npz_sha256": "5da2246be815e8b364b6f4c64c0f68524f41101fb34a9792d8ca3bbdc0740e7c",
+      "reference_sha256": "90cc2db20ef6528eda6ad07c6599427f731e011c301246e2d124285d59c53b7d"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050512",
+      "npz_sha256": "eb62342dbf8b28bb6b893e4b7808fdb169c6da9d01832684edad1b06357b961a",
+      "reference_sha256": "2b78eb572ad0277d1106e0e5a619e5fd0bad4fc9cd08c8045f74212ee59c9e5c"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050527",
+      "npz_sha256": "2a3067521f5e4679a7c3a179d95e68980e097278f98cb5432063e041eb9b1905",
+      "reference_sha256": "7d98981073211a1194f9dd5165ede2a6d840b7b0af84173fd167fbd9f2f0a950"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050556",
+      "npz_sha256": "0960953a69ec121f8c785702f9c5a09c0562c63199f69809b9f6b5769954b2a9",
+      "reference_sha256": "2ee15cf00eca5139fbc7ae6eb32cb577070eee30885deadfaa27f1cdd130eba4"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050650",
+      "npz_sha256": "437c20964f8a14b956523329e647928c6a4b0caf427cc4faf6fd006147feef13",
+      "reference_sha256": "bc8904aa22917fc1177d73da733b06743a8d36a76640684087f0a005f7daafde"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050710",
+      "npz_sha256": "e361f26905b0035e1826abfa1968f476a0d38980e373ae5a4c596dd4eaa333f0",
+      "reference_sha256": "59c3d6685f7e48f6c7194fbe58198e6b2d1a184e4860bb686e164aed7698d347"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050723",
+      "npz_sha256": "8f78c05e7cf88d5e17a0a1143d206c199ab5fd9223f739c1dcd3ab7b20aba792",
+      "reference_sha256": "9fa1eeee28b6348d1fb69d67e924ee526e023c8fd359b616ec35289c8a398180"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050755",
+      "npz_sha256": "39e893ccd305a5e31f5c749e9b8cf2628eed2256057b407530cb52928e96f2a5",
+      "reference_sha256": "a0b10e4408418bd9d286371f53fb5055b5829dc4ac03a543fd037b3a469bdb90"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050837",
+      "npz_sha256": "39e2c611f3e732639bce0900b3e8b9119e6ec4e52e21075a03898702572e3d31",
+      "reference_sha256": "bd8d1e9b857112d343fbc75ecf12fc047663e099f84c98157903897a51bfad7e"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_050946",
+      "npz_sha256": "1cd71f05c5bfa0d0a1aae009711a65b9d6986daf8688aaffc9dc6a5bc0155950",
+      "reference_sha256": "ea6e9e67462f879a9bf8b734449da6f1804383e890e22c674a5e71726226d43f"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051021",
+      "npz_sha256": "4ca4bcd1196e9181ab73248afedf8749a13adc63e6155e25d4c81904905b42a0",
+      "reference_sha256": "cbc3072f5b7396da0e7d55ba65a579bc9661dcdf56a2b922cd9cb88cf866a39a"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051042",
+      "npz_sha256": "261c6354eed7f9ab13dd2b821a2d21f4659c80ed43ec583aafe2f76dd80750bc",
+      "reference_sha256": "233dea9bb3694b4278e7fe6074a8f6d370afcc5fb040c401c2d2f5988f1aadf1"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051058",
+      "npz_sha256": "3c07f09c0725f073a25db41b340cbf9633b5b1bce33583eb52fcbdcc37123def",
+      "reference_sha256": "639d46f6c66f261595d581a60545294135d7a9e97c5bcbc8bbfdd40b0bcc5751"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051143",
+      "npz_sha256": "86ef10e43ab8430f20a2bbd39188905cbb9666ed89da40f7f1ace7094685a6e9",
+      "reference_sha256": "55e302a4bd9561711a2bb1c82111b733ab6b9e53b8527ddcb466463a3ea04455"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051212",
+      "npz_sha256": "ddbf0c2fa87214b7f83c237f12e0950a934db9e3047821615e7d6d2e4f66187f",
+      "reference_sha256": "0c47f4c33d257f48d4c4acd0bed163444abe0d7e522533c5599eb6262e9fbb1e"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051241",
+      "npz_sha256": "1c1713f74eabea3ceaa4b5e380f8b9e4a013b054336b673eaa514bb74cf084a5",
+      "reference_sha256": "78a0a17cdb63f0239138139001885ebf732f656e71cccb5f41fd56e6fe1edda2"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051315",
+      "npz_sha256": "15f419bce8cf3f1795318ebd055318fdda4016cf7db374e77d008dd2fbe74a51",
+      "reference_sha256": "c099f5aa603a6e8515baba8ac975b8fd62595c2c6ed4aa354997fe8c5142f133"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051338",
+      "npz_sha256": "d4628d8f3991d820ab73743c981c095b3251043710504d2a554508d9fc87a9cf",
+      "reference_sha256": "8e365ef79f4d7f573cd1b04425e8cdec0be0e1785561c6682e842671b27c86e2"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051401",
+      "npz_sha256": "9fa8c334a490b2102123e4d68e79ada508399a9f55093abafa9f84d4a7caf555",
+      "reference_sha256": "5e1b1373fa01ec7c429c75b38c11955f1270d7de2e8e0b4ced1b4595b4ddf54f"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051419",
+      "npz_sha256": "ba57201a5ca697a6fb0c60639731585ebb40963f4c3af5dc31beb0c546b0d12b",
+      "reference_sha256": "0050d6f8032ae4495b8924f8a75a904a20eb9b5c54e0760379133fc51381f729"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051537",
+      "npz_sha256": "d4e46a34948287fb4b64c0914f118c4d049fb522072d21afe9419b01345010d8",
+      "reference_sha256": "cf726c7f2fa7503e74cc33157b07c9a2369a25b56b98406e979a6ee10f1f1fb4"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051727",
+      "npz_sha256": "2f0de9f04232a1bf4a2e1335fa1b7225e1068a50504d40db7c01eba06e1ca497",
+      "reference_sha256": "41cb0b03558f01020ebab18efb0ce547dad7b0254601ec18a646fe6ca59f00f6"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051803",
+      "npz_sha256": "4f3b3972701999913d0c48ff20d76d8ba81021c2219b1625f730c0bd3336e113",
+      "reference_sha256": "9dc46e41456acaab6b36e644170c16c1a95cbe279c87b61c0257180bc16b1e57"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051824",
+      "npz_sha256": "9add4d6f367356334f7a5ed0e41065fbc274d21114b88675343743df02339726",
+      "reference_sha256": "b830ebcb5284c6c038c2dd6003b37206486d00f04b0ea967c6005095db15683d"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051901",
+      "npz_sha256": "3d1b0a093ed2c166fc0cf78a46442468825b910099fc7bc9ca7e7edd36104551",
+      "reference_sha256": "7490ec5adeec05fe3661d632467618f7b7c7c0f55a33b7de39de7dc1fdfaecb4"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051931",
+      "npz_sha256": "14060d37dbec0b08c55c846828565dc8ea7ef59734be46d6759a26a16e3f01af",
+      "reference_sha256": "e6ceab2379c38865d9d66fea5bf3cf027b3064bb590df416855133a2dcf552fd"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_051948",
+      "npz_sha256": "1291aef43a85ea819635d7f75c0eb170c467cc0d07fcdacb269825cea373192e",
+      "reference_sha256": "a78a2d01d2a9d242e8066531c65f904405a054bd6392f90aea3420456275a5e3"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052010",
+      "npz_sha256": "43900784ae540a21ce89109f3ca46988d1cc0fe630e62a1a05c935452987af2f",
+      "reference_sha256": "ca5e5e8c48ad80bcc1e82f6f5b313184fbbcc7b35f56c5984e1fca0dfeedcf15"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052024",
+      "npz_sha256": "d9414a800723f5d22ee77011e6db3e395fcaca13ba4db37016fec8a46f712499",
+      "reference_sha256": "842697f83c1ea20037728c93875a0724bca4080858ce2419d468875b694dbf87"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052116",
+      "npz_sha256": "9a42adf0130940326a6136f535f73b6d407946d211889d34f4964df2dee7eb46",
+      "reference_sha256": "728e951ce077db825e9c02a064994a162efb23baba766d09ff813b0a4c6d5ef9"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052149",
+      "npz_sha256": "3820c7d8dcf56cdd8967198388b7a3381fe85a4a9a4d55675e363586c8dcb921",
+      "reference_sha256": "16a326cfcc0f7a28b3f95506c338961c814222a6110fdc0404f115e449429452"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052226",
+      "npz_sha256": "fec40dd6ce0f6ec5b18c7be2e6e2d71ba683f6d64f92ff658ceed0ec6d0fa54d",
+      "reference_sha256": "5447ad2ca395448c405d237c17a1c45c1901c5a6fa41a8321b084fed4df139e0"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052251",
+      "npz_sha256": "f696c9d8cba8f0c7cc83a224eb107f4b8017301f771b6bfd3bb71f1d3d682635",
+      "reference_sha256": "e01ceb99ecfa7de050df954f16e6db6f203cdafe9908197e430551e9f750ac9c"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052325",
+      "npz_sha256": "74f33a7265178e884c8793fe7fecdfbc0e1641e8baacbb1db800b36473cf1d83",
+      "reference_sha256": "05d67217038a8171ebf96ff0f0408a3e4dbe3bed24b9f1b1fa330737a94b0cf8"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052355",
+      "npz_sha256": "05e2379f79120734a7692989a21343905b9b85d949797c4079733960f130381a",
+      "reference_sha256": "6b32f1098ba1e005e3be9893a53122cfd56c26af58715db04579a8144f7ac3c8"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052417",
+      "npz_sha256": "11aceae0409b7bb40c463806646d22280bf4ec8eeff5994bdd8aaf83a20e2255",
+      "reference_sha256": "e305d55bb3c7e79fdc8fb4a630d7581c51cf82a5cf47b92b87fb40df6bab6c50"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052544",
+      "npz_sha256": "1bc4bf0a7475c95159f5db01f41f8aed21db78661010fffb1fe8888f904533af",
+      "reference_sha256": "c761ee7df982d11072f9f3e84ffcac62fa77dbfa0b2c88a585fd95376c8fd123"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052615",
+      "npz_sha256": "2929108ab8d0b7df787da9f0155112ee578dc5b479765ea9218e225927ca4062",
+      "reference_sha256": "e4e32394becd72c47705c3d8277ab85ba01069011fa63f17bb97a1ca0d25ba65"
+    },
+    {
+      "capture_id": "P01_MAIN04_recording_20261015_052640",
+      "npz_sha256": "f5ccc10ade99351122181ff7b73011a3e2daaaff083c1fe8f9fbbb03e1a625db",
+      "reference_sha256": "9f1472ba1b5d5646218d8bc0ac815967701fb5e349dd486561058134b7ef18aa"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113007",
+      "npz_sha256": "99a1274d9e675688527d826cd2eaa7e7c636d320bef61fbd46c703e331483aa8",
+      "reference_sha256": "6bed495130003c199905e620770d2c507cf21016d2ca6302015ce895349812b4"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113149",
+      "npz_sha256": "df95fb3cd51996cb3a78c48c948af6c9970baea636965b24b459ccf751d12d57",
+      "reference_sha256": "1c3b5fcb3a13adc3b4d53b2f521c52cb03c2b75845f1e487573b18aaf7432bcb"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113229",
+      "npz_sha256": "04827afea47b7403c41ce519b92f97e21b465ffa0571a2609a32be0362fd0ac2",
+      "reference_sha256": "4e90caa52cf3c88d79a4880aa13c2888a628a3e6d6b15b77b628e4648b8d84c8"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113516",
+      "npz_sha256": "faf40bc38e5d59caae063aba4c8e0c43934328adefce50fa13e3ef2190e3e720",
+      "reference_sha256": "ed6a53ddd555e3656afab3462897966afc24fcd77dfea6b8d03abbeb380443a1"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113536",
+      "npz_sha256": "b3f82a2d62e02ffffa5e92878b415dfca377f23cc075ecb6f9c6f7e7299c3e89",
+      "reference_sha256": "30c5ac39731a973dde9fd216f1c4637c6ec429b02196b2127c96b9bff65f23de"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113601",
+      "npz_sha256": "fbe9519a098811d18793eedec6106c4df901cf70721027d737d11edfb99f4551",
+      "reference_sha256": "0356e6601301b71db6de5736aadc72217e6ca4474ddbbf0ab67cc3e27eb6e9b0"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113624",
+      "npz_sha256": "f27b1da66c898619bc9f3d1e6ecbf2b66928ffb0d5543552ec526ef0bdbc4ff6",
+      "reference_sha256": "6d3e8ee06ec9f0891024d7ce2def327c867015cdea8a49fbcbe80d5d3806bede"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113658",
+      "npz_sha256": "8b8a97418b4414da09e9347b253987e449f052f0278c53d1a145fb784da512dc",
+      "reference_sha256": "2d7f7220d3bcd5371c2ebe742859578b204008d0e234d46efadfc483fc89ef38"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113721",
+      "npz_sha256": "efbe3589c0ee2124fb5bcc41accab46c8c3dcf8d9af73b4385bbeb47bc1becc2",
+      "reference_sha256": "4edfb4f4579d76b9003151019ad0ce91fa3e77604e18009f0e241b1c502155ec"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113803",
+      "npz_sha256": "0ae3a921ed9dfb42eb3b0e1f35ce4aeab236cfbb259bda3f9b105686e8fd6853",
+      "reference_sha256": "3e8e9faf209bfdf43c006115d033ec1f714bc04483513b652db6a3f665efa8e1"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113817",
+      "npz_sha256": "5c4f2c87c917cd8b38f04c031218bf863355a8ba29ad213abfd39507471ec43d",
+      "reference_sha256": "d1017c9467c780079a063be3d6dc9c9a9d62fb3ed652aeac6f72b87478d5c4b8"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113835",
+      "npz_sha256": "339546746b401ca6c83ca5b0bf2b65eed10f4c4418805de4a61e5d89b0fb36c3",
+      "reference_sha256": "edc6bb5a300aa539a66fab43d23e6b9160a7fa4d0cf088eacc8d28fa08b896bb"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113850",
+      "npz_sha256": "aca3eb76c44b9e8784b94a7038a56ede16ec96885a38c1083cc29d883e2080e2",
+      "reference_sha256": "d8b3636d0be91a8ce884e3156646e13231c769d078756f348c881c55d5952fcb"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113916",
+      "npz_sha256": "5255309baba2b11e7b6b024dd8236744781ae04b9ec1068e0ab0c7d51d581425",
+      "reference_sha256": "2d7c60c06c5fc42947232d1de648775a3545a42f8e52d04d9a61334ddefb0976"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_113957",
+      "npz_sha256": "d74eb9b9408c3ffba8ec0d130a9edacdc103322a81ec0a34af6733629dc6524d",
+      "reference_sha256": "b1e77381271d9ed63071c87660a1c63b1ee68bd17b7703d4f2341e2d688c2d8b"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114026",
+      "npz_sha256": "0cbe0f766f19ce67cf6c80ab14ffdfcc86f78bd3e3ed62ad3bbe03e814727533",
+      "reference_sha256": "a43d8fe01f69f775be8fb45b5800d1cc5a5f791bb2d3a11356573857f244748a"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114043",
+      "npz_sha256": "b75c5f02b81c689c6c8ca6d0a5b8d439d32b75a159cc02d7ca0b51129d617851",
+      "reference_sha256": "e2ae5b64b9d9c47349dfe5949620031e8aa6b760792d6dd65c2a0613cb64b8aa"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114059",
+      "npz_sha256": "a8947ad664be7728d74e509372cde285d2b2dfebfd1c2bc60715b0021487a668",
+      "reference_sha256": "a248bb49c373290f3fc68635039917a0dcc59923699f7c31a0fe9a7c9dc79a2f"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114120",
+      "npz_sha256": "4934a4a40b0454d5d8461a606b6d82484c7075a5a5f1bbfd94e82634a81c041d",
+      "reference_sha256": "4856e892b4c778e8c625042f81f4f751abe38e31741337a2a5bf39eb50208e20"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114146",
+      "npz_sha256": "77be51e7f2264677d02fd0e0a562031e1a734e450cb083cfe444c5edc70c12bf",
+      "reference_sha256": "72235ba71818d8876a976452bac7ab21a86641e3a08eb32259f5dce3026aa404"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114214",
+      "npz_sha256": "9c751fa4a28f08d902efe0890cfe76e18ae95619da36a7f75f947eec6bcaca25",
+      "reference_sha256": "fa76454344ebd3c59a7f00b23a127f26536781a9b46978a16a65e1747c725934"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114249",
+      "npz_sha256": "d57e59212d67aefea2d576c778585f74116fe404e4d6320bde6e3f93a651d5f9",
+      "reference_sha256": "81d5b24ca11489b9547ff8edb1a9dd65081532c0338fc0698480f9b71ebd81fe"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114300",
+      "npz_sha256": "49064c597f85c64524b664b93120248d40c49c74bb8517a581c766a92d3c0d23",
+      "reference_sha256": "6510f40eb9e3084e5bd41755823a6eef8db89eeae281a4293f7e508e8940d20b"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114321",
+      "npz_sha256": "289bf56bdcac3b0af6995242baba8a9291a7b80a7ae2a1a0b613b1329ee3ad75",
+      "reference_sha256": "390201012b3e6db8cd2e29b820abaeae8d6ddcf576ddc79db61773226afa792d"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114342",
+      "npz_sha256": "978b091229ad5e33c99013056225ae1263ef97f48684792b4553ecef01e66e17",
+      "reference_sha256": "096b492b413e3c1464d56beb3c98b3576195e604b20af560a920b762194e1756"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114411",
+      "npz_sha256": "3447a9922201883822b17cf28e879d30260899d2bc53279c72f6b5639579ffac",
+      "reference_sha256": "14d4b020f4aeaf2687dfeac71cce860e65b79383f04d939b53a46296f1cea9b7"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114427",
+      "npz_sha256": "42e7c921f30cbf9474a61821a5d4f28d9b1e28671ae97a08cae04e93b9a6a748",
+      "reference_sha256": "c3f75571e8aa0d3d95f1d8d86a73ea0d385f44072694a42416cb4fa687f0d034"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114505",
+      "npz_sha256": "38aba244c4f4b2eda831f3ff2a9f6a8cbcca06b11ea8791b6e82c07938c71d16",
+      "reference_sha256": "0d62f11113a154276b876b2fa5ed88098196dc72a442f26e0ade64d99ade26f2"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114520",
+      "npz_sha256": "ffd845097241f64427c0d14394f0451fd88a8b2c0368d05fad61eda0daa127b9",
+      "reference_sha256": "bf331ac928d5f8463810b06c47bc237cd2474e514c3b7a50f13ce8d8bad10427"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114543",
+      "npz_sha256": "db9932fa6fbdd13cbd214d9b9b0e9393d698c237902f1b1236dc365c050aa287",
+      "reference_sha256": "780d6f447f9c96ef6c00493f67056d17d2a57ce47e978a4017741ca16997cdc2"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114608",
+      "npz_sha256": "91fc293beffe99ff6da0a20c5b52925af89cd89749c84e4e4a13f3c4fed6f7d8",
+      "reference_sha256": "eab3959ad148aaa17d055db62ac632a05e8db743cf855f6cadd1fb6692e369db"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114630",
+      "npz_sha256": "58fdba29c4cdb5a3c42d7bc7d23acfcb7937483b606ac52e9ffe0bbf5fc41d96",
+      "reference_sha256": "bd935194f8490fe4be23e89ab82076783b398163ad31a8c8dd60f62f42f37523"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114645",
+      "npz_sha256": "66d19d90b7b14a15158c90815565ad4d2fe214f6fa434b88f6dfb6251cc4b28e",
+      "reference_sha256": "9447154c27c264b4a0a31bf06f8a514c11abc5e5ad9ab4842bc68a81743e84d6"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114707",
+      "npz_sha256": "d5c397809f8ee985122d071bb5707b20532691c6b374ceb40ffb61d277ce5d50",
+      "reference_sha256": "1cf6ba00e6ae82bfcdf4d48da196875cdf2c015f1ad3badea04a39cce8936de1"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114726",
+      "npz_sha256": "f9e4650c6509d12b4f29d897e58b05535d5aac0469f50ac4d3cbca932869e95c",
+      "reference_sha256": "d304072704c42dc9dc479e5795cb1c7d1e3dab6c208f4fd560bb02fae9152878"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114841",
+      "npz_sha256": "3f490039cdf9ddc2e2de38ed6bb8447027a41f3372b4415fe033adb62571b793",
+      "reference_sha256": "00c4522209cba794d68c255e13d2404814017b6b64d8f0753519b270d48bf6d2"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114920",
+      "npz_sha256": "31e9bfc748fb8eea2cf24a35bd0e029f48c3fb7824c8b51dde796d90c5ea251e",
+      "reference_sha256": "28fbdea44106cac71a96fd472ecebccc81b175aef3b6c446015a14e65f52825d"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_114953",
+      "npz_sha256": "1c738587ed44cd37091439aa59c2a10f90fa1c72adf5a04d2358940ea471dfa2",
+      "reference_sha256": "f4fbc567059b20278bbfa638732bddf7e8101fa25de7ce8dd23b25c167d9c84c"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115020",
+      "npz_sha256": "4c4a46f3b70cf31c8fed15f2fe0199d4a682bb95646ab091b00f52d6d14ec4f3",
+      "reference_sha256": "e547d377aaa0b5652ab24eab755f73a61b8aa5b8bf3c809028f82320d779fabe"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115050",
+      "npz_sha256": "a9e844734a6438cef8e72a1f409a18a86c6252b1fb1b6966193be0f764931691",
+      "reference_sha256": "797e84f213fbf15b97821acf1dec7e1217e44603c0fea27fb3926e60d3faca37"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115107",
+      "npz_sha256": "3dc1dec11c46cb8e67f4db01d4d475091d5caf7d08a8dcc7561733fde94a9dbb",
+      "reference_sha256": "b936cc716ee14557ce164dbc38234f41c102ad37211f5d810fb17b4837aac944"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115129",
+      "npz_sha256": "c1e8cc2e936eec8f5faf10767fd4c2c835a953839d691853cb5c9a60475097c0",
+      "reference_sha256": "75e5a52e26681ab5528356c4f5fe2e89fad8e989502c20a9834a229633809162"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115154",
+      "npz_sha256": "cef3e95a0a4b526481740f63baef89a386c73572d9508f1102553e213f7f539b",
+      "reference_sha256": "c38be9ad69a7f7d94a72b887a1a4dcac451774f18d27a1788621dada0ccf452c"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115212",
+      "npz_sha256": "17787723f45a249c2eb18dedd924cb4c3bd443beeaa2c28aac53953d64eb6733",
+      "reference_sha256": "34773b726d7c1e84804ace63d42c7a870aaf562b37bfc377cf411cbcd88a4b9d"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115238",
+      "npz_sha256": "5f4dc997b5aabad466d9ece326e1efbd686232deb26bbcbce51c7650c69791da",
+      "reference_sha256": "e9a384046142d2f5e85dd701fe4db85a7e78dfa1ad76d3d8978107be38cd387e"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115309",
+      "npz_sha256": "4ed0bc66afb581c57ebaa9be2dd9efdb1a9451f7dd55e153ff53e80cf1c015c3",
+      "reference_sha256": "734073a73d20ded9a73e9104b54298ffb734cfefcbe18e70559bb8c5eea9883f"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115322",
+      "npz_sha256": "7ecde8dee02812d6c363b2329c9faa9d192c9b6b7c9f0a7aaf141f476b872e9a",
+      "reference_sha256": "565b1f130f0ff8ff0c921d691a307e967b50e4f034ebf6fcf623d0b795fe1322"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115347",
+      "npz_sha256": "88756fb4506042ebb8032a60a1ee03dbba2dce9f7ce161e189dd99ae50da2985",
+      "reference_sha256": "95688c0939bc74715edf70f3de98da987ffe4242065cc99f85fb7f0226325ba8"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115425",
+      "npz_sha256": "ba1d42c9a06b84631cb0bfa18ec306c8a0ec74c2c73711b3d8888115f4c8008f",
+      "reference_sha256": "c804154ff91172f636981806d5f2ae7f1dcbcec5ce110eb92b3979ca20a2d8ef"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115509",
+      "npz_sha256": "951cfca7d77de9c12693c9b444c5356c4b315577d85fdab27024d15c05b3028f",
+      "reference_sha256": "bfe76bca377b5db681be2ae41863e19c05741c9e6ec54b7132776d10c33ba6f6"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115529",
+      "npz_sha256": "246e9d5a378a3f83a2f179649749b11d1fc2f32986ea549673a16868dfd4c5b4",
+      "reference_sha256": "e3e95a3db9272046e2515b79557ae4153e988dbc84f8ca8252b201d3883058b2"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115546",
+      "npz_sha256": "78f6511260bd3f13b5c21d1434e0f6b1fe6f65bae4c31300f8b4a86a83274ec7",
+      "reference_sha256": "6f590e1b25eedf622d22a99ceb500a32d70053edbf10b973131d8190d25f6cc5"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115604",
+      "npz_sha256": "6270e98e18a321bfd0fcda0d8e09630b6ae4fa345845a8aea5696141be00712d",
+      "reference_sha256": "d6216198aac8f1686f7fcca362b95671fb5e4a8c0c8bdd77db2c1a62d359cb1b"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115625",
+      "npz_sha256": "7d5c28882ed3a1517235425d3704e1e3bafa2d3406331ebe768d69955a98430b",
+      "reference_sha256": "ff0c986f797fa46c070e3b97597f3120e7a864bca9a1929410cd7d214cf1362e"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115655",
+      "npz_sha256": "68056c3ce09e4900d434ee399c9e0933f4b18b545c4330a42dc381697be9bb5f",
+      "reference_sha256": "7ee89b087194794fbaddf97abe1b6d674f5cd6ff7ee385bdf95c2b4aa5efb3a5"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115707",
+      "npz_sha256": "c8326e15a714a8e01f40e2b9f457ebe7ed4b789cf036fbf771f2c176f461f8c1",
+      "reference_sha256": "17080a81ff60fff23d719fa87cc3b79a9071ee9140f0e00e345830a000a61a8c"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115731",
+      "npz_sha256": "8aea371bf81c21c1d9ce644d3c205d6b0d7c347b6411cafaf226b7ef9959e653",
+      "reference_sha256": "376b652e136c48ae3ea210de572e95ec95e8714f82dd1fe8b8fbe3fceb40c6a5"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115805",
+      "npz_sha256": "7438fbdd490e934b373642365d2b26429af2fd996b821ead7246a1e51acf91a8",
+      "reference_sha256": "df9a9aebe7bca08f9414feb58aac188e00090986c1f845f496bddc4939a59387"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115841",
+      "npz_sha256": "60ee3462578228f822080cff36b6c0dd71a76ee10275d1ee2c962201823f9d4c",
+      "reference_sha256": "8f91a6b0dd110b131fcba1c63d99cd4eb224cb965fa90eee477a21b33dcec9c9"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115900",
+      "npz_sha256": "4c08b8ed6cafdc5cfe4921db1ca3ae23d0078c380cedc7b0edcdac6a918c0dd5",
+      "reference_sha256": "d630695e293b0d5b93120b6a79b7800f1e3216cfdb2256660bdafc9d3b2ab671"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115920",
+      "npz_sha256": "2f782e3862e28fb81327ec981565d81f631eb66d3fdee907f8c34c1bc53b3ceb",
+      "reference_sha256": "777cfe6bc45036c5bdd00c0d731e82a609f598cf56ce171a78984d1da381b60e"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_115950",
+      "npz_sha256": "23dd8842a1cacdccbad396835509194e98f2f445d47db5403030a291324a81d6",
+      "reference_sha256": "1c3b3a871e879431b5e0bc7527774f4c6035f0bfe048bf04805c30a4e592f384"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_120020",
+      "npz_sha256": "27c636d7ab3ff1fa3c92b7bcceb0e36804b50d0ca791e0d6d329ad519bd687a3",
+      "reference_sha256": "aff8c0ba4e1d09972e937d2e802c8c9bc0c0eefcc76e7fece3c84ee92da7a637"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_120054",
+      "npz_sha256": "fe760d44c1d67b70d07cee937f5b0bff2256fb75f403417754f3f1a4465a71f3",
+      "reference_sha256": "cf05f2f40370b49997af6a5d2673813413321a66774b16967ce43586e28bd970"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_120104",
+      "npz_sha256": "cc400e253188409e52b04232386e848c997b2b9e0ae72f4a44147f9b3409da37",
+      "reference_sha256": "f1ed26b86b865820aba8eeed3987da2ec56f5e3a812e7bc7ec0628c10ba6e5a1"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_120122",
+      "npz_sha256": "2ffc751418b59efcd04be7441e858c68d0be05970584234053c133e6c0212dc6",
+      "reference_sha256": "6a497e4eb208976ae208cadd7135edb2fa58d060ac71f40dc478035b574c138c"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_120135",
+      "npz_sha256": "b8aec0db0057edef0ef164fe882058699e96b325f9fb837fbf1d966612766b20",
+      "reference_sha256": "ec2f02e5d6ef8c1a7c8e54605ac2e74f955f8344133d80ff5213ae92233cb2d9"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_120222",
+      "npz_sha256": "77f84ccbffd246b268be3e603fb5aca72a2c81d6880b2b80cf0546eb7f539b4f",
+      "reference_sha256": "286f51f7bc197803343270c99ddf670635c2ad5781a63f3457dfeddbd028d4b9"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_120259",
+      "npz_sha256": "46ff3cfc2731f8a66b62bcaafcf8f864d511aaa724ca5ac72b3fbdb3becb5e4d",
+      "reference_sha256": "0dd969f877414456a9f82139168f80fc05180b286b5872a18d5209a81b864031"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_120412",
+      "npz_sha256": "c4eb4036ec952cc920064ce0a5b12ca83d81166a749be80d1889d4c3dccdd0d2",
+      "reference_sha256": "ab712d937a4d954b57715eb02b093e127ca72884039ceebe210e0c8810c01891"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_120439",
+      "npz_sha256": "567d4a05a4c4fe53444efc4a1b55221904bd1b06bcc86b03004a389820077efc",
+      "reference_sha256": "37ae0fda22bda5541620baf10768a1929907e458c39a81196946be31d31ef269"
+    },
+    {
+      "capture_id": "P01_MAIN05_recording_20261015_120505",
+      "npz_sha256": "d779c6e7717d43dc6a3dc1d7d6ce250d2f89798d23105795fc2db8da2e72cbb3",
+      "reference_sha256": "eda52512501f998be9cd2b72c22d6a06ee5e61947b25e04e15722db097e5cbc8"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121221",
+      "npz_sha256": "a96bb2103dee2f2f856ca479f2c1df95a96b400b1c4fb25a47535e56bbd1268e",
+      "reference_sha256": "8333a09ff716e7371f554355ec6ac94b6149577da468dfeb3c54d042f75d2573"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121237",
+      "npz_sha256": "3ae1e664b2be30f3ca4f4eccedbc6cdf2d5983760a07a81735d08db74b18e470",
+      "reference_sha256": "4a1dc7863de85792c8be13bdf2cfbaa72796348b2fd2b149c38a3908d15b08e2"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121255",
+      "npz_sha256": "9e811ee25423b0105be3abb07c02edf1756310d1f4303c6672e3c8b2dec170d2",
+      "reference_sha256": "4ea48410133c6a9cfbc3021b9c57bf254f4ecf4a2baef8365e7390016d4ec15a"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121330",
+      "npz_sha256": "189621b1cc1280b0070300721a165e424484de3b5e48c87fd0503897abf239d8",
+      "reference_sha256": "aa54eaae424fdc8581c4fa6731c4e56870e2884ace82f0b133021adafb797101"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121447",
+      "npz_sha256": "6cfe23c1588bcc72b2b9728e492d4e4f71b1493c48de296baf171f8392fe75b0",
+      "reference_sha256": "088dac15367f1eec77bb1a4b572452f3b0d7ce007c630e0cd02d6297236de132"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121521",
+      "npz_sha256": "25812d1b1b6313c871a691a9db86759361f7d3f34614613451eb025b09ec62f3",
+      "reference_sha256": "f97870e6d6575c223cd7aaaff080fc966482cfc6eed441a6d3c000e00960c0cf"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121601",
+      "npz_sha256": "3b129a8f020507e4b42d350b63530545895c0e622dff695e5cce537c25f6aaad",
+      "reference_sha256": "20b3baf2ffb66d826147dde4543809584d227985052f3a607391cc1e7cce175e"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121631",
+      "npz_sha256": "90137687545906744fc5d0bf6df82120b931000004b2493aad06d1448b2beb1b",
+      "reference_sha256": "48c419f83a1d138fca4d5cb6c9a5b438ce3aa53ab6ed5a9ce65b99d0b2d09d12"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121655",
+      "npz_sha256": "3c3fcf7af4e5bccdc9336b15e85dd4cfb369bcd16a55c7ebabc3078b87eb5200",
+      "reference_sha256": "f3fa231ae2aa00ab84d6ca81898658d4f26ca25cde7d03a66214174263d94531"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121729",
+      "npz_sha256": "f4e77bfe694f113a7b7487f85dc4912a6cf1603e511346c96ce829f1492ba103",
+      "reference_sha256": "49d0c71f58dda31ab31b3f62a09f5ec5977214bec7fa840a00c9289233bd0320"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121746",
+      "npz_sha256": "8894b78b04816179db4b77531c14a9ab5f2c40c6f98b59782722a6072133eaf7",
+      "reference_sha256": "21375a90d743514e3616b62bb7a8f3536cd47948ed0f910b4e918d143451af2e"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121828",
+      "npz_sha256": "9d1d9512cd62528048382c9502ad27283b7c8051b96c8ac3da24745109fb9782",
+      "reference_sha256": "0d328776a3d25c4b720c42c1e45d8de97d6fa9624679c2e37ff1f2604d4aa16d"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121855",
+      "npz_sha256": "132a11e8af9d504a740facc8fbb8e8f4a36b26179ec58918526040a95e7e1b8e",
+      "reference_sha256": "a3c9ff6a563586781987110f92ad5356bf21509c767cf98406e12214d692bc6f"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_121943",
+      "npz_sha256": "25cd043bb82b944a2b13ec908b7c46af519cffd23efd44ce0c86baa8154848b0",
+      "reference_sha256": "ff217faf79d53a78f7739cf1795d243c7d5e24045e54b82bb6cdf32ec7602b32"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122025",
+      "npz_sha256": "f326bf5b76e87f1d182ae13be19f9330590b8250683c00f4f10273e89f0d7c86",
+      "reference_sha256": "e6a78b1b3e13986df3c99eae929c409cbe762934ed057d8653c99e12516615e2"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122054",
+      "npz_sha256": "0aedb5c5d23e29fcf9f05ed02bb8ccf69ce6d1c8078a148d2b6234f2aaeff6a3",
+      "reference_sha256": "4e669b68d5748b74a1f3d99955d0cf78033911599cd3dfbb0cbe6e351680e402"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122132",
+      "npz_sha256": "8efdeb7c05e34155984146f9b4c002de2462544bdb1981d49ff9b65172223afe",
+      "reference_sha256": "ac57c2ee2cb2016fe2ccad6144f784670f52e5d40287d1b88412dcf3cc295334"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122150",
+      "npz_sha256": "1461c49129f3425cefbe761f4bb854f5e279e34f9e8976632ab1a3f9c7d57ad9",
+      "reference_sha256": "4cebcb94e150d7eba70066196ce1114c23125e94cfa306ad43bf6e7a9e162cd9"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122207",
+      "npz_sha256": "11e37680685a7a1100ee4e289e1207c07454905ed611b94721e1d1eea84b141c",
+      "reference_sha256": "6b97e2015091cf2da4f66209fc267be59362e048fb04dc9f9a87c515c012b80a"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122234",
+      "npz_sha256": "4dca124311b8b1733a9cc3700b62db0a08aa347bf5974d95683339047e12c507",
+      "reference_sha256": "336a52da3782ca95c319a8bd2909070797958d64eac56eecc053beeba6621e72"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122255",
+      "npz_sha256": "725ca77c0d884ee131556ef8c346d7122e8b047aacbdbc02866718f626b24998",
+      "reference_sha256": "30eeee4934d807b1705f8423f1ffb28f0d0464e01dfe59ff28719ea117b1ab85"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122328",
+      "npz_sha256": "1488fbf7f57a6b5859427bc552e83378205c60d1155ce82cc1b0b33dbec92987",
+      "reference_sha256": "35b7767d6864ad7598b437b073948b2495a915379b021dc627dcf18508e87e22"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122349",
+      "npz_sha256": "7cf2d94417825795e766ab2ccf4569dc0589ae4e151c81bbab72f17168795431",
+      "reference_sha256": "3412087564612195000acdfe59362f4aa0887e21ada4e1564dc939ddc711f281"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122408",
+      "npz_sha256": "7b54eda1bf00328bad603d17278e18ba1ef1dee865b5b1a1fe6ffe7be3ea95eb",
+      "reference_sha256": "c961bb15810805e303fb490a1b1b3733106a603ad2162f7ba0ff5cebc8f800d8"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122429",
+      "npz_sha256": "1b2aad98da90ae87ca8c5e01631fcbe171f013b4f21ff1ad405ca10a1f4be4d5",
+      "reference_sha256": "06ccee217d0caad4845d9b76905a4ed852df895236b9d59ec755f0cb03d19e30"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122442",
+      "npz_sha256": "39e55cb43eccc4b105f6bf0d7bb96867dd29b22bc2bfa7d94960e9e2461d8e14",
+      "reference_sha256": "a31496370a28edde81d099bf1ca76ce51278f31db1e1bc2650a113a453042157"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122500",
+      "npz_sha256": "c5f6cc4d466152c7a011683dbd96f42f9e5c33300f81752951e37ece0ac4d68d",
+      "reference_sha256": "31d13f50b676420b39b69d3d2371e079cf0c4e616814299e98519c90546e937f"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122515",
+      "npz_sha256": "e39efbc9995af2b1566d386e5926cc1de7d898c75800b6bad821e48eb31f5770",
+      "reference_sha256": "f5f62a8cfccd2a3fbae6513455c9eb99ee8d18fa242f7a3ccb708b4f879a40f4"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122545",
+      "npz_sha256": "7852d02f30854c48a6ba98acbcb6130da16538298750b763e1ead43166dff42d",
+      "reference_sha256": "c29f4839debb07bdddf672baa51264745ac4fa9a1ffa9b6959c2c29fdf7c8083"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122558",
+      "npz_sha256": "99e43e99c3b76fb4041a5eba47ab39c11cae50aca540960b2a2b8c56a63421d5",
+      "reference_sha256": "8e7c2acd0179bdff73de5be546c5ab644a153e512589b90b9426fe333539a133"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122616",
+      "npz_sha256": "a228daf5da2f69f93d34754b3001c320785831eb806f694fd374c687dc7bf476",
+      "reference_sha256": "b41fc7e2e3516f3a4ac873b58ed3a8477739759160d387caaf7a8cae38e8b9f9"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122641",
+      "npz_sha256": "9f67cec2b8e51899622bbfc84b136f5abf176ee5b0696010d6c2b498c3d0eb29",
+      "reference_sha256": "b08fbe8bdab56eb2654b79ddd7030cb123f6edf7412e55c7f9b0665f2198441e"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122708",
+      "npz_sha256": "1f3a6f58b2ed8f21cc2bf883499c6507ffc78919abdf81104a377b4aa104439b",
+      "reference_sha256": "1333835c05853565547e26d7200e6f42e56c33509522a50350152510e4361870"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122722",
+      "npz_sha256": "ded7f160b274e3121be388020ec8390bb1e68670a66002cd5e2b22ed8a20773d",
+      "reference_sha256": "b821c5e75cc51b83bc0846b6fb36fa30d3c7e5c02280faa51d2a4234beeba47b"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122839",
+      "npz_sha256": "426af48cf2453ff45838ea2cd15d922793d16a9c51ec46bc316b9620e5adbaf6",
+      "reference_sha256": "1ef332734e798ef7526535fed559084072149a37d608a204f0a9c86d2b90a6a9"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122900",
+      "npz_sha256": "8d682d5b239d790822bb86eb42392f9227dcd4cdc4780c96f97344e0c29429d5",
+      "reference_sha256": "1a9fc9f3b01adf1982456d47547d0580d853f4daf5dade11975104d0bff9b1a4"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122912",
+      "npz_sha256": "eef01f1cbf7d650ced916431309a3ee378553c1c0b023bec1193ae68773dbc17",
+      "reference_sha256": "987b2179df9f6c2cbd6e21d77a3226f4247d68804b6287a0b063b60815528469"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_122933",
+      "npz_sha256": "eeb5853c5bdffd191ecae37762992ab87113b7921862b9b8c466adbc743a0ed2",
+      "reference_sha256": "8c1319d13f985dacc2b36e5d1c0a7fc2cf33de0f535c64a9aa2ea14e3cf267a8"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123002",
+      "npz_sha256": "d1110536de8e4efdb8cb4c4e8c79eb2d3992b851a360e611ebf66f98c6dbea80",
+      "reference_sha256": "fdf500e16b7928eb4d4fba840d047ee928e6e56b22fb2eff7d2cce589ea0335d"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123033",
+      "npz_sha256": "fa09ac94ea5f0ffb671895031cdba52ee4015e9731f09e0aa0b5cac683478b18",
+      "reference_sha256": "488f838af4ed6837ab61a055e115d48d80db48510ecf166f24f4ac6e185af966"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123052",
+      "npz_sha256": "17869a16560c5415b8ffe46e635779bf9efbdff389e2af5f7ae929bb69cc8f4d",
+      "reference_sha256": "76cae1e2039e8ff8301c654072c1c03c0305c3a5010cf6cb458e42ce95d7495b"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123131",
+      "npz_sha256": "7c393abc556402ca7a5befb60bc19d62b848543cbe74675b0138c6c27c6cff9d",
+      "reference_sha256": "75fbb151a330106523e2cf778f3b412b381e9026d2c8ee4ca4a8cf88632f0035"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123156",
+      "npz_sha256": "6b0e115b2df22b90b02fc81e4bc627fbf3d28bc02c913488e8870f4c2fae676f",
+      "reference_sha256": "a30d3cfb1f746f002834f6dc1d9cc12d1de0075e965f47b5c52e1d6a0311a9b2"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123345",
+      "npz_sha256": "e4263f97a80d491610f1671484e79751cf648b5e1f310736ce372d7a3e6cee30",
+      "reference_sha256": "3a8cf3099954f09ea016e225b1f2acf964ba6d0af8ee54a9ec134502dd17f614"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123357",
+      "npz_sha256": "7a387edbb5073038e9e49ed45b991a993988801d2543eef155baeaa6ea89d74a",
+      "reference_sha256": "8e34ca10804a13e9da74edd2652765efe6aa7cbe5b50beaca45821f20bcbf735"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123415",
+      "npz_sha256": "e7e5ec11eb1c6843248f2622e6aaa8df6548e1ebbe37533182fca0b5018dda0b",
+      "reference_sha256": "448d6d0cfd4254e9bc5d91fd8157a18d98598e82481ab706e53128de03342921"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123447",
+      "npz_sha256": "44ae756a2c5563f548d0e879d9495b73e155b902a1afb8015f2b89aea5aa1353",
+      "reference_sha256": "8620e073bdad3a9af6a98dfc591d1b613af93b8bc7697250aa464007334e5c43"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123504",
+      "npz_sha256": "25605330edebb6827e69d2c595208810fff46630ee01bff9e22175c041b5216e",
+      "reference_sha256": "ff39d8c0fe6ba03f43b81256f0329639119af0b2b6a2fc26f1491d6c1e63761c"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123537",
+      "npz_sha256": "a0d38e7979128f325059540134ac9187d8d7ad19a3f7e1a5ed55968f9cb48942",
+      "reference_sha256": "19e85e7ba9167a8bfabb013a8946787ef19c5974eead14efcb452c5686cd8988"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123557",
+      "npz_sha256": "234688885633d6e61721662ce1a6b5feac4d7072a4b5c0ebd5de055a4bd28820",
+      "reference_sha256": "47a228586fca1ec7b0e75771e3394c17f9e6c0b43b8e2c4255c9320150dbb9b3"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123638",
+      "npz_sha256": "ca3e088dd0c6d0448984c8275d278208ec9096c9923ebb2b7c3ce8ec784ca7dc",
+      "reference_sha256": "4d1cbe73f2eb854bc4ee9a9c29d13ded8cf9b8ee87dd07df4fbea6b7e56e1862"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123734",
+      "npz_sha256": "bce99f92e5ec40c7880c16a223820e764aa21ebb206f3541d796ea4383336542",
+      "reference_sha256": "6f3af36834dc05315699a6a2ae9ea20172f8ee528131fa91d472bedf0f2f5209"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123809",
+      "npz_sha256": "7035b282b8e1c94dde7f5dfddb9059ff8407e8baad97c84710cab3098e06bcbe",
+      "reference_sha256": "ecd81041fb04d53b3158dc0b7f014f7297bf78a295248345824f09aa9aa30119"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123828",
+      "npz_sha256": "6c5092e35e7d537ec13dd9f538fa38bbe31cc7eea54524ee98ed2391ebd1d97b",
+      "reference_sha256": "b3258ce14bced8d412cab8f3d8a2690b30c2fd61d050f56742c5f5cfb4cecfa0"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123853",
+      "npz_sha256": "f4f51ef7ee5081f015f0fc334f3e2e60f20a1268666f46b32f2a9c973f70a84c",
+      "reference_sha256": "3089c456524a7794bb6a75d6403e307f0d894852a9bde8567e5c542f0f4b1aa6"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_123942",
+      "npz_sha256": "af6e636577286b517dcc11200723bc5b0cc3e24bb61f8cfabe287fc17e3af199",
+      "reference_sha256": "a8865c2e1b5392efb77644fcc1f3ed308bfd1c6229f3cd75922fcaa8b050d57d"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124005",
+      "npz_sha256": "e24e9b3824b5cd59b03c489436a1e52f5302761a9e953210a3a772d9740abbb3",
+      "reference_sha256": "7cc497d7630623ae2fd01594fa9beda7919aaefa036427ebc6649eb5bbb41ff5"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124022",
+      "npz_sha256": "7a1fae12f6ba8c8fa92ac1c05c7c0892c057c8b14c482d7483211932070a8513",
+      "reference_sha256": "82c0e90b05b58b5e5fda18a75b621ca4e8f1ebaa3a069ca58469b0240c009a97"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124049",
+      "npz_sha256": "530692c41268d42c0a78df7bc93466db9f332d91a6520424656327e66f93e97a",
+      "reference_sha256": "1cfdb9345db562c07f5e95706001ad776d6360dcaf6c75fa34f74cb384e60210"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124115",
+      "npz_sha256": "a5e8bf57f5f1b3b09dbbc4479113666da46e83c22555199fff0b791be5de4e77",
+      "reference_sha256": "554e16effd7724ca9048b33711d6d6e0d6aa54c794af8813e7051725cf2a2aa9"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124137",
+      "npz_sha256": "f411a3541a546efd64fc564954408fcb85c30b8d5e64d88867cf35235bea321f",
+      "reference_sha256": "81a983ac558b62f2dc049d746139c64797e8d63e4ec71e6ad36b34cff2e0573b"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124153",
+      "npz_sha256": "a2a157c978af6ec4d67998d617107b39ce3c911921452e03297c27abd2947c71",
+      "reference_sha256": "5c7fa098384b8699c72f33df8ce9c6a5169c23a5b318027d17312a0b328a4060"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124205",
+      "npz_sha256": "ea25d1114113076d2e7919e588f2c01bd17b4034cdb8bd617188836945752eb8",
+      "reference_sha256": "e8af2db519dcdc67637dbdb2ca3ee67b292389f257b9fdcf3d5644cb1d2a09f7"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124245",
+      "npz_sha256": "e0bca0746309cc66ee08d449b9a4b68cb013a0b9eef6e9b5b4f279bc86c8f48a",
+      "reference_sha256": "8e3fca0e9aed78a7de71d6bd9a36b6041201dd98108dddfb48a35dc69f2c9cf9"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124328",
+      "npz_sha256": "0008ef08d6087cb2efc99b727f2322b796565fff70c3f4cfeec8f5bfe97e372b",
+      "reference_sha256": "8887c9cc5f49382de793982f8c2b510557ddea7af0550e7cac64ed27e71e63ca"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124356",
+      "npz_sha256": "9243a3a37b153020e4a0e44ee52da30194d5c7d15d789ded83291f2f8451ec05",
+      "reference_sha256": "2f9df8d2bd0f1800ddcc13dfe0eff84cd79b0dda6985ea1bf20500015d614cd4"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124425",
+      "npz_sha256": "fbb29c3820fe080e2134108b9b0b585fd87e853fd50924d854939e182d8c1e30",
+      "reference_sha256": "249f11ed2e16f030226ba0f0d83e1a8e5605ae07a77dbdff1313888bb2940586"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124445",
+      "npz_sha256": "9c7b875e7a528ac8b7c386d04e42222423891e193b179212e070c02f1176dc92",
+      "reference_sha256": "2cc78d1dcd63b827f531890ebc98eec0ac7164ddb664abac7be0d477e55b8605"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124507",
+      "npz_sha256": "574db656ea191f512abe4149cf87e0130b1f38e7ddbc664afca5e7a81a57f18b",
+      "reference_sha256": "369a5a37eadf1635f3e3ac00acc9f054ab63f4c9216dd0132eeff8c899381b54"
+    },
+    {
+      "capture_id": "P01_MAIN06_recording_20261015_124529",
+      "npz_sha256": "457684e72452be7163e0b01892d5baa34d413ffef8e4ce2ada8dddbc99028b1a",
+      "reference_sha256": "c13dc69d741ec8beea953ad7191f5c36e6643051bed8b2f4ec2d35ccac1f98a5"
+    }
+  ]
+}

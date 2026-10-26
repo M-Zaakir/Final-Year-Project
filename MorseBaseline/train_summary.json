@@ -1,0 +1,17 @@
+{
+  "recordings": 423,
+  "exact_messages": 334,
+  "exact_message_accuracy": 0.789598108747045,
+  "character_error_rate": 0.1385390428211587,
+  "character_edits": 165,
+  "reference_characters": 1191,
+  "pulse_precision": 1.0,
+  "pulse_recall": 0.9973725696269049,
+  "pulse_f1": 0.9986845566956064,
+  "event_tp": 3796,
+  "event_fp": 0,
+  "event_fn": 10,
+  "median_decode_ms": 0.8126999891828746,
+  "split": "train",
+  "important": "CER includes spaces and is measured against intended text, not an independently verified sent transcript. Reference-matching tolerance is 150 ms; no test evaluation occurred unless split=test explicitly."
+}

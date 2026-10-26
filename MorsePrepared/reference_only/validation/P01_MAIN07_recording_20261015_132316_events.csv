@@ -1,0 +1,8 @@
+start_s,end_s,key_reference,intended_symbol,annotation_status
+0.0,1.740961,0,gap,count_aligned_not_symbol_verified
+1.740961,2.110051,1,-,count_aligned_not_symbol_verified
+2.110051,2.27265,0,gap,count_aligned_not_symbol_verified
+2.27265,2.385487,1,.,count_aligned_not_symbol_verified
+2.385487,2.522749,0,gap,count_aligned_not_symbol_verified
+2.522749,2.997497,1,-,count_aligned_not_symbol_verified
+2.997497,4.585512,0,gap,count_aligned_not_symbol_verified

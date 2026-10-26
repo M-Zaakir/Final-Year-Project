@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "resample_hz": 833.0,
+  "baseline_seconds": 0.25,
+  "bandpass_hz": [
+    120.0,
+    230.0
+  ],
+  "butterworth_order": 4,
+  "rms_window_ms": 20.0,
+  "offline_zero_phase": true,
+  "model_channels": [
+    "az_centered_raw",
+    "az_bandpassed_raw",
+    "az_rms_envelope_raw"
+  ],
+  "units": "sensor raw counts; no unverified physical-unit conversion",
+  "source": "pilot engineering findings; provisional until training/validation checks",
+  "scope": "offline analysis only; not a causal/embedded latency benchmark"
+}

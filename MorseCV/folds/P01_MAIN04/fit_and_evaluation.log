@@ -1,0 +1,122 @@
+{
+  "version": "duration_baseline_1.0",
+  "detection": {
+    "fraction": 0.3,
+    "close_gap_s": 0.015,
+    "min_pulse_s": 0.045
+  },
+  "onset_bias_s": -0.000713279111644316,
+  "release_bias_s": 0.03299079771908775,
+  "fit_split": "train",
+  "training_recordings": 352,
+  "preprocessing_sha256": "95e4acee30715677edcf445e9e9a3adc00ac0c1648b7d52cc214a6629b2b10ad",
+  "manifest_sha256": "368c00908a397258a2b9f3d39f760b3b96f26c772d9b8483eba4f316718e076a",
+  "offline": true,
+  "label_status": "intended_count_aligned_not_independently_verified"
+}
+[
+  {
+    "model": "logistic_regression",
+    "training_recordings": 352,
+    "training_pulses": 3160,
+    "training_gaps": 2803,
+    "fit_seconds": 0.028597224999998616,
+    "model_file_bytes": 3993,
+    "training_pulse_intended_label_agreement": 0.985126582278481,
+    "training_gap_intended_label_agreement": 0.9821619693185872
+  },
+  {
+    "model": "rbf_svm",
+    "training_recordings": 352,
+    "training_pulses": 3160,
+    "training_gaps": 2803,
+    "fit_seconds": 0.08033457700003055,
+    "model_file_bytes": 48636,
+    "training_pulse_intended_label_agreement": 0.9895569620253165,
+    "training_gap_intended_label_agreement": 0.9867998572957546
+  },
+  {
+    "model": "random_forest",
+    "training_recordings": 352,
+    "training_pulses": 3160,
+    "training_gaps": 2803,
+    "fit_seconds": 1.6994794489999663,
+    "model_file_bytes": 1242096,
+    "training_pulse_intended_label_agreement": 0.9886075949367089,
+    "training_gap_intended_label_agreement": 0.9907242240456654
+  }
+]
+[
+  {
+    "recordings": 71,
+    "exact_messages": 57,
+    "exact_message_accuracy": 0.8028169014084507,
+    "character_error_rate": 0.13432835820895522,
+    "character_edits": 27,
+    "reference_characters": 201,
+    "pulse_precision": 1.0,
+    "pulse_recall": 0.99375,
+    "pulse_f1": 0.9968652037617555,
+    "event_tp": 636,
+    "event_fp": 0,
+    "event_fn": 4,
+    "median_decode_ms": 0.686826000048768,
+    "model": "duration_baseline",
+    "split": "validation",
+    "intended_symbol_agreement": 0.9827044025157232
+  },
+  {
+    "recordings": 71,
+    "exact_messages": 56,
+    "exact_message_accuracy": 0.7887323943661971,
+    "character_error_rate": 0.12935323383084577,
+    "character_edits": 26,
+    "reference_characters": 201,
+    "pulse_precision": 1.0,
+    "pulse_recall": 0.99375,
+    "pulse_f1": 0.9968652037617555,
+    "event_tp": 636,
+    "event_fp": 0,
+    "event_fn": 4,
+    "median_decode_ms": 1.8922200000019984,
+    "model": "logistic_regression",
+    "split": "validation",
+    "intended_symbol_agreement": 0.9889937106918238
+  },
+  {
+    "recordings": 71,
+    "exact_messages": 55,
+    "exact_message_accuracy": 0.7746478873239436,
+    "character_error_rate": 0.13930348258706468,
+    "character_edits": 28,
+    "reference_characters": 201,
+    "pulse_precision": 1.0,
+    "pulse_recall": 0.99375,
+    "pulse_f1": 0.9968652037617555,
+    "event_tp": 636,
+    "event_fp": 0,
+    "event_fn": 4,
+    "median_decode_ms": 2.226795000012771,
+    "model": "rbf_svm",
+    "split": "validation",
+    "intended_symbol_agreement": 0.9874213836477987
+  },
+  {
+    "recordings": 71,
+    "exact_messages": 58,
+    "exact_message_accuracy": 0.8169014084507042,
+    "character_error_rate": 0.11940298507462686,
+    "character_edits": 24,
+    "reference_characters": 201,
+    "pulse_precision": 1.0,
+    "pulse_recall": 0.99375,
+    "pulse_f1": 0.9968652037617555,
+    "event_tp": 636,
+    "event_fp": 0,
+    "event_fn": 4,
+    "median_decode_ms": 15.301822000026277,
+    "model": "random_forest",
+    "split": "validation",
+    "intended_symbol_agreement": 0.9889937106918238
+  }
+]

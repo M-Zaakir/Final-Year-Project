@@ -1,0 +1,2 @@
+capture_uid,recording_id,calibration_id,event_index,event_type,expected_label,start_us,end_us,duration_us,start_sample_index,end_sample_index,alignment_status
+recording:P01_MAIN01_recording_20261015_012640,12,1,0,pulse,dash,1585020,2470219,885199,1305,2033,exact

@@ -1,0 +1,12 @@
+capture_uid,recording_id,calibration_id,event_index,event_type,expected_label,start_us,end_us,duration_us,start_sample_index,end_sample_index,alignment_status
+recording:P01_MAIN03_recording_20261015_043910,69,1,0,pulse,dash,512834,868630,355796,422,714,exact
+recording:P01_MAIN03_recording_20261015_043910,69,1,1,gap,character_gap,868630,1482823,614193,715,1220,exact
+recording:P01_MAIN03_recording_20261015_043910,69,1,2,pulse,dot,1482823,1587281,104458,1221,1306,exact
+recording:P01_MAIN03_recording_20261015_043910,69,1,3,gap,character_gap,1587281,2196720,609439,1307,1808,exact
+recording:P01_MAIN03_recording_20261015_043910,69,1,4,pulse,dot,2196720,2297511,100791,1809,1891,exact
+recording:P01_MAIN03_recording_20261015_043910,69,1,5,gap,element_gap,2297511,2403037,105526,1892,1978,exact
+recording:P01_MAIN03_recording_20261015_043910,69,1,6,pulse,dot,2403037,2487990,84953,1979,2048,exact
+recording:P01_MAIN03_recording_20261015_043910,69,1,7,gap,element_gap,2487990,2633674,145684,2049,2168,exact
+recording:P01_MAIN03_recording_20261015_043910,69,1,8,pulse,dot,2633674,2727405,93731,2169,2245,exact
+recording:P01_MAIN03_recording_20261015_043910,69,1,9,gap,character_gap,2727405,3229800,502395,2246,2659,exact
+recording:P01_MAIN03_recording_20261015_043910,69,1,10,pulse,dash,3229800,3516448,286648,2660,2895,exact

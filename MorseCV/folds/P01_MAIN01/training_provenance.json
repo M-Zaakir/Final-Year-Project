@@ -1,0 +1,20 @@
+{
+  "training_recordings": 355,
+  "sklearn_version": "1.8.0",
+  "joblib_version": "1.5.3",
+  "pulse_labels": {
+    "-": 1507,
+    ".": 1706
+  },
+  "gap_labels": {
+    "character": 629,
+    "element": 2210,
+    "word": 10
+  },
+  "selected_train_only": true,
+  "cross_validation": "not performed; models prespecified and compared on MAIN07",
+  "baseline_model_sha256": "8ed3bf9e0ff0d69373e34c9136803e140b3afb37231876905a14e5fd13553d7e",
+  "preprocessing_sha256": "95e4acee30715677edcf445e9e9a3adc00ac0c1648b7d52cc214a6629b2b10ad",
+  "manifest_sha256": "6b3d402b8ef0bb5c6ea43c74d4543f6baf9e2c3d073844252ac3fe49243efafb",
+  "feature_columns_are_vibration_only": true
+}

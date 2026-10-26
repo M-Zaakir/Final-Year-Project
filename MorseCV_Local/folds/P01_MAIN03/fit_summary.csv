@@ -1,0 +1,4 @@
+model,training_recordings,training_pulses,training_gaps,fit_seconds,model_file_bytes,training_pulse_intended_label_agreement,training_gap_intended_label_agreement
+logistic_regression,352,3157,2796,0.0547900999954436,4000,0.9863794741843522,0.9824749642346209
+rbf_svm,352,3157,2796,0.08994470001198351,49655,0.9895470383275261,0.9860515021459227
+random_forest,352,3157,2796,1.941613699978916,1247692,0.9892302819132087,0.9907010014306151

@@ -1,0 +1,69 @@
+{
+  "local_result_hashes_valid": true,
+  "local_results_authoritative": true,
+  "source_test_cohort_ids_match": true,
+  "source_metadata_matches_predictions": true,
+  "raw_csv_json_hashes_verified_against_available_manifest": true,
+  "available_manifest_byte_hash_matches_local_protocol": false,
+  "manifest_note": "Local manifest itself not supplied; its recorded byte hash differs. Capture IDs, targets, conditions and raw-source checks use the available original manifest. No claim of byte-identical local raw files.",
+  "local_environment": {
+    "python": "3.12.4",
+    "sklearn": "1.9.1",
+    "numpy": "2.5.4"
+  },
+  "reference_comparison": {
+    "test_predictions.csv": {
+      "rows": 720,
+      "changed_rows": [
+        {
+          "identity": {
+            "method": "random_forest",
+            "capture_id": "P01_MAIN09_recording_20261015_145652"
+          },
+          "differences": {
+            "predicted_text": {
+              "local": "?T??O OOGLO",
+              "reference": "?TL?O OOGLO"
+            },
+            "character_edits": {
+              "local": "7",
+              "reference": "6"
+            }
+          }
+        },
+        {
+          "identity": {
+            "method": "random_forest",
+            "capture_id": "P01_MAIN09_recording_20261015_152431"
+          },
+          "differences": {
+            "predicted_text": {
+              "local": "N6T1Z",
+              "reference": "I6T1Z"
+            }
+          }
+        }
+      ]
+    },
+    "test_comparison.csv": {
+      "rows": 5,
+      "changed_rows": [
+        {
+          "identity": {
+            "method": "random_forest"
+          },
+          "differences": {
+            "character_error_rate": {
+              "local": "0.13658536585365855",
+              "reference": "0.13414634146341464"
+            },
+            "character_edits": {
+              "local": "56",
+              "reference": "55"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

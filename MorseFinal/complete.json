@@ -1,0 +1,20 @@
+{
+  "protocol_sha256": "0fab4df2a7ff895f897d311f09e63273c31698f8143740c88feb9041d6639e07",
+  "test_recordings": 144,
+  "methods": [
+    "duration_baseline",
+    "logistic_regression",
+    "rbf_svm",
+    "random_forest",
+    "rbf_svm_enriched_z"
+  ],
+  "files_sha256": {
+    "test_breakdown.csv": "c5842daa33b80578a01f1054250a17c9420cde70fe20207749bb46e5b6f715c5",
+    "test_comparison.csv": "0e38b7c473c657614ecfc79a4821e740538e9efd9d43d9cfc2c02e62a437e4d8",
+    "test_comparison.png": "e0fbaec44e382c93081095e6c585b6ee260945dd454296144957359096c7ab63",
+    "test_events.csv": "31fc9f9084c48c489f73f0cb7bc499b8905c89a10e420339ae8a8a47efc4db2a",
+    "test_paired_noise.csv": "17aa9da79d72a050ed0317d2699a7d533276388017d9f079574dddcd4d658754",
+    "test_predictions.csv": "3949623dd04a929dab221b8e39188a74bf770a5f17fff1e5b37bfe383605f570"
+  },
+  "final_test_consumed": true
+}

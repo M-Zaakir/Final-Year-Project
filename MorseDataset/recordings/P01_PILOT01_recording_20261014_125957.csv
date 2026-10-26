@@ -1,0 +1,1 @@
+recording_id,calibration_id,sample_index,timestamp_us,accel_x_raw,accel_y_raw,accel_z_raw,gyro_x_raw,gyro_y_raw,gyro_z_raw,key_state,motor_command,system_state,status_flags

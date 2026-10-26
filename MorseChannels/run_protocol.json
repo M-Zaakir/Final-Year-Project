@@ -1,0 +1,45 @@
+{
+  "primary_recordings_train": 423,
+  "validation": 71,
+  "channel_sets": {
+    "envelope_only": [],
+    "az": [
+      2
+    ],
+    "accel_xyz": [
+      0,
+      1,
+      2
+    ],
+    "accel_gyro": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "stats_per_channel": [
+    "log_band_rms_snr",
+    "log_band_peak_snr",
+    "log_band_meanabs_snr",
+    "band_crest_factor",
+    "band_abs_iqr_snr"
+  ],
+  "preprocessing": "Fixed 120--230 Hz band-pass per axis, centred raw counts; features normalised to first-0.25-s band noise (floor 1 raw count)",
+  "classifier_settings": "Unchanged from first ML comparison; no hyperparameter search",
+  "test_loaded": false,
+  "raw_unchanged": true,
+  "detector": "Identical Z detector and timing normaliser across channel sets within each fold",
+  "inference_channel_caveat": "Measures additional classification features, not alternative detectors or raw-waveform models",
+  "python_code_sha256": "27c4643804c439ab126528c1609a836c2daac11620291de6e4315ebdc3a7bb58",
+  "manifest_sha256": "5b7da5b762c7a802776ab53c16f0b5333ca2ce56440d23c77c93a2cd8dbd1049",
+  "baseline_sha256": "04132520cffb23fb6835bef089f8a88b1e2173cfe799bbd9a19b81ea51ac6efc",
+  "sklearn": "1.8.0",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "labels": "Intended/count-aligned; not independently symbol-verified",
+  "timing_measurement": "Not collected in the ablation experiment; unused zero placeholder removed from reports.",
+  "entry_point_sha256": "91478e4aa8aabdaae7affc045103851cab36ce1b88510a85766eb5be8478c1af"
+}

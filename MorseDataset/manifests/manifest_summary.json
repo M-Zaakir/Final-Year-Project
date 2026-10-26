@@ -1,0 +1,9 @@
+{
+  "generated_utc": "2026-10-15T13:33:43+00:00",
+  "dataset_root": "C:\\Users\\Muhammed_Zaakir\\Documents\\MorseSerialLogger\\MorseDataset",
+  "capture_count": 850,
+  "calibration_count": 14,
+  "recording_count": 836,
+  "discovery_problems": [],
+  "manifest_file": "manifests/master_manifest.csv"
+}

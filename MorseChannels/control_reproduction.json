@@ -1,0 +1,32 @@
+[
+  {
+    "scope": "MAIN07_validation",
+    "model": "logistic_regression",
+    "control_reproduces_previous_result": true
+  },
+  {
+    "scope": "MAIN07_validation",
+    "model": "random_forest",
+    "control_reproduces_previous_result": true
+  },
+  {
+    "scope": "MAIN07_validation",
+    "model": "rbf_svm",
+    "control_reproduces_previous_result": true
+  },
+  {
+    "scope": "grouped_training_cv",
+    "model": "logistic_regression",
+    "control_reproduces_previous_result": true
+  },
+  {
+    "scope": "grouped_training_cv",
+    "model": "random_forest",
+    "control_reproduces_previous_result": true
+  },
+  {
+    "scope": "grouped_training_cv",
+    "model": "rbf_svm",
+    "control_reproduces_previous_result": true
+  }
+]

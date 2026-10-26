@@ -1,0 +1,13 @@
+model,channel_set,bundle_bytes,pulse_feature_count,gap_feature_count
+logistic_regression,envelope_only,5476,13,8
+logistic_regression,az,5945,18,13
+logistic_regression,accel_xyz,6815,28,23
+logistic_regression,accel_gyro,8094,43,38
+rbf_svm,envelope_only,55456,13,8
+rbf_svm,az,93003,18,13
+rbf_svm,accel_xyz,169671,28,23
+rbf_svm,accel_gyro,295482,43,38
+random_forest,envelope_only,1392387,13,8
+random_forest,az,1390465,18,13
+random_forest,accel_xyz,1460000,28,23
+random_forest,accel_gyro,1572366,43,38

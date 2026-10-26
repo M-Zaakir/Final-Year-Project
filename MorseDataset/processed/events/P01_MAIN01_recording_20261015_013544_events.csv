@@ -1,0 +1,8 @@
+capture_uid,recording_id,calibration_id,event_index,event_type,expected_label,start_us,end_us,duration_us,start_sample_index,end_sample_index,alignment_status
+recording:P01_MAIN01_recording_20261015_013544,22,1,0,pulse,dash,917412,1621549,704137,755,1334,exact
+recording:P01_MAIN01_recording_20261015_013544,22,1,1,gap,element_gap,1621549,2091454,469905,1335,1721,exact
+recording:P01_MAIN01_recording_20261015_013544,22,1,2,pulse,dot,2091454,2290524,199070,1722,1885,exact
+recording:P01_MAIN01_recording_20261015_013544,22,1,3,gap,element_gap,2290524,2929142,638618,1886,2411,exact
+recording:P01_MAIN01_recording_20261015_013544,22,1,4,pulse,dash,2929142,3723165,794023,2412,3065,exact
+recording:P01_MAIN01_recording_20261015_013544,22,1,5,gap,element_gap,3723165,4105515,382350,3066,3380,exact
+recording:P01_MAIN01_recording_20261015_013544,22,1,6,pulse,dot,4105515,4325169,219654,3381,3561,exact

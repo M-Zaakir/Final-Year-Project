@@ -1,0 +1,4 @@
+capture_uid,recording_id,calibration_id,event_index,event_type,expected_label,start_us,end_us,duration_us,start_sample_index,end_sample_index,alignment_status
+recording:P01_PILOT01_recording_20261014_150701,150,1,0,pulse,dash,714665,1241592,526927,588,1021,exact
+recording:P01_PILOT01_recording_20261014_150701,150,1,1,gap,element_gap,1241592,1461169,219577,1022,1202,exact
+recording:P01_PILOT01_recording_20261014_150701,150,1,2,pulse,dot,1461169,1623962,162793,1203,1336,exact

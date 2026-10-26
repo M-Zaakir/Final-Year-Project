@@ -1,0 +1,48 @@
+{
+  "participant_id": "P01",
+  "session_id": "P01_PILOT01",
+  "session_started_utc": "2026-10-14T10:57:46+00:00",
+  "surface_material": "stainless_steel_ruler",
+  "surface_dimensions_mm": "600x30x1.2",
+  "clamped_length_mm": 250,
+  "free_length_mm": 350,
+  "actuator_position_from_table_edge_mm": 320,
+  "sensor_position_from_table_edge_mm": 50,
+  "sensor_orientation": "record from marked reference orientation",
+  "mounting_method": "temporary rigid mount",
+  "location": "home",
+  "operator_notes": "first pilot collection",
+  "nominal_sample_rate_hz": 833,
+  "firmware_packet_version": 3,
+  "environment_notes": "rig undisturbed",
+  "requested_duration_s": 5,
+  "firmware_command": "c",
+  "last_timestamp_us": 4999543,
+  "capture_kind": "calibration",
+  "started_utc": "2026-10-14T11:00:25+00:00",
+  "finished_utc": "2026-10-14T11:00:30+00:00",
+  "close_reason": "calibration_complete_or_stream_stopped",
+  "csv_file": "P01_PILOT01_calibration_20261014_130025.csv",
+  "packet_version": 3,
+  "packet_size_bytes": 42,
+  "packet_count": 4119,
+  "first_sample_index": 0,
+  "last_sample_index": 4118,
+  "missing_samples": 0,
+  "duplicate_or_out_of_order": 0,
+  "unexpected_state_packets": 0,
+  "calibration_ids_seen": [
+    1
+  ],
+  "recording_ids_seen": [
+    0
+  ],
+  "motor_commands_seen": [
+    0
+  ],
+  "key_pressed_samples": 0,
+  "duration_us": 4999543,
+  "parser_crc_errors_total": 0,
+  "parser_version_errors_total": 0,
+  "parser_discarded_bytes_total": 40
+}

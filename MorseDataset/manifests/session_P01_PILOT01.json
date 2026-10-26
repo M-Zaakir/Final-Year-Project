@@ -1,0 +1,17 @@
+{
+  "participant_id": "P01",
+  "session_id": "P01_PILOT01",
+  "session_started_utc": "2026-10-14T10:57:46+00:00",
+  "surface_material": "stainless_steel_ruler",
+  "surface_dimensions_mm": "600x30x1.2",
+  "clamped_length_mm": 250,
+  "free_length_mm": 350,
+  "actuator_position_from_table_edge_mm": 320,
+  "sensor_position_from_table_edge_mm": 50,
+  "sensor_orientation": "record from marked reference orientation",
+  "mounting_method": "temporary rigid mount",
+  "location": "home",
+  "operator_notes": "first pilot collection",
+  "nominal_sample_rate_hz": 833,
+  "firmware_packet_version": 3
+}

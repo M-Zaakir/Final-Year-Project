@@ -1,0 +1,6 @@
+method,pairs,reference_characters_per_condition,clean_edits,noisy_edits,clean_exact,noisy_exact,both_exact,clean_only_exact,noisy_only_exact
+duration_baseline,12,42,9,7,8,9,7,1,2
+logistic_regression,12,42,7,6,9,9,7,2,2
+rbf_svm,12,42,5,6,10,9,8,2,1
+random_forest,12,42,7,8,9,9,7,2,2
+rbf_svm_enriched_z,12,42,7,6,9,9,7,2,2

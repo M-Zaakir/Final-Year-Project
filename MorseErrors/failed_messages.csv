@@ -1,0 +1,122 @@
+method,capture_id,group_session,target_text,predicted_text,exact_message,character_edits,reference_characters,event_tp,event_fp,event_fn,speed,strength,noise,condition_id,pair_id,complete_noise_pair,matched_pulses,missed_pulses,extra_pulses,pulse_label_mismatches,comparable_gaps,gap_label_mismatches,uncomparable_detected_gaps,diagnostic_category,invalid_morse_tokens,substitutions,deletions,insertions
+duration_baseline,P01_MAIN08_recording_20261015_133850,P01_MAIN08,F1Y6N,?1Y6N,0,1,5,20,0,0,slow,low,clean,C0,,0,20,0,0,2,19,0,0,pulse_label,1,1,0,0
+logistic_regression,P01_MAIN08_recording_20261015_133850,P01_MAIN08,F1Y6N,C1Y6N,0,1,5,20,0,0,slow,low,clean,C0,,0,20,0,0,1,19,0,0,pulse_label,0,1,0,0
+rbf_svm,P01_MAIN08_recording_20261015_133850,P01_MAIN08,F1Y6N,C1Y6N,0,1,5,20,0,0,slow,low,clean,C0,,0,20,0,0,1,19,0,0,pulse_label,0,1,0,0
+random_forest,P01_MAIN08_recording_20261015_133850,P01_MAIN08,F1Y6N,?1YNEIN,0,4,5,20,0,0,slow,low,clean,C0,,0,20,0,0,2,19,2,0,pulse_label+gap_label,1,2,0,2
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_133850,P01_MAIN08,F1Y6N,C1Y6N,0,1,5,20,0,0,slow,low,clean,C0,,0,20,0,0,1,19,0,0,pulse_label,0,1,0,0
+logistic_regression,P01_MAIN08_recording_20261015_133958,P01_MAIN08,TEST CODE,TEST CGDE,0,1,9,17,0,0,slow,low,clean,C0,,0,17,0,0,1,16,0,0,pulse_label,0,1,0,0
+rbf_svm,P01_MAIN08_recording_20261015_133958,P01_MAIN08,TEST CODE,TEST CWDE,0,1,9,17,0,0,slow,low,clean,C0,,0,17,0,0,1,16,0,0,pulse_label,0,1,0,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_133958,P01_MAIN08,TEST CODE,TEST CWDE,0,1,9,17,0,0,slow,low,clean,C0,,0,17,0,0,1,16,0,0,pulse_label,0,1,0,0
+duration_baseline,P01_MAIN08_recording_20261015_134408,P01_MAIN08,TEST,NST,0,2,4,6,0,0,slow,low,clean,C0,P01_MAIN08_MATCH_TEST,1,6,0,0,0,5,1,0,gap_label,0,1,1,0
+logistic_regression,P01_MAIN08_recording_20261015_134408,P01_MAIN08,TEST,NST,0,2,4,6,0,0,slow,low,clean,C0,P01_MAIN08_MATCH_TEST,1,6,0,0,0,5,1,0,gap_label,0,1,1,0
+rbf_svm,P01_MAIN08_recording_20261015_134408,P01_MAIN08,TEST,NST,0,2,4,6,0,0,slow,low,clean,C0,P01_MAIN08_MATCH_TEST,1,6,0,0,0,5,1,0,gap_label,0,1,1,0
+random_forest,P01_MAIN08_recording_20261015_134408,P01_MAIN08,TEST,NST,0,2,4,6,0,0,slow,low,clean,C0,P01_MAIN08_MATCH_TEST,1,6,0,0,0,5,1,0,gap_label,0,1,1,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_134408,P01_MAIN08,TEST,NST,0,2,4,6,0,0,slow,low,clean,C0,P01_MAIN08_MATCH_TEST,1,6,0,0,0,5,1,0,gap_label,0,1,1,0
+duration_baseline,P01_MAIN08_recording_20261015_135736,P01_MAIN08,M,I,0,1,1,2,0,0,slow,medium,clean,C1,,0,2,0,0,2,1,0,0,pulse_label,0,1,0,0
+logistic_regression,P01_MAIN08_recording_20261015_135736,P01_MAIN08,M,I,0,1,1,2,0,0,slow,medium,clean,C1,,0,2,0,0,2,1,0,0,pulse_label,0,1,0,0
+rbf_svm,P01_MAIN08_recording_20261015_135736,P01_MAIN08,M,I,0,1,1,2,0,0,slow,medium,clean,C1,,0,2,0,0,2,1,0,0,pulse_label,0,1,0,0
+random_forest,P01_MAIN08_recording_20261015_135736,P01_MAIN08,M,I,0,1,1,2,0,0,slow,medium,clean,C1,,0,2,0,0,2,1,0,0,pulse_label,0,1,0,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_135736,P01_MAIN08,M,I,0,1,1,2,0,0,slow,medium,clean,C1,,0,2,0,0,2,1,0,0,pulse_label,0,1,0,0
+random_forest,P01_MAIN08_recording_20261015_135839,P01_MAIN08,SIGNAL,SEEGNAL,0,2,6,16,0,0,slow,medium,clean,C1,,0,16,0,0,0,15,1,0,gap_label,0,1,0,1
+random_forest,P01_MAIN08_recording_20261015_140148,P01_MAIN08,Q2B7R,GT2B7R,0,2,5,21,0,0,slow,high,clean,C2,,0,21,0,0,0,20,1,0,gap_label,0,1,0,1
+duration_baseline,P01_MAIN08_recording_20261015_140612,P01_MAIN08,RULER,R?ER,0,2,5,14,0,0,normal,low,clean,C3,,0,14,0,0,0,13,1,0,gap_label,1,1,1,0
+logistic_regression,P01_MAIN08_recording_20261015_140612,P01_MAIN08,RULER,R?ER,0,2,5,14,0,0,normal,low,clean,C3,,0,14,0,0,0,13,1,0,gap_label,1,1,1,0
+random_forest,P01_MAIN08_recording_20261015_140612,P01_MAIN08,RULER,R?ER,0,2,5,14,0,0,normal,low,clean,C3,,0,14,0,0,0,13,1,0,gap_label,1,1,1,0
+duration_baseline,P01_MAIN08_recording_20261015_140717,P01_MAIN08,5Z0TC,?0TC,0,2,5,19,0,0,normal,low,clean,C3,,0,19,0,0,0,18,1,0,gap_label,1,1,1,0
+logistic_regression,P01_MAIN08_recording_20261015_140717,P01_MAIN08,5Z0TC,?0TC,0,2,5,19,0,0,normal,low,clean,C3,,0,19,0,0,0,18,1,0,gap_label,1,1,1,0
+rbf_svm,P01_MAIN08_recording_20261015_140717,P01_MAIN08,5Z0TC,?0TC,0,2,5,19,0,0,normal,low,clean,C3,,0,19,0,0,1,18,1,0,pulse_label+gap_label,1,1,1,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_140717,P01_MAIN08,5Z0TC,6Z0TC,0,1,5,19,0,0,normal,low,clean,C3,,0,19,0,0,1,18,0,0,pulse_label,0,1,0,0
+duration_baseline,P01_MAIN08_recording_20261015_140834,P01_MAIN08,7K3M,?3M,0,2,4,15,0,0,normal,low,clean,C3,P01_MAIN08_MATCH_7K3M,1,15,0,0,0,14,1,0,gap_label,1,1,1,0
+duration_baseline,P01_MAIN08_recording_20261015_140917,P01_MAIN08,7K3M,7?M,0,2,4,15,0,0,normal,low,table_tap,C3,P01_MAIN08_MATCH_7K3M,1,15,0,0,0,14,1,0,gap_label,1,1,1,0
+logistic_regression,P01_MAIN08_recording_20261015_140917,P01_MAIN08,7K3M,MSK3M,0,2,4,15,0,0,normal,low,table_tap,C3,P01_MAIN08_MATCH_7K3M,1,15,0,0,0,14,1,0,gap_label,0,1,0,1
+rbf_svm,P01_MAIN08_recording_20261015_140917,P01_MAIN08,7K3M,MSK3M,0,2,4,15,0,0,normal,low,table_tap,C3,P01_MAIN08_MATCH_7K3M,1,15,0,0,0,14,1,0,gap_label,0,1,0,1
+random_forest,P01_MAIN08_recording_20261015_140917,P01_MAIN08,7K3M,MS?M,0,3,4,15,0,0,normal,low,table_tap,C3,P01_MAIN08_MATCH_7K3M,1,15,0,0,0,14,2,0,gap_label,1,3,0,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_140917,P01_MAIN08,7K3M,MSK3M,0,2,4,15,0,0,normal,low,table_tap,C3,P01_MAIN08_MATCH_7K3M,1,15,0,0,0,14,1,0,gap_label,0,1,0,1
+logistic_regression,P01_MAIN08_recording_20261015_141025,P01_MAIN08,9C4LP,9C?LP,0,1,5,22,0,0,normal,medium,clean,C4,,0,22,0,0,2,21,0,0,pulse_label,1,1,0,0
+rbf_svm,P01_MAIN08_recording_20261015_141025,P01_MAIN08,9C4LP,9C?LP,0,1,5,22,0,0,normal,medium,clean,C4,,0,22,0,0,1,21,0,0,pulse_label,1,1,0,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_141025,P01_MAIN08,9C4LP,9C?LP,0,1,5,22,0,0,normal,medium,clean,C4,,0,22,0,0,1,21,0,0,pulse_label,1,1,0,0
+duration_baseline,P01_MAIN08_recording_20261015_141537,P01_MAIN08,0,5,0,1,1,5,0,0,fast,low,clean,C6,,0,5,0,0,5,4,0,0,pulse_label,0,1,0,0
+logistic_regression,P01_MAIN08_recording_20261015_141537,P01_MAIN08,0,5,0,1,1,5,0,0,fast,low,clean,C6,,0,5,0,0,5,4,0,0,pulse_label,0,1,0,0
+rbf_svm,P01_MAIN08_recording_20261015_141537,P01_MAIN08,0,5,0,1,1,5,0,0,fast,low,clean,C6,,0,5,0,0,5,4,0,0,pulse_label,0,1,0,0
+random_forest,P01_MAIN08_recording_20261015_141537,P01_MAIN08,0,5,0,1,1,5,0,0,fast,low,clean,C6,,0,5,0,0,5,4,0,0,pulse_label,0,1,0,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_141537,P01_MAIN08,0,5,0,1,1,5,0,0,fast,low,clean,C6,,0,5,0,0,5,4,0,0,pulse_label,0,1,0,0
+duration_baseline,P01_MAIN08_recording_20261015_141612,P01_MAIN08,2H7VW,?5VW,0,3,5,21,0,0,fast,low,clean,C6,,0,21,0,0,2,20,1,0,pulse_label+gap_label,1,2,1,0
+logistic_regression,P01_MAIN08_recording_20261015_141612,P01_MAIN08,2H7VW,?5VW,0,3,5,21,0,0,fast,low,clean,C6,,0,21,0,0,2,20,1,0,pulse_label+gap_label,1,2,1,0
+rbf_svm,P01_MAIN08_recording_20261015_141612,P01_MAIN08,2H7VW,?5VW,0,3,5,21,0,0,fast,low,clean,C6,,0,21,0,0,2,20,1,0,pulse_label+gap_label,1,2,1,0
+random_forest,P01_MAIN08_recording_20261015_141612,P01_MAIN08,2H7VW,?5VW,0,3,5,21,0,0,fast,low,clean,C6,,0,21,0,0,2,20,1,0,pulse_label+gap_label,1,2,1,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_141612,P01_MAIN08,2H7VW,?5VW,0,3,5,21,0,0,fast,low,clean,C6,,0,21,0,0,2,20,1,0,pulse_label+gap_label,1,2,1,0
+duration_baseline,P01_MAIN08_recording_20261015_141638,P01_MAIN08,R,A,0,1,1,2,0,1,fast,low,clean,C6,,0,2,1,0,0,1,0,0,detection,0,1,0,0
+logistic_regression,P01_MAIN08_recording_20261015_141638,P01_MAIN08,R,A,0,1,1,2,0,1,fast,low,clean,C6,,0,2,1,0,0,1,0,0,detection,0,1,0,0
+rbf_svm,P01_MAIN08_recording_20261015_141638,P01_MAIN08,R,A,0,1,1,2,0,1,fast,low,clean,C6,,0,2,1,0,0,1,0,0,detection,0,1,0,0
+random_forest,P01_MAIN08_recording_20261015_141638,P01_MAIN08,R,A,0,1,1,2,0,1,fast,low,clean,C6,,0,2,1,0,0,1,0,0,detection,0,1,0,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_141638,P01_MAIN08,R,A,0,1,1,2,0,1,fast,low,clean,C6,,0,2,1,0,0,1,0,0,detection,0,1,0,0
+duration_baseline,P01_MAIN08_recording_20261015_142013,P01_MAIN08,SOS,S?,0,2,3,9,0,0,fast,medium,clean,C7,,0,9,0,0,0,8,1,0,gap_label,1,1,1,0
+logistic_regression,P01_MAIN08_recording_20261015_142013,P01_MAIN08,SOS,S?,0,2,3,9,0,0,fast,medium,clean,C7,,0,9,0,0,0,8,1,0,gap_label,1,1,1,0
+random_forest,P01_MAIN08_recording_20261015_142013,P01_MAIN08,SOS,S?,0,2,3,9,0,0,fast,medium,clean,C7,,0,9,0,0,0,8,1,0,gap_label,1,1,1,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_142013,P01_MAIN08,SOS,S?,0,2,3,9,0,0,fast,medium,clean,C7,,0,9,0,0,0,8,1,0,gap_label,1,1,1,0
+duration_baseline,P01_MAIN08_recording_20261015_142145,P01_MAIN08,SOS,S?,0,2,3,9,0,0,fast,high,clean,C8,P01_MAIN08_MATCH_SOS,1,9,0,0,0,8,1,0,gap_label,1,1,1,0
+logistic_regression,P01_MAIN08_recording_20261015_142145,P01_MAIN08,SOS,S?,0,2,3,9,0,0,fast,high,clean,C8,P01_MAIN08_MATCH_SOS,1,9,0,0,0,8,1,0,gap_label,1,1,1,0
+random_forest,P01_MAIN08_recording_20261015_142145,P01_MAIN08,SOS,S?,0,2,3,9,0,0,fast,high,clean,C8,P01_MAIN08_MATCH_SOS,1,9,0,0,0,8,1,0,gap_label,1,1,1,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_142145,P01_MAIN08,SOS,S?,0,2,3,9,0,0,fast,high,clean,C8,P01_MAIN08_MATCH_SOS,1,9,0,0,0,8,1,0,gap_label,1,1,1,0
+duration_baseline,P01_MAIN08_recording_20261015_142332,P01_MAIN08,WORLD,W?LD,0,2,5,16,0,0,fast,high,clean,C8,,0,16,0,0,0,15,1,0,gap_label,1,1,1,0
+logistic_regression,P01_MAIN08_recording_20261015_142332,P01_MAIN08,WORLD,W?LD,0,2,5,16,0,0,fast,high,clean,C8,,0,16,0,0,0,15,1,0,gap_label,1,1,1,0
+rbf_svm,P01_MAIN08_recording_20261015_142332,P01_MAIN08,WORLD,W?LD,0,2,5,16,0,0,fast,high,clean,C8,,0,16,0,0,0,15,1,0,gap_label,1,1,1,0
+random_forest,P01_MAIN08_recording_20261015_142332,P01_MAIN08,WORLD,W?LD,0,2,5,16,0,0,fast,high,clean,C8,,0,16,0,0,0,15,1,0,gap_label,1,1,1,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_142332,P01_MAIN08,WORLD,W?LD,0,2,5,16,0,0,fast,high,clean,C8,,0,16,0,0,0,15,1,0,gap_label,1,1,1,0
+rbf_svm,P01_MAIN08_recording_20261015_142412,P01_MAIN08,HELLO WORLD,HELLOWORLD,0,1,11,32,0,0,fast,high,clean,C8,,0,32,0,0,0,31,1,0,gap_label,0,0,1,0
+rbf_svm_enriched_z,P01_MAIN08_recording_20261015_142412,P01_MAIN08,HELLO WORLD,HELLOWORLD,0,1,11,32,0,0,fast,high,clean,C8,,0,32,0,0,0,31,1,0,gap_label,0,0,1,0
+duration_baseline,P01_MAIN09_recording_20261015_145652,P01_MAIN09,HELLO WORLD,?T??O OOOJO,0,8,11,32,0,0,slow,low,clean,C0,,0,32,0,0,18,31,0,0,pulse_label,3,8,0,0
+logistic_regression,P01_MAIN09_recording_20261015_145652,P01_MAIN09,HELLO WORLD,ZELLO WORLD,0,1,11,32,0,0,slow,low,clean,C0,,0,32,0,0,2,31,0,0,pulse_label,0,1,0,0
+rbf_svm,P01_MAIN09_recording_20261015_145652,P01_MAIN09,HELLO WORLD,?ELLO WORLD,0,1,11,32,0,0,slow,low,clean,C0,,0,32,0,0,3,31,0,0,pulse_label,1,1,0,0
+random_forest,P01_MAIN09_recording_20261015_145652,P01_MAIN09,HELLO WORLD,?T??O OOGLO,0,7,11,32,0,0,slow,low,clean,C0,,0,32,0,0,13,31,0,0,pulse_label,3,7,0,0
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_145652,P01_MAIN09,HELLO WORLD,ZELZOWORLD,0,3,11,32,0,0,slow,low,clean,C0,,0,32,0,0,3,31,1,0,pulse_label+gap_label,0,2,1,0
+duration_baseline,P01_MAIN09_recording_20261015_145740,P01_MAIN09,K,NT,0,2,1,3,0,0,slow,low,clean,C0,,0,3,0,0,0,2,1,0,gap_label,0,1,0,1
+logistic_regression,P01_MAIN09_recording_20261015_145740,P01_MAIN09,K,NT,0,2,1,3,0,0,slow,low,clean,C0,,0,3,0,0,0,2,1,0,gap_label,0,1,0,1
+rbf_svm,P01_MAIN09_recording_20261015_145740,P01_MAIN09,K,NT,0,2,1,3,0,0,slow,low,clean,C0,,0,3,0,0,0,2,1,0,gap_label,0,1,0,1
+random_forest,P01_MAIN09_recording_20261015_145740,P01_MAIN09,K,NT,0,2,1,3,0,0,slow,low,clean,C0,,0,3,0,0,0,2,1,0,gap_label,0,1,0,1
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_145740,P01_MAIN09,K,NT,0,2,1,3,0,0,slow,low,clean,C0,,0,3,0,0,0,2,1,0,gap_label,0,1,0,1
+duration_baseline,P01_MAIN09_recording_20261015_145824,P01_MAIN09,SOS,S?,0,2,3,9,0,0,slow,low,table_tap,C0,P01_MAIN09_MATCH_SOS,1,9,0,0,0,8,1,0,gap_label,1,1,1,0
+logistic_regression,P01_MAIN09_recording_20261015_145824,P01_MAIN09,SOS,S?,0,2,3,9,0,0,slow,low,table_tap,C0,P01_MAIN09_MATCH_SOS,1,9,0,0,0,8,1,0,gap_label,1,1,1,0
+rbf_svm,P01_MAIN09_recording_20261015_145824,P01_MAIN09,SOS,S?,0,2,3,9,0,0,slow,low,table_tap,C0,P01_MAIN09_MATCH_SOS,1,9,0,0,0,8,1,0,gap_label,1,1,1,0
+random_forest,P01_MAIN09_recording_20261015_145824,P01_MAIN09,SOS,S?,0,2,3,9,0,0,slow,low,table_tap,C0,P01_MAIN09_MATCH_SOS,1,9,0,0,0,8,1,0,gap_label,1,1,1,0
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_145824,P01_MAIN09,SOS,S?,0,2,3,9,0,0,slow,low,table_tap,C0,P01_MAIN09_MATCH_SOS,1,9,0,0,0,8,1,0,gap_label,1,1,1,0
+duration_baseline,P01_MAIN09_recording_20261015_145849,P01_MAIN09,SOS,?,0,3,3,9,0,0,slow,low,clean,C0,P01_MAIN09_MATCH_SOS,1,9,0,0,0,8,2,0,gap_label,1,1,2,0
+logistic_regression,P01_MAIN09_recording_20261015_145849,P01_MAIN09,SOS,?,0,3,3,9,0,0,slow,low,clean,C0,P01_MAIN09_MATCH_SOS,1,9,0,0,1,8,2,0,pulse_label+gap_label,1,1,2,0
+rbf_svm,P01_MAIN09_recording_20261015_145849,P01_MAIN09,SOS,?,0,3,3,9,0,0,slow,low,clean,C0,P01_MAIN09_MATCH_SOS,1,9,0,0,0,8,2,0,gap_label,1,1,2,0
+random_forest,P01_MAIN09_recording_20261015_145849,P01_MAIN09,SOS,?,0,3,3,9,0,0,slow,low,clean,C0,P01_MAIN09_MATCH_SOS,1,9,0,0,0,8,2,0,gap_label,1,1,2,0
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_145849,P01_MAIN09,SOS,?,0,3,3,9,0,0,slow,low,clean,C0,P01_MAIN09_MATCH_SOS,1,9,0,0,0,8,2,0,gap_label,1,1,2,0
+duration_baseline,P01_MAIN09_recording_20261015_145914,P01_MAIN09,4U9GA,?GA,0,3,5,18,0,0,slow,low,clean,C0,,0,18,0,0,0,17,2,0,gap_label,1,1,2,0
+rbf_svm,P01_MAIN09_recording_20261015_145914,P01_MAIN09,4U9GA,4?GA,0,2,5,18,0,0,slow,low,clean,C0,,0,18,0,0,0,17,1,0,gap_label,1,1,1,0
+random_forest,P01_MAIN09_recording_20261015_145914,P01_MAIN09,4U9GA,?GA,0,3,5,18,0,0,slow,low,clean,C0,,0,18,0,0,0,17,2,0,gap_label,1,1,2,0
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_145914,P01_MAIN09,4U9GA,4?GA,0,2,5,18,0,0,slow,low,clean,C0,,0,18,0,0,0,17,1,0,gap_label,1,1,1,0
+logistic_regression,P01_MAIN09_recording_20261015_150503,P01_MAIN09,TEST CODE,TEDT CODE,0,1,9,17,0,0,slow,medium,clean,C1,,0,17,0,0,1,16,0,0,pulse_label,0,1,0,0
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_150816,P01_MAIN09,D,TI,0,2,1,3,0,0,slow,high,clean,C2,,0,3,0,0,0,2,1,0,gap_label,0,1,0,1
+duration_baseline,P01_MAIN09_recording_20261015_150833,P01_MAIN09,M,TT,0,2,1,2,0,0,slow,high,clean,C2,,0,2,0,0,0,1,1,0,gap_label,0,1,0,1
+logistic_regression,P01_MAIN09_recording_20261015_150833,P01_MAIN09,M,TT,0,2,1,2,0,0,slow,high,clean,C2,,0,2,0,0,0,1,1,0,gap_label,0,1,0,1
+rbf_svm,P01_MAIN09_recording_20261015_150833,P01_MAIN09,M,TT,0,2,1,2,0,0,slow,high,clean,C2,,0,2,0,0,0,1,1,0,gap_label,0,1,0,1
+random_forest,P01_MAIN09_recording_20261015_150833,P01_MAIN09,M,TT,0,2,1,2,0,0,slow,high,clean,C2,,0,2,0,0,0,1,1,0,gap_label,0,1,0,1
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_150833,P01_MAIN09,M,TT,0,2,1,2,0,0,slow,high,clean,C2,,0,2,0,0,0,1,1,0,gap_label,0,1,0,1
+duration_baseline,P01_MAIN09_recording_20261015_150846,P01_MAIN09,4,HT,0,2,1,5,0,0,slow,high,clean,C2,,0,5,0,0,0,4,1,0,gap_label,0,1,0,1
+logistic_regression,P01_MAIN09_recording_20261015_150846,P01_MAIN09,4,HT,0,2,1,5,0,0,slow,high,clean,C2,,0,5,0,0,0,4,1,0,gap_label,0,1,0,1
+rbf_svm,P01_MAIN09_recording_20261015_150846,P01_MAIN09,4,HT,0,2,1,5,0,0,slow,high,clean,C2,,0,5,0,0,0,4,1,0,gap_label,0,1,0,1
+random_forest,P01_MAIN09_recording_20261015_150846,P01_MAIN09,4,HT,0,2,1,5,0,0,slow,high,clean,C2,,0,5,0,0,0,4,1,0,gap_label,0,1,0,1
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_150846,P01_MAIN09,4,HT,0,2,1,5,0,0,slow,high,clean,C2,,0,5,0,0,0,4,1,0,gap_label,0,1,0,1
+duration_baseline,P01_MAIN09_recording_20261015_150958,P01_MAIN09,SIGNAL,SIGN?,0,2,6,16,0,0,slow,high,clean,C2,,0,16,0,0,0,15,1,0,gap_label,1,1,1,0
+duration_baseline,P01_MAIN09_recording_20261015_151922,P01_MAIN09,7K3M,MS?M,0,3,4,15,0,0,normal,medium,table_tap,C4,P01_MAIN09_MATCH_7K3M,1,15,0,0,0,14,2,0,gap_label,1,3,0,0
+logistic_regression,P01_MAIN09_recording_20261015_151922,P01_MAIN09,7K3M,MSK3M,0,2,4,15,0,0,normal,medium,table_tap,C4,P01_MAIN09_MATCH_7K3M,1,15,0,0,0,14,1,0,gap_label,0,1,0,1
+rbf_svm,P01_MAIN09_recording_20261015_151922,P01_MAIN09,7K3M,MSK3M,0,2,4,15,0,0,normal,medium,table_tap,C4,P01_MAIN09_MATCH_7K3M,1,15,0,0,0,14,1,0,gap_label,0,1,0,1
+random_forest,P01_MAIN09_recording_20261015_151922,P01_MAIN09,7K3M,MS?M,0,3,4,15,0,0,normal,medium,table_tap,C4,P01_MAIN09_MATCH_7K3M,1,15,0,0,0,14,2,0,gap_label,1,3,0,0
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_151922,P01_MAIN09,7K3M,MSK3M,0,2,4,15,0,0,normal,medium,table_tap,C4,P01_MAIN09_MATCH_7K3M,1,15,0,0,0,14,1,0,gap_label,0,1,0,1
+duration_baseline,P01_MAIN09_recording_20261015_152431,P01_MAIN09,D6T1Z,N6T1Z,0,1,5,17,0,1,fast,low,clean,C6,,0,17,1,0,0,15,0,1,detection,0,1,0,0
+logistic_regression,P01_MAIN09_recording_20261015_152431,P01_MAIN09,D6T1Z,N6T1Z,0,1,5,17,0,1,fast,low,clean,C6,,0,17,1,0,0,15,0,1,detection,0,1,0,0
+rbf_svm,P01_MAIN09_recording_20261015_152431,P01_MAIN09,D6T1Z,N6T1Z,0,1,5,17,0,1,fast,low,clean,C6,,0,17,1,0,0,15,0,1,detection,0,1,0,0
+random_forest,P01_MAIN09_recording_20261015_152431,P01_MAIN09,D6T1Z,N6T1Z,0,1,5,17,0,1,fast,low,clean,C6,,0,17,1,0,0,15,0,1,detection,0,1,0,0
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_152431,P01_MAIN09,D6T1Z,N6T1Z,0,1,5,17,0,1,fast,low,clean,C6,,0,17,1,0,0,15,0,1,detection,0,1,0,0
+duration_baseline,P01_MAIN09_recording_20261015_152519,P01_MAIN09,Q,GT,0,2,1,4,0,0,fast,low,clean,C6,,0,4,0,0,0,3,1,0,gap_label,0,1,0,1
+logistic_regression,P01_MAIN09_recording_20261015_152519,P01_MAIN09,Q,GT,0,2,1,4,0,0,fast,low,clean,C6,,0,4,0,0,0,3,1,0,gap_label,0,1,0,1
+rbf_svm,P01_MAIN09_recording_20261015_152519,P01_MAIN09,Q,GT,0,2,1,4,0,0,fast,low,clean,C6,,0,4,0,0,0,3,1,0,gap_label,0,1,0,1
+random_forest,P01_MAIN09_recording_20261015_152519,P01_MAIN09,Q,GT,0,2,1,4,0,0,fast,low,clean,C6,,0,4,0,0,0,3,1,0,gap_label,0,1,0,1
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_152519,P01_MAIN09,Q,TNT,0,3,1,4,0,0,fast,low,clean,C6,,0,4,0,0,0,3,2,0,gap_label,0,1,0,2
+duration_baseline,P01_MAIN09_recording_20261015_153000,P01_MAIN09,SOS,S?,0,2,3,9,0,0,fast,high,clean,C8,,0,9,0,0,0,8,1,0,gap_label,1,1,1,0
+random_forest,P01_MAIN09_recording_20261015_153000,P01_MAIN09,SOS,S?,0,2,3,9,0,0,fast,high,clean,C8,,0,9,0,0,0,8,1,0,gap_label,1,1,1,0
+rbf_svm_enriched_z,P01_MAIN09_recording_20261015_153000,P01_MAIN09,SOS,?S,0,2,3,9,0,0,fast,high,clean,C8,,0,9,0,0,0,8,1,0,gap_label,1,1,1,0
