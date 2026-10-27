@@ -1,0 +1,354 @@
+[
+  {
+    "capture_id": "P01_MAIN08_recording_20261015_141537",
+    "title": "Pulse labels",
+    "target": "0",
+    "prediction": "5",
+    "speed": "fast",
+    "strength": "low",
+    "reference_intervals": [
+      [
+        1.706986,
+        1.927925
+      ],
+      [
+        2.184047,
+        2.442755
+      ],
+      [
+        2.635785,
+        2.907848
+      ],
+      [
+        3.114031,
+        3.361803
+      ],
+      [
+        3.611941,
+        3.889812
+      ]
+    ],
+    "events": [
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN08_recording_20261015_141537",
+        "pulse_index": "1",
+        "start_s": "1.6909733811524608",
+        "end_s": "1.9285180450180073",
+        "symbol": ".",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN08_recording_20261015_141537",
+        "pulse_index": "2",
+        "start_s": "2.184370740096038",
+        "end_s": "2.439922606842737",
+        "symbol": ".",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN08_recording_20261015_141537",
+        "pulse_index": "3",
+        "start_s": "2.6213455300120048",
+        "end_s": "2.896105079831933",
+        "symbol": ".",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN08_recording_20261015_141537",
+        "pulse_index": "4",
+        "start_s": "3.101537606842737",
+        "end_s": "3.341483231092437",
+        "symbol": ".",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN08_recording_20261015_141537",
+        "pulse_index": "5",
+        "start_s": "3.605739287515006",
+        "end_s": "3.8696945156062426",
+        "symbol": ".",
+        "following_gap": "end"
+      }
+    ]
+  },
+  {
+    "capture_id": "P01_MAIN09_recording_20261015_150833",
+    "title": "Gap label",
+    "target": "M",
+    "prediction": "TT",
+    "speed": "slow",
+    "strength": "high",
+    "reference_intervals": [
+      [
+        1.579195,
+        2.146159
+      ],
+      [
+        2.780986,
+        3.405134
+      ]
+    ],
+    "events": [
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_150833",
+        "pulse_index": "1",
+        "start_s": "1.5817296836734691",
+        "end_s": "2.1626116824729893",
+        "symbol": "-",
+        "following_gap": "character"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_150833",
+        "pulse_index": "2",
+        "start_s": "2.7822098757502998",
+        "end_s": "3.421915403961585",
+        "symbol": "-",
+        "following_gap": "end"
+      }
+    ]
+  },
+  {
+    "capture_id": "P01_MAIN09_recording_20261015_152431",
+    "title": "Unmatched reference pulse",
+    "target": "D6T1Z",
+    "prediction": "N6T1Z",
+    "speed": "fast",
+    "strength": "low",
+    "reference_intervals": [
+      [
+        1.260927,
+        1.577835
+      ],
+      [
+        1.699227,
+        1.806037
+      ],
+      [
+        1.920139,
+        2.014931
+      ],
+      [
+        2.553877,
+        2.91819
+      ],
+      [
+        3.074931,
+        3.19252
+      ],
+      [
+        3.32249,
+        3.448637
+      ],
+      [
+        3.588256,
+        3.724238
+      ],
+      [
+        3.896841,
+        4.026528
+      ],
+      [
+        4.537823,
+        5.093879
+      ],
+      [
+        5.753008,
+        5.858712
+      ],
+      [
+        6.047007,
+        6.443972
+      ],
+      [
+        6.681899,
+        7.095787
+      ],
+      [
+        7.33258,
+        7.781836
+      ],
+      [
+        7.991843,
+        8.376808
+      ],
+      [
+        9.122143,
+        9.556842
+      ],
+      [
+        9.752273,
+        10.174774
+      ],
+      [
+        10.334958,
+        10.48319
+      ],
+      [
+        10.707802,
+        10.844849
+      ]
+    ],
+    "events": [
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "1",
+        "start_s": "1.2371918685474188",
+        "end_s": "1.8252767484993997",
+        "symbol": "-",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "2",
+        "start_s": "1.9202650978391353",
+        "end_s": "1.993343975390156",
+        "symbol": ".",
+        "following_gap": "character"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "3",
+        "start_s": "2.5529181590636254",
+        "end_s": "2.9201146836734693",
+        "symbol": "-",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "4",
+        "start_s": "3.05111743877551",
+        "end_s": "3.195024647659064",
+        "symbol": ".",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "5",
+        "start_s": "3.321225481992797",
+        "end_s": "3.445925007803121",
+        "symbol": ".",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "6",
+        "start_s": "3.5853311242496995",
+        "end_s": "3.7052287292917168",
+        "symbol": ".",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "7",
+        "start_s": "3.896255493997599",
+        "end_s": "4.0221555",
+        "symbol": ".",
+        "following_gap": "character"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "8",
+        "start_s": "4.522906154261705",
+        "end_s": "5.145804959783914",
+        "symbol": "-",
+        "following_gap": "character"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "9",
+        "start_s": "5.7365916284513805",
+        "end_s": "5.858890193877551",
+        "symbol": ".",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "10",
+        "start_s": "6.022305914165666",
+        "end_s": "6.4867413343337335",
+        "symbol": "-",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "11",
+        "start_s": "6.681369539615846",
+        "end_s": "7.077377588835534",
+        "symbol": "-",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "12",
+        "start_s": "7.332029803721488",
+        "end_s": "7.776057060624249",
+        "symbol": "-",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "13",
+        "start_s": "7.963482384753902",
+        "end_s": "8.37869811704682",
+        "symbol": "-",
+        "following_gap": "character"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "14",
+        "start_s": "9.109940968187274",
+        "end_s": "9.553968225090035",
+        "symbol": "-",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "15",
+        "start_s": "9.74019306902761",
+        "end_s": "10.160210722088834",
+        "symbol": "-",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "16",
+        "start_s": "10.33563124429772",
+        "end_s": "10.485540854141657",
+        "symbol": ".",
+        "following_gap": "element"
+      },
+      {
+        "method": "rbf_svm",
+        "capture_id": "P01_MAIN09_recording_20261015_152431",
+        "pulse_index": "17",
+        "start_s": "10.69097338115246",
+        "end_s": "10.826477228691477",
+        "symbol": ".",
+        "following_gap": "end"
+      }
+    ]
+  }
+]

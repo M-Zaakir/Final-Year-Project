@@ -1,0 +1,56 @@
+{
+  "tables": [
+    {
+      "snapshot": "data/development_cv.csv",
+      "source": "morse_cv/MorseCV/grouped_cv_summary.csv",
+      "sha256": "9f82e9fe271cc0eef68baa75397ae94171f7e4f18784c07ade9239acd0c8615c"
+    },
+    {
+      "snapshot": "data/development_validation.csv",
+      "source": "morse_ml/MorseML/validation_comparison.csv",
+      "sha256": "efdf73fd5d59eba77df47e03faa25ddcbd85dc3e3189dc676b795ed11045881e"
+    },
+    {
+      "snapshot": "data/channel_comparison.csv",
+      "source": "morse_channels/MorseChannels/channel_comparison.csv",
+      "sha256": "a6d5ee4701cdfba8ada80ffa1800954af370b264aaa21a34df678b608c7538e4"
+    },
+    {
+      "snapshot": "data/final_comparison.csv",
+      "source": "error_analysis_input/MorseFinal_Local/test_comparison.csv",
+      "sha256": "2be3574741eaa6ea7d9b11eef5311840cc2681d6e80bd0b8f90697e0fe7e7dcc"
+    },
+    {
+      "snapshot": "data/final_breakdown.csv",
+      "source": "error_analysis_input/MorseFinal_Local/test_breakdown.csv",
+      "sha256": "70e2c54be2df7caad8aea19b18276513c745f9f4ae1e69071a18b6e875717cb9"
+    },
+    {
+      "snapshot": "data/event_confusion.csv",
+      "source": "morse_errors/MorseErrors/event_confusion.csv",
+      "sha256": "9bdecfefd37cde5c27a6ef1db4a5784aefd4c0d8f08680caa91ebf177186e99f"
+    },
+    {
+      "snapshot": "data/error_summary.csv",
+      "source": "morse_errors/MorseErrors/error_summary.csv",
+      "sha256": "07c0b39ae4305f2d878092ec2cfe172bb8472e642d67cfdfc296a03d11d893e9"
+    },
+    {
+      "snapshot": "data/failure_categories.csv",
+      "source": "morse_errors/MorseErrors/failure_categories.csv",
+      "sha256": "140bfbc763551f67a3e081a1ad94f74a27bc661d68b7a56d4b30810a3ab8b36b"
+    },
+    {
+      "snapshot": "data/paired_noise_summary.csv",
+      "source": "morse_errors/MorseErrors/paired_noise_summary.csv",
+      "sha256": "0998dc938076f3b84ec75f2ab0a47c03a78e1452ebb36b2821cc6148e9efd857"
+    }
+  ],
+  "final_source": "Uploaded MorseFinal_Local.zip; verified completion checksums",
+  "development_source": "Archived development computations, not independently supplied local development reports",
+  "development_environment": "scikit-learn 1.8.0, numpy 2.3.5",
+  "local_final_environment": "scikit-learn 1.9.1, numpy 2.5.4",
+  "scope": "No retraining or changes to final predictions",
+  "derived_examples": "Three timestamp-interpolated, baseline-centred Z envelopes using the frozen preprocessing config; reference intervals and saved model outputs. Display only; no new inference.",
+  "preview_pages": 9
+}
